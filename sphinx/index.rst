@@ -19,4 +19,8 @@ PyCon APAC 2013 に向けて
 
 皆様の参加をお待ちしております。
 
-
+ミーティング議事録
+------------------
+- `20121106 PyCon APAC mtg#1 議事録 <https://docs.google.com/document/d/1_JtKH_qTbe2Zli1Savz4xWVAiGkXugFtGPeG6A2PRFw/edit>`_
+- `20121203 PyCon APAC mtg#2 議事録 <https://docs.google.com/document/d/1hWOLIlZLYczycU7ik6QiZYlnZe9qjP0NAXuuc8ckeTo/edit>`_
+- `20130116 PyCon APAC mtg#3 議事録 <https://docs.google.com/document/d/1DUoGzUYtGRPxjevOEKlovJM0iewkBpNK8vJxWkczruk/edit>`_
