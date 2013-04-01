@@ -25,3 +25,4 @@ PyCon APAC 2013 に向けて
 - `20121203 PyCon APAC mtg#2 議事録 <https://docs.google.com/document/d/1hWOLIlZLYczycU7ik6QiZYlnZe9qjP0NAXuuc8ckeTo/edit>`_
 - `20130116 PyCon APAC mtg#3 議事録 <https://docs.google.com/document/d/1DUoGzUYtGRPxjevOEKlovJM0iewkBpNK8vJxWkczruk/edit>`_
 - `20130219 PyCon APAC mtg#4 議事録 <https://docs.google.com/document/d/1SFFPnyM_eStigry_FhP0bT-eImSgyIjGSDpHDUou5bw/edit>`_
+- `20130327 PyCon APAC mtg#5 議事録 <https://docs.google.com/document/d/1OH3OtsHlL3SWJAyNoW3mDfAEEnunjkvyCAFdEv604sI/edit>`_
