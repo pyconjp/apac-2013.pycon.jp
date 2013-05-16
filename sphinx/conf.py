@@ -25,7 +25,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = []
+extensions = ['sphinxcontrib.twitter']
 try:
     import sphinxcontrib.feed
     extensions.append('sphinxcontrib.feed')
