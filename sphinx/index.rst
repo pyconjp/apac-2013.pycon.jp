@@ -6,6 +6,16 @@
 PyCon APAC 2013
 ===============
 
+.. toctree::
+
+   ja/index
+   about/index
+   events/index
+   speakers/index
+   registration/index
+   sponsors/index
+   venue/index
+
 PyCon APAC 2013 に向けて
 ------------------------
 
