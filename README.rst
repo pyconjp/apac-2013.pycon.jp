@@ -43,7 +43,8 @@ buildout を使うと何も考えずにビルドできるので楽です。
 
    $ # リポジトリのルートにいるとして
    $ cd sphinx
-   $ buildout
+   $ python bootstrap.py
+   $ bin/buildout
    $ bin/make-docs
 
 .. 自力でがんばる
