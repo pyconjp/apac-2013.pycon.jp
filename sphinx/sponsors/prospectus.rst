@@ -6,8 +6,9 @@ The available sponsorships are below. Don't see what you want? Contact us any ti
 
 Contact:
 ========
-- Name: Kazufumi Kiyota
+- Name: Fumikazu Kiyota
 - Email: sponsor@pycon.jp
+
 
 Details
 =======
@@ -37,79 +38,37 @@ Performance of `PyCon JP 2012 <http://2012.pycon.jp/en/>`_ is as follows:
 Sponsorship Packages
 ====================
 
-Platinum Level Sponsorship — 500,000 JPY(Limit: 2)
+Platinum Level Sponsorship — 500,000 JPY(Limited)
 ---------------------------------------------------
-- Full page color ad in PyCon APAC program guide
-- 200 word description in PyCon APAC program guide
-- Tote bag insert (provided by sponsor)
 - Platinum sponsor link on PyCon APAC website
+- Your description on PyCon APAC website
+- Your logo in PyCon APAC program guide
+- Tote bag insert (provided by sponsor)
 - Name included in press release
-- Job listing on the PyCon APAC Jobs Fair page
-- 10 free sponsor registrations
+- 5 free sponsor registrations
 
-.. - 12x2 banner (if provided) in all conference room
-   - 4x8 banner (if provided) in convention entrance area
-   - Access to recruiting session
 
 Gold Level Sponsorship — 300,000 JPY
 -------------------------------------
-- 1/2 page color ad in PyCon APAC program guide
-- 100 word description in PyCon APAC program guide
-- Tote bag insert (provided by sponsor)
 - Gold sponsor link on PyCon APAC website
+- Your description on PyCon APAC website
+- Your logo in PyCon APAC program guide
+- Tote bag insert (provided by sponsor)
 - Name included in press release
-- Job listing on the PyCon APAC Jobs Fair page
-- 5 free sponsor registrations
+- 3 free sponsor registrations
 
-.. - 12x2 banner (if provided) in all conference room
-   - Access to recruiting session
 
 Silver Level Sponsorship — 100,000 JPY
 ---------------------------------------
-- 1/4 page color ad in PyCon APAC program guide
-- 50 word description in PyCon APAC program guide
+- Gold sponsor link on PyCon APAC website
+- Your description on PyCon APAC website
+- Your logo in PyCon APAC program guide
 - Tote bag insert (provided by sponsor)
-- Silver sponsor link on PyCon website
 - Name included in press release
-- Job listing on the PyCon APAC Jobs Fair page
-- 2 free sponsor registrations
+- 1 free sponsor registrations
 
-.. - Access to recruiting session
-
-PyCon APAC Patron — 25,000 JPY (For individuals and start-up businesses)
------------------------------------------------------------------------
-.. 金額を変える?
-
-- Listing in PyCon APAC program guide
-- Patron link on Sponsors page
-- 1 free sponsor registration
-
-For more information, please refer to “PyCon APAC Patron Sponsorship”.
-
-Sprint Sponsorship — 100,000 JPY
----------------------------------
-
-- Logo placement in PyCon APAC program guide
-- Supports Python development
-- Sprint sponsor link on PyCon APAC website
-- 3 free sponsor registrations
-- Can be added to other packages
-
-Lanyard sponsorship (100,000 JPY + cost of lanyard)
----------------------------------------------------
-
-- Provides wide recognition during PyCon APAC
-- Logo and text on lanyard
-- 2 free sponsor registrations
-- Can be added to other packages
 
 Media sponsorship (Please contact us)
 -------------------------------------
 - Recognition on PyCon APAC site
 - One free sponsor registration
-
-Do you want to sponsor? Contact us!
-===================================
-Write an email to sponsor@pycon.jp to get more information about our sponsorhip deals.
-
-.. スポンサー募集フォームとかあってもいいかも。
