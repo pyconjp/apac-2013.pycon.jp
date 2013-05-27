@@ -10,7 +10,7 @@
    :header-rows: 1
    :stub-columns: 1
 
-   * - 役職
+   * - 
      - 氏名
      - Twitter
      - Facebook
@@ -24,7 +24,7 @@
      -
    * -
      - 竹内 陽児
-     - :tw:`@ytakeuchi`
+     - :tw:`@ytakeuch`
      -
    * - 会計
      - 清水川 貴之
@@ -34,63 +34,66 @@
      - 畠 弥峰
      - :tw:`@flag_boy`
      - `hata.hirotaka <http://www.facebook.com/hata.hirotaka>`_
+   * -
+     - 川田 裕貴
+     - :tw:`@hktechno`
+     - `hktechno <http://www.facebook.com/hktechno>`_
    * - スポンサー
      - 清田 史和
      - :tw:`@kiyotaman`
      -
-   * - 会計
-     - Iqbal Abdullah
-     - `@iqbalabd <http://twitter.com/iqbalabd>`_
-     - `iqbal.b.abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - 事務局
      - 鈴木 たかのり
      - :tw:`@takanory`
      - `takanory.net <http://www.facebook.com/takanory.net>`_
-
-   * - 事務局
-     - 松崎 啓治
-     - `@xga <http://twitter.com/xga>`_
-     - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
    * -
-     - いながき たけし
+     - 松崎 啓治
+     - :tw:`@xga`
+     - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
+   * - 会場
+     - 若林 伴典
      -
+     - `tomonori.wakabayashi.81 <http://www.facebook.com/tomonori.wakabayashi.81>`_
+   * -
+     - 田中 輝雄
+     -
+     -
+   * -
+     - 北原
+     - :tw:`@Surgo`
+     - `Surgo <http://www.facebook.com/Surgo>`_
+   * -
+     - ナツ
+     - :tw:`@natsu_bm`
      -
    * - 渉外
      - Ian Lewis
-     - `@IanMLewis <http://twitter.com/ianmlewis>`_
+     - :tw:`@IanMLewis`
      - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
-   * - 会場
-     - ナツ
-     - `@natsu_bm <https://twitter.com/natsu_bm>`_
+   * - 広報
+     - 筒井 隆次
+     - :tw:`@ryu22e`
+     - `ryu22e <http://www.facebook.com/ryu22e>`_
+   * - 飲食
+     - 中村 智洋
      -
-   * -
+     -
+   * - Webシステム
      - 小坂 健二郎
-     - `@inoshiro <https://twitter.com/inoshiro>`_
+     - :tw:`@inoshiro`
      - `kenjiro.kosaka <http://www.facebook.com/kenjiro.kosaka>`_
-   * -
-     - 土屋 陽介
-     -
-     - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
-   * -
-     - 池 徹
-     -
-     -
-   * -
-     - 薄井 敏臣
-     -
-     -
    * - デザイン
      - 木下 文史
-     - `@kinofumi <https://twitter.com/kinofumi>`_
+     - :tw:`@kinofumi`
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - スプリント
+   * - 実行委員
      - 今津 りこ
-     - `@RicoImazu <https://twitter.com/RicoImazu>`_
+     - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
-   * - 受付
-     - 吉田 昂平
-     - `@yosida95 <https://twitter.com/yosida95>`_
-     - `yosida95 <http://www.facebook.com/yosida95>`_
+   * -
+     - 神谷 亮一郎
+     - :tw:`@ryokamiya`
+     - `ryoichiro.kamiya <http://www.facebook.com/ryoichiro.kamiya>`_
 
 運営スタッフに興味がある方へ
 ============================
