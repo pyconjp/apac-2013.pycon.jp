@@ -7,6 +7,7 @@ PyCon APAC 2013
 ===============
 
 .. toctree::
+   :maxdepth: 1
 
    ja/index
    about/index
