@@ -9,7 +9,7 @@
 
 * 住所: 〒163-8677　新宿区西新宿1-24-2 (`Google Maps <https://maps.google.com/maps?q=Kogakuin+University,+Shinjuku,+Tokyo,+Japan&hl=en&sll=35.675779,139.695548&sspn=0.048806,0.056906&oq=kogakuin&hq=Kogakuin+University,&hnear=Shinjuku,+Tokyo,+Japan&t=m&z=16>`_)
 
-TODO: add details of floors/rooms
+.. TODO: add details of floors/rooms
 
 会場までのアクセス
 ==============================

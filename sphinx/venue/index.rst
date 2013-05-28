@@ -9,7 +9,7 @@ Kogakuin University Shinjuku Campus (工学院大学　新宿キャンパス)
 
 * Address: 1-24-2 Nishi-shinjuku, Shinjuku-ku, Tokyo, 163-8677, Japan (`Google Maps <https://maps.google.com/maps?q=Kogakuin+University,+Shinjuku,+Tokyo,+Japan&hl=en&sll=35.675779,139.695548&sspn=0.048806,0.056906&oq=kogakuin&hq=Kogakuin+University,&hnear=Shinjuku,+Tokyo,+Japan&t=m&z=16>`_)
 
-TODO: add details of floors/rooms
+.. TODO: add details of floors/rooms
 
 
 Map and Directions
