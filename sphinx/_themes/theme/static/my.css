@@ -1,0 +1,18 @@
+@import url("basic.css");
+@import url("haiku.css");
+
+html
+{
+  background-image: none !important;
+}
+
+div.header h2
+{
+  text-transform: none;
+}
+
+div.topnav
+{
+  background: #eeeeee;
+}
+
