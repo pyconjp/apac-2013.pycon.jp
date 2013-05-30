@@ -26,11 +26,11 @@ Staff
      - Yoji Takeuchi
      - :tw:`@ytakeuch`
      -
-   * - Account
+   * - Treasurer
      - Takayuki Shimizukawa
      - :tw:`@shimizukawa`
      - `shimizukawa <http://www.facebook.com/shimizukawa>`_
-   * - Probram
+   * - Program Management
      - Hirotaka Hata
      - :tw:`@flag_boy`
      - `hata.hirotaka <http://www.facebook.com/hata.hirotaka>`_
@@ -38,11 +38,11 @@ Staff
      - Hirotaka Kawata
      - :tw:`@hktechno`
      - `hktechno <http://www.facebook.com/hktechno>`_
-   * - Sponsorship
+   * - Sponsorship Management
      - Fumikazu Kiyota
      - :tw:`@kiyotaman`
      -
-   * - Secretariat
+   * - Administration
      - Takanori Suzuki
      - :tw:`@takanory`
      - `takanory.net <http://www.facebook.com/takanory.net>`_
@@ -50,7 +50,7 @@ Staff
      - Keiji Matsuzaki
      - :tw:`@xga`
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
-   * - Site
+   * - Venue Management
      - Tomonori Wakabayashi
      -
      - `tomonori.wakabayashi.81 <http://www.facebook.com/tomonori.wakabayashi.81>`_
@@ -70,11 +70,11 @@ Staff
      - Ian Lewis
      - :tw:`@IanMLewis`
      - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
-   * - Publicity
+   * - Public Relations
      - Ryuji Tsutsui
      - :tw:`@ryu22e`
      - `ryu22e <http://www.facebook.com/ryu22e>`_
-   * - Food and drink
+   * - Catering
      - Tomohiro Nakamura
      -
      -
@@ -86,7 +86,7 @@ Staff
      - Fumichika Kinoshita
      - :tw:`@kinofumi`
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - Volunteer
+   * - Committee Members
      - Riko Imazu
      - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
