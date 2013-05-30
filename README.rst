@@ -45,7 +45,8 @@ buildout を使うと何も考えずにビルドできるので楽です。
    $ cd sphinx
    $ python bootstrap.py
    $ bin/buildout
-   $ bin/make-docs
+   $ export PATH=$PATH:`pwd`/bin
+   $ make html
 
 .. 自力でがんばる
    --------------
