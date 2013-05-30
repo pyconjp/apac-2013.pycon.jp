@@ -2,7 +2,8 @@
 About PyCon APAC 2013
 ==============================
 
-* Objective
+
+Objective
 ============
 
 PyCon is a dedicated conference for Python users to meet, exchange the developments around Python and Python softwares, and network with the people with the same soul. All Pythonians in region get together to know more about various domains and meet people with diverse experience.
@@ -15,7 +16,8 @@ Also we are glad to announce that we are arranging tutorial-based sessions with 
 We'll post updates once we confirm the details.
 
 
-* Details
+
+Details
 ==========
 
 The summary of event details as below. We'll post updates once furthe details confirmed.
@@ -44,10 +46,11 @@ The summary of event details as below. We'll post updates once furthe details co
      - 2013@pycon.jp
 
 
-* About Organizers
+
+About Organizers
 ===================
 
-`PyCon JP Organizing Commitee`_ organizes the 2013 event of PyCon APAC 2013.
+`PyCon JP Organizing Committee`_ organizes the 2013 event of PyCon APAC 2013.
 
 .. list-table::
 
@@ -64,6 +67,7 @@ The summary of event details as below. We'll post updates once furthe details co
 
 
 Refer to :doc:`staff` about the team and meeting minutes archive.
+
 
 
 * Other Information
