@@ -6,29 +6,29 @@ About PyCon APAC 2013
 Objective
 ============
 
-PyCon is a dedicated conference for Python users to meet, exchange the
-developments around Python and Python softwares, and network with the people
-with the same soul. All Pythonians in region get together to know more about
-various domains and meet people with diverse experience.
+PyCon is a conference where Python users can meet and talk about the
+developments around Python and the Python community.  All Pythonistas in the
+region get together to know more about various domains and meet people with
+diverse experience.
 
-PyCon APAC counts as the forth this year. The last three events were hosted in
-Singapore, and it is our honor to host this year's as the first time in Japan.
+In 2013 we will host the 4th annual PyCon Asia Pacific (APAC). The first three
+events were hosted in Singapore, and it is our honor to host this year's event
+for the first time in Japan.
 
-" **The Year of Python** " - this is the campaign slogan for PyCon APAC 2013.
-We strive to provide interactive session where everyone meets everyone else as
-we did at PyCon JP 2012. With the expanding scope to the usual PyCon JP, we are
-also inviting international spearkers and adding additional English session to
-provide a true region-wide conference experience.
+" **The Year of Python** " will be the theme for PyCon APAC 2013. The PyCon JP
+team is organizing this year's PyCon APAC but we will strive to provide
+interactive sessions where everyone can meet up with each other just as we had
+in previous PyCon JP events. With the expanding scope to the usual PyCon JP, we
+are also inviting more international spearkers and adding additional English
+sessions to provide a true region-wide conference experience.
 
-Also we are glad to announce that we are arranging tutorial-based sessions with
+We are also glad to announce that we are arranging tutorial-based sessions with
 some charge.  We'll post updates once we confirm the details.
-
-
 
 Details
 ==========
 
-The summary of event details as below. We'll post updates once furthe details
+The summary of event details as below. We'll post updates once further details
 confirmed.
 
 .. list-table::
@@ -59,7 +59,7 @@ confirmed.
 About Organizers
 ===================
 
-`PyCon JP Organizing Committee`_ organizes the 2013 event of PyCon APAC 2013.
+PyCon APAC 2013 is being organized by the `PyCon JP Organizing Committee`_.
 
 .. list-table::
 
