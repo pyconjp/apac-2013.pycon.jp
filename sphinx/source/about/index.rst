@@ -10,7 +10,7 @@ PyCon is a dedicated conference for Python users to meet, exchange the developme
 
 PyCon APAC counts as the forth this year. The last three events were hosted in Singapore, and it is our honor to host this year's as the first time in Japan.
 
-" **The Year of Python** " - this is the campaign slogan for PyCon APAC 2013. We strive to provide intereactive session where everyone meets everyone else as we did at PyCon JP 2012. With the expanding scope to the usual PyCon JP, we are also inviting international spearkers and adding additional English session to provide a true region-wide conference experience.
+" **The Year of Python** " - this is the campaign slogan for PyCon APAC 2013. We strive to provide interactive session where everyone meets everyone else as we did at PyCon JP 2012. With the expanding scope to the usual PyCon JP, we are also inviting international spearkers and adding additional English session to provide a true region-wide conference experience.
 
 Also we are glad to announce that we are arranging tutorial-based sessions with some charge.
 We'll post updates once we confirm the details.
