@@ -1,0 +1,16 @@
+#header,
+#navi,
+#ej-selector,
+#rss {
+	display: none;
+}
+
+#participants-index #content .section,
+#en-participants-index #content .section {
+	width: auto;
+}
+
+#participants-index #content #sidebar,
+#en-participants-index #content #sidebar {
+	display: none;
+}

@@ -1,10 +1,117 @@
-<!doctype html>
-<html>
+{% macro get_pagename_without_lang() -%}
+    {#
+        get_pagename_without_lang()  #'index.html' では 'index' を返します
+        get_pagename_without_lang()  #'ja/index.html' では 'index' を返します
+        get_pagename_without_lang()  #'ja/foo/index.html' では 'foo/index' を返します
+    #}
+    {%- set nameslist = pagename.split('/') %}
+    {%- if nameslist[0] == 'ja' %}{{'/'.join(nameslist[1:])}}
+    {%- else %}{{'/'.join(nameslist)}}
+    {%- endif %}
+{%- endmacro %}
+
+{% set pagename2 = get_pagename_without_lang() %}
+
+{% macro _getName(str) -%}
+    {#
+        _getName("")　        自分名前を返します
+        _getName("my")        自分名前を返します
+        _getName("pwd")       自分のいるディレクトリ名を返します
+        _getName("section")   自分のいるページセクション名を返します
+        _getName("lang")      自分のいる言語を返します
+    #}
+
+    {%- set nameslist = pagename.split('/') %}
+    {%- if str == "my" %}{{ '-'.join(nameslist) }}
+    {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
+    {%- elif str == "section" %}section-{{ '-'.join(nameslist) }}
+    {%- elif str == "lang" %}{%- if nameslist[0] == "ja" %}lang-ja{% else %}lang-en{% endif %}
+    {%- else %}{{ nameslist[-1] }}
+    {%- endif %}
+{%- endmacro %}
+
+{%- block doctype %}
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3c.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+{%- endblock doctype %}
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-<meta charset="UTF-8">
-<title>無題ドキュメント</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>{{ title }}</title>
+  <link rel="shortcut icon" href="{{ pathto('_static/favicon.png', 1) }}" />
+  <link rel="stylesheet" href="{{ pathto('_static/cssreset-min.css', 1) }}" type="text/css" />
+  <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" media="all" />
+  <link rel="stylesheet" href="{{ pathto('_static/print.css', 1) }}" type="text/css" media="print" />
 </head>
 
 <body>
+
+{%- block header %}
+  <div id="header">
+
+    <div id="pycon_logo">
+      {%- if _getName('lang') == 'lang-ja' %}
+        <a href="{{ pathto('ja/index') }}">PycCon APAC 2013 in Japan</a>
+      {%- else %}
+        <a href="{{ pathto('index') }}">PycCon APAC 2013 in Japan</a>
+      {%- endif %}
+    </div>
+    
+    <div id="global_nav">
+      {%- if _getName('lang') == 'lang-ja' %}
+        <ul>
+          <li><a href="{{ pathto('ja/about/index') }}" class="program">About</a></li>
+          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('ja/venue/index') }}" class="program">Venue</a></li>
+          <li><a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">Sponsors</a></li>
+        </ul>
+      {%- else %}
+        <ul>
+          <li><a href="{{ pathto('about/index') }}" class="program">About</a></li>
+          <li><a href="{{ pathto('speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('venue/index') }}" class="program">Venue</a></li>
+          <li><a href="{{ pathto('sponsors/prospectus') }}" class="program">Sponsors</a></li>
+        </ul>      
+      {%- endif %}
+    </div>
+     
+    <div id="lang">
+      <a href="{{ pathto('index') }}">en</a> | <a href="{{ pathto('ja/index') }}">ja</a>
+    </div>
+      
+  </div>
+{%- endblock header %}
+
+{%- block body %}
+  <div id="contents">
+    <div id="key_image">
+      {%- if _getName('lang') == 'lang-ja' %}
+        2013年9月14日〜16日<br />
+        工学院大学 新宿キャンパス
+      {%- else %}
+        September 14-16, 2013<br />
+        Kougakuin University Shinjuku campus
+      {%- endif %}
+    </div>
+    {{ body }}
+  </div>
+{%- endblock body %}
+
+{%- block sidebar %}
+  <div id="sidebar">
+    Sponsors
+  </div>
+{%- endblock sidebar %}
+
+{%- block footer %}
+  <div id="footer">
+    &copy;Copyright 2013, PyCon Organizers JP, All right reserved.<br />
+    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b1.
+  </div>
+{%- endblock footer %}
+
 </body>
+
 </html>
