@@ -8,9 +8,7 @@
    :maxdepth: 1
 
    about/index
-   events/index
-   speakers/index
-   registration/index
+   speakers/cfp
    sponsors/prospectus
    venue/index
 
@@ -28,8 +26,21 @@
    * - 6月末
      - 講演内容の受付終了
 
+
+おしらせ
+========
+
+Call for Proposals 開始
+-----------------------
+
+現在 PyCon APAC 2013 運営チームでは、カンファレンスのセッション内容を募集する Call for Proposals を行なっています。
+
+我こそは! という演題をお持ちの方は :doc:`speakers/cfp` をご覧のうえ、是非お申し込みください!
+
+
+
 PyCon APAC 2013 スポンサー募集開始
-==================================
+----------------------------------
 
 現在 PyCon APAC 2013 運営チームでは PyCon APAC 2013 の開催に賛同し、ご支援いただける企業を募集しています。
 
@@ -37,7 +48,7 @@ PyCon APAC 2013 スポンサー募集開始
 
 
 PyCon APAC 2013 運営募集
-========================
+------------------------
 
 現在 PyCon APAC 2013 運営チームでは、 PyCon APAC 2013 の運営に参加してくださる方を募集しています。
 ご協力いただける方は `運営メーリングリスト <http://groups.google.com/group/pycon-organizers-jp>`_ に運営参加の旨を書いていただくとスムーズです。
