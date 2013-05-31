@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*IE6,IE7*/
+
+#side-navi, #top-navi,
+#content .section h1,
+#content .caption.container, {
+ position: expression('absolute');
+ left: expression((documentElement.scrollLeft || document.body.scrollLeft) + 0 + 'px');
+}
+
+
