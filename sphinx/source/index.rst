@@ -10,7 +10,7 @@ PyCon APAC 2013
    :maxdepth: 1
 
    about/index
-   sponsors/index
+   sponsors/prospectus
    venue/index
 
 
@@ -32,4 +32,4 @@ Schedule
 
    現在 PyCon APAC 2013 運営チームでは PyCon APAC 2013 の開催に賛同し、ご支援いただける企業を募集しています。
 
-   スポンサーについての詳細は :doc:`sponsors/index` をご覧ください。
+   スポンサーについての詳細は :doc:`sponsors/prospectus` をご覧ください。
