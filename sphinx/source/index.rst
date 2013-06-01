@@ -1,10 +1,8 @@
-.. PyCon APAC 2013 documentation master file, created by
-   sphinx-quickstart on Sat Nov 17 13:59:03 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-PyCon APAC 2013
-===============
+=================
+ PyCon APAC 2013
+=================
+
 
 .. toctree::
    :maxdepth: 1
@@ -15,22 +13,40 @@ PyCon APAC 2013
    venue/index
 
 
-Schedule
---------
+Upcoming Milestones
+====================
 
 .. list-table::
    :widths: 20 80
 
-   * - Early June
-     - Call for Proposals open, Sponsorship Packages open
-   * - middle of June
-     - Ticket open
-   * - end of June
-     - Deadline of Call for Proposals
+   * - early June
+     - Call for Proposal and Sponsorship Application starts
+   * - mid June
+     - Ticket Sales starts
+   * - end June
+     - Call for Proposal ends
 
-.. PyCon APAC 2013 スポンサー募集開始
-   ----------------------------------
 
-   現在 PyCon APAC 2013 運営チームでは PyCon APAC 2013 の開催に賛同し、ご支援いただける企業を募集しています。
+Updates
+========
 
-   スポンサーについての詳細は :doc:`sponsors/prospectus` をご覧ください。
+Call for Proposals
+--------------------------
+
+We are glad to announce that we are now inviting for proposals for talks at the PyCon APAC 2013. If you have anything you would like to share with the rest of Pythonians, please apply  from :doc:`speakers/cfp` page!
+
+
+Sponsoring
+----------------------------------
+
+We would like to invite sponsors to support the PyCon APAC 2013 event, the premier Python community event in our region. The details of the sponsorships program can be found at :doc:`sponsors/prospectus`.
+
+
+Organizing Committee Members
+-----------------------------
+
+Organizing Committee is welcoming volunteers to support to manage the event. If you share our passion to work for Python community, please drop a note to `Organizing Commitee Mailing List <http://groups.google.com/group/pycon-organizers-jp>`_.
+
+You can find more about the organizers and the event management by joining us at our monthly  catch up. The meeting minutes also can be found at `PyCon JP Blog <http://pyconjp.blogspot.jp/>`_ (Sorry, Japanese only for now).
+
+We are looking forward to working with you!
