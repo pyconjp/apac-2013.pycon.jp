@@ -54,6 +54,18 @@
       {%- endif %}
     </div>
     
+    <div id="date_venue">
+      {%- if _getName('lang') == 'lang-ja' %}
+        9月14日〜16日<br />
+        工学院大学<br />
+        新宿キャンパス
+      {%- else %}
+        September 14-16<br />
+        Kougakuin University<br />
+        Shinjuku campus
+      {%- endif %}
+    </div>  
+    
     <div id="global_nav">
       {%- if _getName('lang') == 'lang-ja' %}
         <ul>
@@ -65,7 +77,7 @@
       {%- else %}
         <ul>
           <li><a href="{{ pathto('about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">CfP</a></li>
           <li><a href="{{ pathto('venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>      
@@ -80,35 +92,20 @@
 {%- endblock header %}
 
   <div id="contents">
-    <div id="main">
-      <div id="key_image">
-        {%- if _getName('lang') == 'lang-ja' %}
-          2013年9月14日〜16日<br />
-          工学院大学 新宿キャンパス
-        {%- else %}
-          September 14-16, 2013<br />
-          Kougakuin University Shinjuku campus
-        {%- endif %}
-      </div>
 {%- block body %}
       {{ body }}
 {%- endblock body %}
-    </div>
-
-{%- block sidebar %}
-    <div id="sidebar">
-      Sponsors
-    </div>
-{%- endblock sidebar %}
-
   </div>
 
-
+{%- block sidebar %}
+  <div id="sidebar">
+    Sponsors
+  </div>
+{%- endblock sidebar %}
 
 {%- block footer %}
   <div id="footer">
-    &copy;Copyright 2013, PyCon Organizers JP, All right reserved.<br />
-    Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b1.
+    &copy;Copyright 2013, PyCon Organizers JP, All right reserved. | Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.2b1.
   </div>
 {%- endblock footer %}
 
