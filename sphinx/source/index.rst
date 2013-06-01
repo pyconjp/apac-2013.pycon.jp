@@ -10,7 +10,7 @@ PyCon APAC 2013
    :maxdepth: 1
 
    about/index
-   ja/speakers/cfp
+   speakers/cfp
    sponsors/prospectus
    venue/index
 
