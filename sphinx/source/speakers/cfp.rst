@@ -27,10 +27,10 @@ Important Notes
   affect whether your talk is accepted).
 - Even if your talk is accepted you will still need to buy a ticket for PyCon APAC 2013. We appreciate your cooperation.
 
-今後の予定
+Schedule
 ==========
-- Proposal Deadline: 2013年6月30日
-- Proposal Acceptance Deadline: 2013年7月中旬
+- Proposal Deadline: June 30 2013
+- Proposal Acceptance Deadline: Mid July 2013
 
 Call for Proposals Form
 ===============================
