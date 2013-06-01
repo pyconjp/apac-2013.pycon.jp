@@ -1,0 +1,77 @@
+body{
+	margin: 0 auto;
+	width: 1290px;
+	position: relative;
+}
+
+
+#pycon_logo a {
+	padding-top: 300px;
+	width: 250px;
+	height: 0;
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	background-color: #999;
+}
+
+#global_nav ul {
+	margin: 0;
+	padding: 0;
+	width: 1000px;
+	border-bottom: 20px #fff solid;
+	position: absolute;
+	left: 290px;
+	top: 0;	
+	background-color: #06C;
+}
+
+#global_nav li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	background-color: #fff;
+	display: inline-block;
+}
+
+#global_nav li a {
+	margin: 0 3px 0 0;
+	padding: 0;
+	width: 120px;
+	background-color: #06c;
+	color: #fff;
+	text-align: center;
+	display: inline-block;
+}
+
+#lang {
+	position: absolute;
+	right: 0px;
+	top: 25px;
+}
+ 
+#contents {
+	padding: 50px 0 20px 290px;
+	width: 1000px;
+}
+
+#contents #main {
+	width: 650px;
+	float: left;
+}
+
+#contents #sidebar {
+	width: 350px;
+	background-color: #CCC;
+	float: left;
+}
+
+
+#footer {
+	margin: 0 0 0 290px;
+	width: 1000px;
+	background-color: #FC0;
+    clear: both;
+}

@@ -9,9 +9,7 @@
     {%- else %}{{'/'.join(nameslist)}}
     {%- endif %}
 {%- endmacro %}
-
 {% set pagename2 = get_pagename_without_lang() %}
-
 {% macro _getName(str) -%}
     {#
         _getName("")　        自分名前を返します
@@ -20,7 +18,6 @@
         _getName("section")   自分のいるページセクション名を返します
         _getName("lang")      自分のいる言語を返します
     #}
-
     {%- set nameslist = pagename.split('/') %}
     {%- if str == "my" %}{{ '-'.join(nameslist) }}
     {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
@@ -29,10 +26,8 @@
     {%- else %}{{ nameslist[-1] }}
     {%- endif %}
 {%- endmacro %}
-
 {%- block doctype %}
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"http://www.w3c.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3c.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 {%- endblock doctype %}
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -84,26 +79,31 @@
   </div>
 {%- endblock header %}
 
-{%- block body %}
   <div id="contents">
-    <div id="key_image">
-      {%- if _getName('lang') == 'lang-ja' %}
-        2013年9月14日〜16日<br />
-        工学院大学 新宿キャンパス
-      {%- else %}
-        September 14-16, 2013<br />
-        Kougakuin University Shinjuku campus
-      {%- endif %}
-    </div>
-    {{ body }}
-  </div>
+    <div id="main">
+      <div id="key_image">
+        {%- if _getName('lang') == 'lang-ja' %}
+          2013年9月14日〜16日<br />
+          工学院大学 新宿キャンパス
+        {%- else %}
+          September 14-16, 2013<br />
+          Kougakuin University Shinjuku campus
+        {%- endif %}
+      </div>
+{%- block body %}
+      {{ body }}
 {%- endblock body %}
+    </div>
 
 {%- block sidebar %}
-  <div id="sidebar">
-    Sponsors
-  </div>
+    <div id="sidebar">
+      Sponsors
+    </div>
 {%- endblock sidebar %}
+
+  </div>
+
+
 
 {%- block footer %}
   <div id="footer">
