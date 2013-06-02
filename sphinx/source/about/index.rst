@@ -44,7 +44,7 @@ confirmed.
    * - Theme
      - The Year of Python
    * - Venue
-     - `Kogakuin University, Shinjuku/Tokyo <../venue/index>`_
+     - :doc:`Kogakuin University, Shinjuku/Tokyo <../venue/index>`
    * - Participants (Planned)
      - 500
    * - Participation Fee

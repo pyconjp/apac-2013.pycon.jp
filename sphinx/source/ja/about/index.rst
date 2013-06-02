@@ -33,7 +33,7 @@ PyCon は、Pythonユーザが集まり、PythonやPythonを使ったソフト�
    * - テーマ
      - The Year of Python
    * - 会場
-     - `工学院大学 新宿キャンパス <../venue/index>`_
+     - :doc:`工学院大学 新宿キャンパス <../venue/index>`
    * - 参加者数(予定)
      - 500
    * - 参加費
