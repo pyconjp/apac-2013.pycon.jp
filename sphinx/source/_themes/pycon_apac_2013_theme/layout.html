@@ -82,9 +82,27 @@
         </ul>
       {%- endif %}
     </div>
-
     <div id="lang">
-      <a href="{{ pathto('index') }}">English</a> | <a href="{{ pathto('ja/index') }}">Japanese</a>
+      {%- if _getName('lang') == 'lang-ja' %}
+        {%- if _getName('pwd') == 'ja' and _getName('') == 'index' %}
+          <a href="{{ pathto('index') }}">English</a>
+        {%- else %}
+          <a href="{{ pathto(_getName("pwd")+'/'+_getName("")) }}">English</a>
+        {%- endif %}
+      {%- else %}
+        English
+      {%- endif %}
+        |
+      {%- if _getName('lang') == 'lang-ja' %}
+        Japanese
+      {%- else %}
+        {%- if _getName('pwd') == '' and _getName('') == 'index' %}
+          <a href="{{ pathto('ja/index') }}">Japanese</a>
+        {%- else %}
+          <a href="{{ pathto('ja/'+_getName("pwd")+'/'+_getName("")) }}">Japanese</a>
+        {%- endif %}
+      {%- endif %}
+
     </div>
 
   </div>
