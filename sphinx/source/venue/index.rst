@@ -89,7 +89,7 @@ Shops & Restaurants
 
 Special Requirements
 ------------------------------
-Dietary requirements are not common among Japanese, and it is not well understood about vegan, muslim halal and other dietary requirements. It is adviseable to bring the list of what you can eat / you cann't eat with pictures if you venture into local Japanese restaurants (e.g. if you can take dairy products when you are vegetarian)
+Dietary requirements are not common among Japanese, and it is not well understood about vegan, muslim halal and other dietary requirements. It is adviseable to bring the list of what you can eat / you can't eat with pictures if you would like to venture into local Japanese restaurants (e.g. if you can take dairy products when you are vegetarian)
 
 Here are some vegan and halal friendly restaurans.
 
