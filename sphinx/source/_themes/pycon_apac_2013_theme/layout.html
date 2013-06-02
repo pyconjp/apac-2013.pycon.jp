@@ -52,7 +52,7 @@
         <a href="{{ pathto('index') }}">PycCon APAC 2013 in Japan</a>
       {%- endif %}
     </div>
-    
+
     <div id="date_venue">
       {%- if _getName('lang') == 'lang-ja' %}
         9月14日〜16日<br />
@@ -63,30 +63,30 @@
         Kougakuin University<br />
         Shinjuku campus
       {%- endif %}
-    </div>  
-    
+    </div>
+
     <div id="global_nav">
       {%- if _getName('lang') == 'lang-ja' %}
         <ul>
           <li><a href="{{ pathto('ja/about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('ja/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>
       {%- else %}
         <ul>
           <li><a href="{{ pathto('about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('speakers/cfp') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('sponsors/prospectus') }}" class="program">Sponsors</a></li>
-        </ul>      
+        </ul>
       {%- endif %}
     </div>
-     
+
     <div id="lang">
       <a href="{{ pathto('index') }}">English</a> | <a href="{{ pathto('ja/index') }}">Japanese</a>
     </div>
-      
+
   </div>
 {%- endblock header %}
 
