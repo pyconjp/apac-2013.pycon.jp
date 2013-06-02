@@ -66,7 +66,7 @@ td {
 	width: 770px;
 	position: absolute;
 	left: 190px;
-	top: 0;	
+	top: 0;
 	background-color: #0d6fb8;
 }
 
@@ -101,7 +101,7 @@ td {
 	right: 0px;
 	top: 35px;
 }
- 
+
 #contents {
 	margin: 40px 0 20px 190px;
 	width: 520px;
@@ -130,3 +130,6 @@ td {
 }
 
 
+div.toctree-wrapper {
+  display: none;
+}
