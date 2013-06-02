@@ -98,9 +98,15 @@
 
 {%- block sidebar %}
   <div id="sidebar">
-    <h3>PyCon APAC 2013<br />
-    スポンサー募集中</h3>
-    <a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">詳細はこちら>></a>
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h3>PyCon APAC 2013<br />
+        スポンサー募集中</h3>
+      <a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">詳細はこちら&gt;&gt;</a>
+    {%- else %}
+      <h3>PyCon APAC 2013<br />
+        Sponsorship available</h3>
+      <a href="{{ pathto('sponsors/prospectus') }}" class="program">Learn more&gt;&gt;</a>
+    {%- endif %}
   </div>
 {%- endblock sidebar %}
 
