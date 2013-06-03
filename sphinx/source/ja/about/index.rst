@@ -24,11 +24,11 @@ PyCon は、Pythonユーザが集まり、PythonやPythonを使ったソフト�
    :widths: 30 70
    :stub-columns: 1
 
-   * - 有料セミナー
+   * - チュートリアル
      - 2013-09-13(金)
    * - カンファレンス
      - 2013-09-14(土)-15(日)
-   * - Sprint
+   * - 開発スプリント
      - 2013-09-16(月・祝)
    * - テーマ
      - The Year of Python

@@ -35,11 +35,11 @@ confirmed.
    :widths: 30 70
    :stub-columns: 1
 
-   * - Fee-charging Tutorial-based Seminar
+   * - Tutorial
      - 2013-09-13(Fri)
    * - Conference
      - 2013-09-14(Sat)-15(Sun)
-   * - Sprint
+   * - Development Sprints
      - 2013-09-16(Mon / Publich Holiday in Japan)
    * - Theme
      - The Year of Python
