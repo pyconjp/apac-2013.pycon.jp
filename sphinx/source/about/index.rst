@@ -22,7 +22,7 @@ in previous PyCon JP events. With the expanding scope to the usual PyCon JP, we
 are also inviting more international spearkers and adding additional English
 sessions to provide a true region-wide conference experience.
 
-We are also glad to announce that we are arranging tutorial-based sessions with
+We are also glad to announce that we are arranging tutorial sessions with
 some charge.  We'll post updates once we confirm the details.
 
 Details
