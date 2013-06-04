@@ -17,8 +17,8 @@ Details
 - **Audience profile**: Developers, technologists, programmers and hackers; bloggers, authors and web developers; CTOs, managers and entrepreneurs; scientists, engineers and domain experts.
 - **Conference Dates**:
 
-  - Main Conference: September 14-15
-  - Development Sprints: September 16
+  - Main Conference: 2013 September 14(Sat)-15(Sun)
+  - Development Sprints: 2013 September 16(Mon / Publich Holiday in Japan)
 
 Last year's performance
 -----------------------
@@ -61,7 +61,7 @@ Gold Level Sponsorship — 300,000 JPY
 
 Silver Level Sponsorship — 100,000 JPY
 ---------------------------------------
-- Gold sponsor link on PyCon APAC website
+- Silver sponsor link on PyCon APAC website
 - Your description on PyCon APAC website
 - Your logo in PyCon APAC program guide
 - Tote bag insert (provided by sponsor)

@@ -18,12 +18,11 @@ PyCon APAC 2013のスポンサーになると、手頃な価格で幅広い参�
 概要
 ====
 - **参加人数の見積もり**: 500人+
-- **参加者プロフィール**: Developers, technologists, programmers and hackers; bloggers, authors and web developers; CTOs, managers and entrepreneurs; scientists, engineers and domain experts.
+- **参加者プロフィール**: 開発者、技術者、プログラマーやハッカー。ブロガー、書籍執筆者、Web管理者。CTO、経営者や起業家。科学者、エンジニアや各種専門家等。
 - **日程**:
 
-  - カンファレンス: 9月14、15日
-  - 開発スプリント: 9月16日
-
+  - カンファレンス: 2013年9月14日(土)、15日(日)
+  - 開発スプリント: 2013年9月16日(月・祝)
 
 昨年の実績
 ----------
