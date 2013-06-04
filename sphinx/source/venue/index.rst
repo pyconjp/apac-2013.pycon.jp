@@ -25,7 +25,7 @@ Map and Directions
 
 Hotels
 ==============================
-There are variety of accmmodations available around the venue.
+There are variety of accommodations available around the venue.
 
 
 .. list-table::
@@ -67,7 +67,7 @@ Travelling from Airports
 
 Getting Around
 ==============================
-You can buy prepaid IC Card, `Suica <http://en.wikipedia.org/wiki/Suica>`_, for all public transport. The card is available at card vendinng machine at every major trail and subway station. A new card costs 2,000 yen with 500 yen deposit that will be refunded when you return the card.
+You can buy prepaid IC Card, `Suica <http://en.wikipedia.org/wiki/Suica>`_, for all public transport. The card is available at card vending machines at every major train and subway station. A new card costs 2,000 yen with 500 yen deposit that will be refunded when you return the card.
 
 Type of Transports
 
