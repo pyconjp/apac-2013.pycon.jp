@@ -22,7 +22,7 @@
     {%- if str == "my" %}{{ '-'.join(nameslist) }}
     {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
     {%- elif str == "section" %}section-{{ '-'.join(nameslist) }}
-    {%- elif str == "lang" %}{%- if nameslist[0] == "ja" %}lang-ja{% else %}lang-en{% endif %}
+    {%- elif str == "lang" %}{%- if nameslist[0] == "ja" %}lang-ja{% elif nameslist[0] == "zh" %}lang-zh{% else %}lang-en{% endif %}
     {%- else %}{{ nameslist[-1] }}
     {%- endif %}
 {%- endmacro %}
@@ -72,6 +72,13 @@
           <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('ja/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">Sponsors</a></li>
+        </ul>
+      {%- elif _getName('lang') == 'lang-zh' %}
+        <ul>
+          <li><a href="{{ pathto('zh/about/index') }}" class="program">About</a></li>
+          <li><a href="{{ pathto('zh/speakers/cfp') }}" class="program">Speakers</a></li>
+          <li><a href="{{ pathto('zh/venue/index') }}" class="program">Venue</a></li>
+          <li><a href="{{ pathto('zh/sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>
       {%- else %}
         <ul>

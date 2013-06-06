@@ -10,3 +10,4 @@ sphinx/parts
 sphinx/eggs
 .*\.egg-info
 .*\.pyc
+.*\.log
