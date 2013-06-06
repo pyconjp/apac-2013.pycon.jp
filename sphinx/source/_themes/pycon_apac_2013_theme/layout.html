@@ -94,10 +94,10 @@
       {%- endif %}
         |
       {%- if _getName('lang') == 'lang-ja' %}
-        Japanese
+        日本語
       {%- else %}
         {%- if _getName('pwd') == '' and _getName('') == 'index' %}
-          <a href="{{ pathto('ja/index') }}">Japanese</a>
+          <a href="{{ pathto('ja/index') }}">日本語</a>
         {%- else %}
           <a href="{{ pathto('ja/'+_getName("pwd")+'/'+_getName("")) }}">Japanese</a>
         {%- endif %}
