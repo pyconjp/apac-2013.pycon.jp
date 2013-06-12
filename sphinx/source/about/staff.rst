@@ -45,7 +45,7 @@ Staff
    * -
      - Mamiko Tsuda
      -
-     -
+     - `mamiko.tsuda.1 <http://www.facebook.com/mamiko.tsuda.1>`_
    * - Administration
      - Takanori Suzuki
      - :tw:`@takanory`
@@ -73,7 +73,7 @@ Staff
    * - Liaison
      - Ian Lewis
      - :tw:`@IanMLewis`
-     - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
+     - `Ian Lewis <http://www.facebook.com/ianmlewis>`_
    * - Public Relations
      - Ryuji Tsutsui
      - :tw:`@ryu22e`

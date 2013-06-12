@@ -45,7 +45,7 @@
    * -
      - 津田 麻美子
      -
-     -
+     - `mamiko.tsuda.1 <http://www.facebook.com/mamiko.tsuda.1>`_
    * - 事務局
      - 鈴木 たかのり
      - :tw:`@takanory`
