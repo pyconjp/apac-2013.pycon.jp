@@ -42,6 +42,10 @@ Staff
      - Fumikazu Kiyota
      - :tw:`@kiyotaman`
      -
+   * -
+     - Mamiko Tsuda
+     -
+     -
    * - Administration
      - Takanori Suzuki
      - :tw:`@takanory`
