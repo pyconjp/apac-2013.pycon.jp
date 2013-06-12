@@ -133,3 +133,9 @@ td {
 div.toctree-wrapper {
   display: none;
 }
+
+div.banner {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+

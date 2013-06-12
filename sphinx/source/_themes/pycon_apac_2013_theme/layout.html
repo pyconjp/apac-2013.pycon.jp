@@ -132,6 +132,31 @@
         Sponsorship available</h3>
       <a href="{{ pathto('sponsors/prospectus') }}" class="program">Learn more&gt;&gt;</a>
     {%- endif %}
+
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h4>メディアスポンサー</h4>
+    {%- else %}
+      <h4>Media sponsors</h4>
+    {%- endif %}
+    <div class="banners">
+      <div class="banner">
+        <a href="http://gihyo.jp/" target="_blank">
+          <img src="{{ pathto('_static/image/logo_gihyo.png', 1) }}" />
+        </a>
+      </div>
+      <hr />
+      <div class="banner">
+        <a href="http://codezine.jp/" target="_blank">
+          <img src="{{ pathto('_static/image/logo_codezine.png', 1) }}" />
+        </a>
+      </div>
+      <hr />
+      <div class="banner">
+        <a href="http://www.oreilly.co.jp/" target="_blank">
+          <img src="{{ pathto('_static/image/logo_oreilly.png', 1) }}" />
+        </a>
+      </div>
+    </div>
   </div>
 {%- endblock sidebar %}
 
