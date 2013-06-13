@@ -1,5 +1,5 @@
 ========================
- Sponsorship Prospectus
+ PyCon APAC 2013 in Japan Sponsorship Prospectus
 ========================
 We are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
 
