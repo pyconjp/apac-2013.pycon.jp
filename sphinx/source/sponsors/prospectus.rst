@@ -1,6 +1,6 @@
-========================
+=================================================
  PyCon APAC 2013 in Japan Sponsorship Prospectus
-========================
+=================================================
 We are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
 
 
@@ -39,7 +39,7 @@ Sponsorship Packages
 ====================
 
 Platinum Level Sponsorship — 500,000 JPY(Limited: 3)
----------------------------------------------------
+-----------------------------------------------------
 - Platinum sponsor link on PyCon APAC website
 - A description on PyCon APAC website
 - A logo in PyCon APAC program guide
