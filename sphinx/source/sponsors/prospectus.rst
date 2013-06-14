@@ -64,7 +64,6 @@ Silver Level Sponsorship — 100,000 JPY
 - A description on PyCon APAC website
 - A logo in PyCon APAC program guide
 - Tote bag insert (provided by sponsor)
-- Name included in press release
 - 1 complimentary pass
 
 
