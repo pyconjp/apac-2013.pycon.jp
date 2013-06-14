@@ -1,85 +1,80 @@
 ==============================
-About PyCon APAC 2013
+ 關於 PyCon APAC 2013
 ==============================
 
 
-Objective
+目標
 ============
 
-PyCon is a conference where Python users can meet and talk about the
-developments around Python and the Python community.  All Pythonistas in the
-region get together to know more about various domains and meet people with
-diverse experience.
+PyCon 是聚集 Python users，討論 Python 與 Python 社群的研討會。\
+各位 Python 的愛好者將有機會與各種領域的專家交換經驗和知識。
 
-In 2013 we will host the 4th annual PyCon Asia Pacific (APAC). The first three
-events were hosted in Singapore, and it is our honor to host this year's event
-for the first time in Japan.
+今年 (2013) 我們將舉辦第四屆的 PyCon Asia Pacific (APAC)。\
+前三次的 PyCon APAC 舉辦於新加坡，而日本很榮幸地得到這次的主辦機會。
 
-" **The Year of Python** " will be the theme for PyCon APAC 2013. The PyCon JP
-team is organizing this year's PyCon APAC but we will strive to provide
-interactive sessions where everyone can meet up with each other just as we had
-in previous PyCon JP events. With the expanding scope to the usual PyCon JP, we
-are also inviting more international spearkers and adding additional English
-sessions to provide a true region-wide conference experience.
+「\ **Python 之年**\ 」是本次 PyCon APAC 2013 的主題。\
+PyCon JP 團隊負責籌備今年的 PyCon APAC，並將依循 PyCon JP 的傳統，\
+提供具有豐富互動性的議程。\
+也因為今年的範疇更大於過往的 PyCon JP，我們也將邀請更多國際講者與英文議程，\
+讓與會者一同來體驗更加國際化的研討會。
 
-We are also glad to announce that we are arranging tutorial sessions with
-some charge.  We'll post updates once we confirm the details.
+我們也將會安排收費適當的先修課程 (tutorial)。細節將於確定後公告。
 
-Details
+詳細資訊
 ==========
 
-The summary of event details as below. We'll post updates once further details
-confirmed.
+活動的詳細資訊如下。我們會隨時更新。
 
 .. list-table::
    :widths: 30 70
    :stub-columns: 1
 
-   * - Tutorial
-     - 2013-09-13(Fri)
-   * - Conference
-     - 2013-09-14(Sat)-15(Sun)
-   * - Development Sprints
-     - 2013-09-16(Mon / Publich Holiday in Japan)
-   * - Theme
-     - The Year of Python
-   * - Venue
-     - :doc:`Kogakuin University, Shinjuku/Tokyo <../venue/index>`
-   * - Participants (Planned)
+   * - 先修 (tutorial)
+     - 2013-09-13(周五)
+   * - 研討會
+     - 2013-09-14(周六)-15(周日)
+   * - 開發衝刺 (Sprint)
+     - 2013-09-16(周一 / 日本的假日)
+   * - 主題
+     - Python 之年
+   * - 地點
+     - :doc:`工學院大學 新宿校區 <../venue/index>`
+   * - 參加人數 (規畫)
      - 500
-   * - Participation Fee
-     - TBC
-   * - Organizers
-     - `PyCon JP Organizing Committee`_ PyCon APAC 2013 Organizing Committee
-   * - Contact
+   * - 參加費用
+     - 待決
+   * - 籌備者
+     - `PyCon JP 籌備委員會`_ PyCon APAC 2013 籌備團隊
+   * - 連絡方式
      - 2013@pycon.jp
 
 
 
-About Organizers
+關於籌備者
 ===================
 
-PyCon APAC 2013 is being organized by the `PyCon JP Organizing Committee`_.
+PyCon APAC 2013 由 `PyCon JP 籌備委員會`_ 所籌備。
 
 .. list-table::
 
-   * - Chairperson
-     - Manabu Terada
-   * - Vice-Chairperson
-     - | Shoma Hosaka
-       | Yoji Takeuchi
-   * - Contact
+   * - 主席
+     - 寺田 学
+   * - 副主席
+     - | 保坂 翔馬
+       | 竹内 陽児
+   * - 連絡方式
      - 2013@pycon.jp
 
 
-.. _`PyCon JP Organizing Committee`: http://www.pycon.jp/committee.html
+
+.. _`PyCon JP 籌備委員會`: http://www.pycon.jp/committee.html
 
 
-Refer to :doc:`staff` about the team and meeting minutes archive.
+關於籌備團隊與籌備會議紀錄，請參考 :doc:`staff`\ 。
 
 
 
-* Other Information
+* 其它資訊
 ====================
 
 .. toctree::

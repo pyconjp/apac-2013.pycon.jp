@@ -1,5 +1,5 @@
 ===================================
- PyCon APAC 2013 in Japan Sponsors
+ PyCon APAC 2013 in Japan 贊助者
 ===================================
 
 .. toctree::

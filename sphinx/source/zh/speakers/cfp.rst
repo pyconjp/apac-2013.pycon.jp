@@ -2,37 +2,31 @@
  Call for Proposals
 ====================
 
-The call for talk proposals for PyCon APAC 2013 is now open! 
+PyCon APAC 2013 正式開始徵求講題！
 
-We are seeking proposals for talks for this year's PyCon APAC. Is there a talk you want to give on a topic that interests you? Do you want to introduce the community to a library or useful piece of Python software? If so then submit your proposal now!
+我們正為今年的 PyCon APAC 徵求演講題目。你有沒有想分享某些特別有趣的主題呢？有沒有想把哪個 Python 的程式庫或軟體介紹給社群？有的話，現在就提案吧！
 
-Since we are holding PyCon APAC, which is a conference for the entire Asia-Pacific region, we are expecting many international participants. Therefore, we are seeking a large number of English talk proposals. This is your chance to introduce your topic to Pythonistas in Asia!
+PyCon APAC 是針對整個亞太地區的研討會，會有許多跨國而來的參加者，故我們也會準備許多英文的演講機會。如果你想向亞洲區的 Pythonistas 提供資訊的話，這是個好機會！
 
-For those who's talks are accepted we are planning to give out some special SWAG and goods. (However, the event fee will not be waived so be sure to buy a ticket!)
+我們會為提案入選者準備特別的好料 (但入場費無法免除，所以請一定要買票！)
 
-We are accepting proposals for any type of session so help us make this year a great and diverse PyCon APAC 2013!
+我們接受任何形式的提案。讓我們一起讓 PyCon APAC 2013 更加地多彩多姿！
 
-Important Notes
+重要事項
 ==================
-- Talks will be in English and Japanese only.
-- Talks will held in 50 minute and 30 minute blocks. We expect that the slots for
-  30 minute talks will be limited.
-- If there are more proposals than we can accomadate, the PyCon APAC Management Team
-  will decide on the program schedule.
-- Information provided in your proposal that is needed for the conference program
-  will be made public. This includes all items marked **("will be public")**
-- The conference talks will be video recorded. We would appreciate your cooperation
-  in allowing use to record your talk however will will respect your privacy if
-  you do not wish to be recorded. (Whether you wish to be recorded or not will not
-  affect whether your talk is accepted).
-- Even if your talk is accepted you will still need to buy a ticket for PyCon APAC 2013. We appreciate your cooperation.
+- 演講需為英文與日文。
+- 演講時間為 50 或 30 分鐘。但 30 分鐘的演講數目會受限。
+- 如果提案數目超過會議預估的容納量，PyCon APAC 團隊有權決定最終的議程。
+- 提案中的資訊若為研討會議程所需，將會被公開。這些資訊包含所有記為 **("will be public")** 的項目。
+- 研討會中的演講會被錄影。我們非常感謝你同意我們使用你的演講錄像。不過基於對個人隱私的尊重，我們也會理解你拒絕錄影的要求。(你同意錄影與否不會影響提案的接受與否)。
+- 提案被接受的講者也必須付費參加 PyCon APAC 2013。非常感謝你的合作。
 
-Schedule
+時程
 ==========
-- Proposal Deadline: June 30 2013
-- Proposal Acceptance Deadline: Mid July 2013
+- 提案截止：2013 年 6 月 30 日
+- 提案審核：2013 年 7 月中旬
 
-Call for Proposals Form
+講提徵求表單
 ===============================
 
 .. raw:: html

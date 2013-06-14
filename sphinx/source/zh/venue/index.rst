@@ -1,31 +1,32 @@
 ==============================
-Venue
+ 會場
 ==============================
 
 
-Venue Details
+會場詳情
 ==============================
-Kogakuin University Shinjuku Campus (工学院大学　新宿キャンパス)
+工學院大學 新宿校區
 
-* Address: 1-24-2 Nishi-shinjuku, Shinjuku-ku, Tokyo, 163-8677, Japan (`Google Maps <https://maps.google.com/maps?q=Kogakuin+University,+Shinjuku,+Tokyo,+Japan&hl=en&sll=35.675779,139.695548&sspn=0.048806,0.056906&oq=kogakuin&hq=Kogakuin+University,&hnear=Shinjuku,+Tokyo,+Japan&t=m&z=16>`_)
+* 地址: 〒163-8677　新宿区西新宿1-24-2 (`Google Maps <https://maps.google.com/maps?q=Kogakuin+University,+Shinjuku,+Tokyo,+Japan&hl=en&sll=35.675779,139.695548&sspn=0.048806,0.056906&oq=kogakuin&hq=Kogakuin+University,&hnear=Shinjuku,+Tokyo,+Japan&t=m&z=16>`_)
+
 
 .. TODO: add details of floors/rooms
 
 
-Map and Directions
+地圖指引
 ==============================
-.. image:: http://www.kogakuin.ac.jp/english/about/campus/images/accessmaps-frs-map.jpg
+.. image:: http://www.kogakuin.ac.jp/facilities/campus/shinjuku/cbr7au00000042he-img/shinjukuu_map.gif
    :width: 500px
 
-* A five-minute walk from JR Shinjuku Station, west exit
-* A five-minute walk from Shinjuku Station on the Keio, Odakyu, Toei, or Tokyo Metro lines
-* A three-minute walk from Tochomae Station on the Toei Oedo Line
-* A 10-minute walk from Seibu Shinjuku Station on the Seibu Shinjuku Line
+* 自 JR 的「新宿駅」西口步行 5 分鐘可達
+* 自「京王線」、「小田急線」、「地下鉄各線」的「新宿駅」步行 5 分鐘可達
+* 自「都営大江戸線」的「都庁前駅」步行 3 分鐘可達
+* 自「西武新宿線」的「西武新宿駅」步行 10 分鐘可達
 
 
-Hotels
+旅館
 ==============================
-There are variety of accommodations available around the venue.
+在會場週邊有各種住宿場所。
 
 
 .. list-table::
@@ -33,70 +34,70 @@ There are variety of accommodations available around the venue.
    :stub-columns: 1
    :widths: 30 80
    
-   * - Price
-     - Example of Hotels
-   * - Top-end $$$
-     - `Park Hyatt Tokyo <http://www.tokyo.park.hyatt.com/en/hotel/home.html>`_
+   * - 價格
+     - 範例
+   * - 高級旅館 $$$
+     - `東京柏悅酒店 <http://www.tokyo.park.hyatt.com/zh-Hant/hotel/abridged/home.html>`_
    * - 
-     - `Hilton Tokyo <http://www3.hilton.com/en/hotels/japan/hilton-tokyo-hotel-TYOHITW/index.html?WT.srch=1>`_
+     - `東京希爾頓酒店 <http://www.hilton.com.cn/TYOHITW/>`_
    * - 
-     - `Hyatt Regency Tokyo <http://tokyo.regency.hyatt.com/en/hotel/home.html>`_
-   * - Mid-range $$
-     - `Shinjuku Prince Hotel <http://www.princehotels.com/en/shinjuku/>`_
+     - `東京凱悅酒店 <http://tokyo.regency.hyatt.com/zh-Hant/hotel/abridged/home.html>`_
+   * - 中級旅館 $$
+     - `新宿王子大飯店 <http://www.princehotels.com/zh-tw/shinjuku/>`_
    * - 
-     - `Keio Plaza Hotel <http://www.keioplaza.com>`_
+     - `京王廣場大飯店 <http://www.keioplaza.com/tw/index.html>`_
    * - 
-     - `Shinjuku Washington Hotel <http://shinjuku.washington-hotels.jp>`_
-   * - Budget $
-     - `Toyoko Inn <http://www.toyoko-inn.com/e_hotel/00078/>`_
+     - `新宿華盛頓酒店 <http://shinjuku.washington-hotels.jp/tw/>`_
+   * - 經濟旅館 $
+     - `東橫INN 東京新宿歌舞伎町 <http://www.toyoko-inn.com/c_hotel/00078/index.html>`_
    * - 
-     - `APA Hotel Higashi Shinjuku Ekimae <http://www.agoda.com/asia/japan/tokyo/apa_hotel_higashi_shinjuku_ekimae.html>`_
+     - `新宿站前APA飯店 <http://www.agoda.com.tw/asia/japan/tokyo/apa_hotel_higashi_shinjuku_ekimae.html>`_
    * - 
-     - `Shinjuku Hotel Park Inn <http://www.shinjuku-hotel.com>`_
-   * - Unique Experience !
+     - `新宿酒店 Park Inn <http://www.shinjuku-hotel.com/chinese/>`_
+   * - 特別體驗！
      - `AirBnb <https://www.airbnb.com/s/Tokyo>`_
    * - 
-     - Capsule Hotels (e.g. `Green Plaza Shinjuku <http://www.tripadvisor.com/Hotel_Review-g1066457-d1083503-Reviews-Green_Plaza_Shinjuku_Capsule_Hotel-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_, `Shinjuku Kuyakushomae Capsule Hotel <http://www.tripadvisor.com/Hotel_Review-g1066457-d1083524-Reviews-Shinjuku_Kuyakushomae_Capsule_Hotel-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_)
+     - 膠囊旅館 (e.g. `Green Plaza Shinjuku <http://www.tripadvisor.com/Hotel_Review-g1066457-d1083503-Reviews-Green_Plaza_Shinjuku_Capsule_Hotel-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_ (`グリーンプラザ新宿 <http://www.hgpshinjuku.jp/>`__), `Shinjuku Kuyakushomae Capsule Hotel <http://www.tripadvisor.com/Hotel_Review-g1066457-d1083524-Reviews-Shinjuku_Kuyakushomae_Capsule_Hotel-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_ (`新宿区役所前カプセルホテル <http://capsuleinn.com/shinjuku/>`__))
 
 
-Travelling from Airports
+機場地面交通
 ==============================
-* `From Narita Airport <http://www.narita-airport.jp/en/access/index.html>`_
-* `From Haneda Airport <http://www.tokyo-airport-bldg.co.jp/en/access/>`_
+* `成田機場落地 <http://www.narita-airport.jp/en/access/index.html>`_
+* `羽田機場落地 <http://www.tokyo-airport-bldg.co.jp/en/access/>`_
 
 
-Getting Around
+公共運輸
 ==============================
-You can buy prepaid IC Card, `Suica <http://en.wikipedia.org/wiki/Suica>`_, for all public transport. The card is available at card vending machines at every major train and subway station. A new card costs 2,000 yen with 500 yen deposit that will be refunded when you return the card.
+你可以購買俗稱西瓜卡的 `Suica <http://en.wikipedia.org/wiki/Suica>`_ IC 卡以搭乘公共運輸工具。主要的火車與地鐵站均有販買機提供此卡。新卡費用為 2,000 日圓，而其中 500 圓押金可於退回卡片時歸還。
 
-Type of Transports
+運輸工具類別
 
-* Japan Railway or JR
-* Tokyo Metro (subway)
-* Bus
-* Taxi (Don't ever just jump on a taxi between town and airport. It'll cost you more than a few hundreds USD!)
+* 日本國鐵或稱 JR
+* 東京地下鐵 (Tokyo Metro)
+* 公車
+* 計程車 (不要隨便跳上計程車來往於機場與市區。一不小心就會花掉你五千一萬台幣！)
 
-Navigation
+導航
 
-* `Railway Map <http://www.jreast.co.jp/e/routemaps/pdf/RouteMap_majorrailsub.pdf>`_
-* Google Maps "Get Directions" - Get Directions works perfectly in Tokyo.
+* `鐵路圖 (英文) <http://www.jreast.co.jp/e/routemaps/pdf/RouteMap_majorrailsub.pdf>`_
+* Google Maps 的「規畫路線」在東京非常有用。
 
 
 Shops & Restaurants
 ==============================
-* `Michelin Star Award Winner restaurants <http://www.timeout.jp/en/tokyo/feature/6433/>`_
+* `米其林星級餐廳 <http://www.timeout.jp/en/tokyo/feature/6433/>`_
 
 
-Special Requirements
+特別需求
 ------------------------------
-Dietary requirements are not common among Japanese, and it is not well understood about vegan, muslim halal and other dietary requirements. It is adviseable to bring the list of what you can eat / you can't eat with pictures if you would like to venture into local Japanese restaurants (e.g. if you can take dairy products when you are vegetarian)
+齋食少見於日本，而日本人不太了解素食、素齋、穆斯林餐 (muslin halal) 與其它的齋食需求。如果你想去日本店裡嘗鮮的話，也許可以帶著附有圖片的食材與食物列表 (例如奶蛋素等)。
 
-Here are some vegan and halal friendly restaurans.
+以下是已知適合素食與穆斯林的餐廳。
 
-* `Vegetarian <http://www.vegguide.org/region/364>`_
-* `Muslim Halal Food <http://www.tripadvisor.com/ShowTopic-g1066457-i13059-k3667894-Halal_muslim_food-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_
+* `素食 <http://www.vegguide.org/region/364>`_
+* `穆斯林餐 <http://www.tripadvisor.com/ShowTopic-g1066457-i13059-k3667894-Halal_muslim_food-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_
 
 
-Weather
+天氣
 ==============================
-`Weather Forecast <http://www.accuweather.com/en/jp/tokyo/226396/month/226396?monyr=9/01/2013>`_
+`天氣預報 <http://www.accuweather.com/zh/jp/tokyo/226396/month/226396?monyr=9/01/2013>`_

@@ -48,6 +48,8 @@
     <div id="pycon_logo">
       {%- if _getName('lang') == 'lang-ja' %}
         <a href="{{ pathto('ja/index') }}">PycCon APAC 2013 in Japan</a>
+      {%- elif _getName('lang') == 'lang-zh' %}
+        <a href="{{ pathto('zh/index') }}">PycCon APAC 2013 in Japan</a>
       {%- else %}
         <a href="{{ pathto('index') }}">PycCon APAC 2013 in Japan</a>
       {%- endif %}
@@ -58,6 +60,10 @@
         9月13日〜16日<br />
         工学院大学<br />
         新宿キャンパス
+      {%- elif _getName('lang') == 'lang-zh' %}
+        9月13日〜16日<br />
+        工學院大學<br />
+        新宿校區
       {%- else %}
         September 13-16<br />
         Kougakuin University<br />
@@ -90,23 +96,33 @@
       {%- endif %}
     </div>
     <div id="lang">
-      {%- if _getName('lang') == 'lang-ja' %}
-        {%- if _getName('pwd') == 'ja' and _getName('') == 'index' %}
+      {%- if _getName('lang') == 'lang-en' %}
+        English
+      {%- else %}
+        {%- if _getName('pwd') == '' and _getName('') == 'index' %}
           <a href="{{ pathto('index') }}">English</a>
         {%- else %}
           <a href="{{ pathto(_getName("pwd")+'/'+_getName("")) }}">English</a>
         {%- endif %}
-      {%- else %}
-        English
       {%- endif %}
         |
       {%- if _getName('lang') == 'lang-ja' %}
         日本語
       {%- else %}
-        {%- if _getName('pwd') == '' and _getName('') == 'index' %}
+        {%- if _getName('pwd') == 'ja' and _getName('') == 'index' %}
           <a href="{{ pathto('ja/index') }}">日本語</a>
         {%- else %}
           <a href="{{ pathto('ja/'+_getName("pwd")+'/'+_getName("")) }}">日本語</a>
+        {%- endif %}
+      {%- endif %}
+        |
+      {%- if _getName('lang') == 'lang-zh' %}
+        中文
+      {%- else %}
+        {%- if _getName('pwd') == 'zh' and _getName('') == 'index' %}
+          <a href="{{ pathto('zh/index') }}">中文</a>
+        {%- else %}
+          <a href="{{ pathto('zh/'+_getName("pwd")+'/'+_getName("")) }}">中文</a>
         {%- endif %}
       {%- endif %}
 
@@ -127,6 +143,10 @@
       <h3>PyCon APAC 2013<br />
         スポンサー募集中</h3>
       <a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">詳細はこちら&gt;&gt;</a>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h3>PyCon APAC 2013<br />
+        徵求贊助</h3>
+      <a href="{{ pathto('zh/sponsors/prospectus') }}" class="program">詳情見此&gt;&gt;</a>
     {%- else %}
       <h3>PyCon APAC 2013<br />
         Sponsorship available</h3>
@@ -135,6 +155,8 @@
 
     {%- if _getName('lang') == 'lang-ja' %}
       <h4>メディアスポンサー</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>媒體贊助</h4>
     {%- else %}
       <h4>Media sponsors</h4>
     {%- endif %}

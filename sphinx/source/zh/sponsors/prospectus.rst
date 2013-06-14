@@ -1,76 +1,75 @@
 =================================================
- PyCon APAC 2013 in Japan Sponsorship Prospectus
+ PyCon APAC 2013 in Japan 贊助企畫書
 =================================================
+我們期待此贊助企畫能符合你的事業規畫。我們樂意與你合作，並且採取各種彈性作法。
 
-The available sponsorships are below. Don't see what you want? Contact us any time, we are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
 
-
-Contact:
+聯絡方式
 ========
-- Name: Fumikazu Kiyota
-- Email: sponsor@pycon.jp
+- 姓名: 清田 史和 (Fumikazu Kiyota)
+- 電子郵件: sponsor@pycon.jp
+
+請以英日文聯絡。
 
 
-Details
+詳情
 =======
-- **Estimated attendance**: 500+
-- **Audience profile**: Developers, technologists, programmers and hackers; bloggers, authors and web developers; CTOs, managers and entrepreneurs; scientists, engineers and domain experts.
-- **Conference Dates**:
+- **預計參加者**: 500+
+- **參加者概況**: 開發人員、技術人員、程式員與 hacker；部落格主、作者與網站開發者；CTOs、經理人與創業者；科學家、工程師與領域專家。
+- **研討會日程**:
 
-  - Main Conference: 2013 September 14(Sat)-15(Sun)
-  - Development Sprints: 2013 September 16(Mon / Publich Holiday in Japan)
+  - 主研討會: 2013 年 9 月 14-15 日
+  - 開發衝刺 (Sprint): 2013 年 9 月 16 日
 
-Last year's performance
+去年成果
 -----------------------
 
-Performance of `PyCon JP 2012 <http://2012.pycon.jp/en/>`_ is as follows:
+去年 `PyCon JP 2012 <http://2012.pycon.jp/en/>`_ 的成果如下:
 
-:Conferene: September 15-16, 2012
+:研討會: 2012 年 9 月 15-16 日
 
-  5 tracks(including 1 English track, 4 `Joint events <http://2012.pycon.jp/en/program/joint.html>`_, 3 `Hands-on <http://2012.pycon.jp/en/program/handson.html>`_) 60 sessions
-:Sprint: September 17, 2012
-:Participants: 480 people(including staff)
+  5 個議程軌(1 個英文議程軌、4 個\ `合併活動 <http://2012.pycon.jp/en/program/joint.html>`_\ 、3 個 `Hands-on <http://2012.pycon.jp/en/program/handson.html>`_)，60 個演講。
+:開發衝刺 (Sprint): 2012 年 9 月 17 日
+:參加者: 480 人
 
-  PyCon APAC 2013 target is 500 people
+  PyCon APAC 2013 的目標為超過 500 人。
 
-`Click here for PyCon JP 2012 archives <http://2012.pycon.jp/en/reports/index.html>`_
+`點此前往 PyCon JP 2012 存檔 <http://2012.pycon.jp/en/reports/index.html>`_
 
 
-Sponsorship Packages
+贊助套裝
 ====================
 
-Platinum Level Sponsorship — 500,000 JPY(Limited)
----------------------------------------------------
-- Platinum sponsor link on PyCon APAC website
-- Your description on PyCon APAC website
-- Your logo in PyCon APAC program guide
-- Tote bag insert (provided by sponsor)
-- Name included in press release
-- 5 free sponsor registrations
+白金級贊助 - 日幣 500,000 (限額 3 名) 
+-----------------------------------------------------
+- PyCon APAC 網站上的白金贊助連結
+- PyCon APAC 網站上的說明
+- PyCon APAC 議程表內放置圖像 (logo)
+- (贊助者提供的) 宣傳品置於研討會置物袋內
+- 通訊稿內包含贊助者名稱
+- 5 張招待票
 
 
-Gold Level Sponsorship — 300,000 JPY
+黃金級贊助 - 日幣 300,000
 -------------------------------------
-- Gold sponsor link on PyCon APAC website
-- Your description on PyCon APAC website
-- Your logo in PyCon APAC program guide
-- Tote bag insert (provided by sponsor)
-- Name included in press release
-- 3 free sponsor registrations
+- PyCon APAC 網站上的黃金贊助連結
+- PyCon APAC 網站上的說明
+- PyCon APAC 議程表內放置圖像 (logo)
+- (贊助者提供的) 宣傳品置於研討會置物袋內
+- 通訊稿內包含贊助者名稱
+- 3 張招待票
 
 
-Silver Level Sponsorship — 100,000 JPY
+白銀級贊助 - 日幣 100,000
 ---------------------------------------
-- Silver sponsor link on PyCon APAC website
-- Your description on PyCon APAC website
-- Your logo in PyCon APAC program guide
-- Tote bag insert (provided by sponsor)
-- Name included in press release
-- 1 free sponsor registrations
+- PyCon APAC 網站上的白銀贊助連結
+- PyCon APAC 網站上的說明
+- PyCon APAC 議程表內放置圖像 (logo)
+- (贊助者提供的) 宣傳品置於研討會置物袋內
+- 1 張招待票
 
 
-Media sponsorship (Please contact us)
+媒體贊助 (請聯絡我們)
 -------------------------------------
-- Recognition on PyCon APAC site
-- One free sponsor registration
-
+- PyCon APAC 網站上的表示
+- 1 張招待票
