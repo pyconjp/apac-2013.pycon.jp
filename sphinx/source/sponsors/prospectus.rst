@@ -60,7 +60,7 @@ Gold Level Sponsorship — 300,000 JPY
 
 Silver Level Sponsorship — 100,000 JPY
 ---------------------------------------
-- Gold sponsor link on PyCon APAC website
+- Silver sponsor link on PyCon APAC website
 - A description on PyCon APAC website
 - A logo in PyCon APAC program guide
 - Tote bag insert (provided by sponsor)
