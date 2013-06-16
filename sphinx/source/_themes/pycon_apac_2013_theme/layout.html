@@ -99,7 +99,7 @@
       {%- if _getName('lang') == 'lang-en' %}
         English
       {%- else %}
-        {%- if _getName('pwd') == '' and _getName('') == 'index' %}
+        {%- if _getName('pwd') != '' and _getName('') == 'index' %}
           <a href="{{ pathto('index') }}">English</a>
         {%- else %}
           <a href="{{ pathto(_getName("pwd")+'/'+_getName("")) }}">English</a>
@@ -109,7 +109,7 @@
       {%- if _getName('lang') == 'lang-ja' %}
         日本語
       {%- else %}
-        {%- if (_getName('pwd') == '' or _getName('pwd') == 'zh') and _getName('') == 'index' %}
+        {%- if _getName('pwd') != 'ja' and _getName('') == 'index' %}
           <a href="{{ pathto('ja/index') }}">日本語</a>
         {%- else %}
           <a href="{{ pathto('ja/'+_getName("pwd")+'/'+_getName("")) }}">日本語</a>
@@ -119,7 +119,7 @@
       {%- if _getName('lang') == 'lang-zh' %}
         中文
       {%- else %}
-        {%- if (_getName('pwd') == '' or _getName('pwd') == 'ja') and _getName('') == 'index' %}
+        {%- if _getName('pwd') != 'zh' and _getName('') == 'index' %}
           <a href="{{ pathto('zh/index') }}">中文</a>
         {%- else %}
           <a href="{{ pathto('zh/'+_getName("pwd")+'/'+_getName("")) }}">中文</a>
