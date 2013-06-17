@@ -30,6 +30,11 @@ Upcoming Milestones
 Updates
 ========
 
+Georg Brandl selected as keynote speaker
+--------------------------------------------
+
+Python core developer Georg Brandl has been selected as PyCon APAC 2013's first keynot speaker. Find more about Georg on the :doc:`speakers/keynote` page.
+
 Call for Proposals
 --------------------------
 
