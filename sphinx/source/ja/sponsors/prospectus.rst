@@ -77,3 +77,9 @@ Silver スポンサー — 100,000円
 - PyCon APAC Web サイトに掲載
 - スポンサー招待枠 1
 
+申し込みフォーム
+===============================
+
+.. raw:: html
+
+    <iframe src="https://docs.google.com/forms/d/1O0GejeI6Bfj7-JPedNGZEKNLAZ2fYs-bPcfKpculH_4/viewform?embedded=true" width="760" height="1700" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
