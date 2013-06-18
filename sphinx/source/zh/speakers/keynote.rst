@@ -1,5 +1,5 @@
 =====================
-Keynote Speakers
+主題講員
 =====================
 
 Georg Brandl
@@ -7,8 +7,9 @@ Georg Brandl
 
 .. figure:: /_static/georg.jpg
 
-Georg Brandl is a Python core developer since 2005. He now cares for Python 3.2
-and 3.3 as release manager, and is also responsible for the documentation. He
-is also the author of the `Sphinx documentation system <http://sphinx-doc.org/>`_ used by most Python
-projects.  In his spare time, Georg works on his degree in physics at the
-Technical University of Munich.
+Georg Brandl 自 2005 以降即為 Python 的核心開發人員。\
+他目前是 Python 3.2 與 3.3 的發行管理員，也同時負責文件。\
+Georg 是許多 Python 專案所使用的文件工具 `Sphinx <http://sphinx-doc.org/>`_
+的作者。\
+當他有空的時候，Georg 會在慕尼黑技術大學 (Technical University of Munich)
+為他的物理學學位作些事情。
