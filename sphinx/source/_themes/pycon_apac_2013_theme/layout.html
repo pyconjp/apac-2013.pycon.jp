@@ -75,21 +75,24 @@
       {%- if _getName('lang') == 'lang-ja' %}
         <ul>
           <li><a href="{{ pathto('ja/about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('ja/speakers/cfp') }}" class="program">Speakers</a></li>
+          <li class="highlight"><a href="{{ pathto('ja/speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('ja/speakers/keynote') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('ja/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>
       {%- elif _getName('lang') == 'lang-zh' %}
         <ul>
           <li><a href="{{ pathto('zh/about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('zh/speakers/cfp') }}" class="program">Speakers</a></li>
+          <li class="highlight"><a href="{{ pathto('zh/speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('zh/speakers/keynote') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('zh/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('zh/sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>
       {%- else %}
         <ul>
           <li><a href="{{ pathto('about/index') }}" class="program">About</a></li>
-          <li><a href="{{ pathto('speakers/cfp') }}" class="program">Speakers</a></li>
+          <li class="highlight"><a href="{{ pathto('speakers/cfp') }}" class="program">CfP</a></li>
+          <li><a href="{{ pathto('speakers/keynote') }}" class="program">Speakers</a></li>
           <li><a href="{{ pathto('venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('sponsors/prospectus') }}" class="program">Sponsors</a></li>
         </ul>

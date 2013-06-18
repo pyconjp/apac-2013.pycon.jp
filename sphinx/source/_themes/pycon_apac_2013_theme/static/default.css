@@ -96,6 +96,10 @@ td {
 	text-decoration: underline;
 }
 
+#global_nav li.highlight a {
+	background-color: #f5d557;
+}
+
 #lang {
 	position: absolute;
 	right: 0px;
