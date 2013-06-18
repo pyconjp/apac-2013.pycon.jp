@@ -30,6 +30,13 @@
 おしらせ
 ========
 
+Georg Brandl 氏が基調講演者に決定
+-------------------------------
+
+Pythonのコア開発者である Georg Brandl 氏が PyCon APAC 2013 の一人目の基調講演者に決定しました！
+
+Georg Brandl 氏のプロフィールは :doc:`speakers/keynote` のページをご覧下さい。
+
 Call for Proposals 開始
 -----------------------
 
