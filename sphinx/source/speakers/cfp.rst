@@ -2,7 +2,7 @@
  Call for Proposals
 ====================
 
-The call for talk proposals for PyCon APAC 2013 is now open! 
+The call for talk proposals for PyCon APAC 2013 is now open!
 
 We are seeking proposals for talks for this year's PyCon APAC. Is there a talk you want to give on a topic that interests you? Do you want to introduce the community to a library or useful piece of Python software? If so then submit your proposal now!
 
@@ -15,6 +15,9 @@ We are accepting proposals for any type of session so help us make this year a g
 Important Notes
 ==================
 - Talks will be in English and Japanese only.
+
+  - 2 Japanese tracks and 2 English tracks
+
 - Talks will held in 50 minute and 30 minute blocks. We expect that the slots for
   30 minute talks will be limited.
 - If there are more proposals than we can accomadate, the PyCon APAC Management Team

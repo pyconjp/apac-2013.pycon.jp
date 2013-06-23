@@ -47,6 +47,9 @@ confirmed.
      - :doc:`Kogakuin University, Shinjuku/Tokyo <../venue/index>`
    * - Participants (Planned)
      - 500
+   * - Tracks (Planned)
+     - | Japanese: 2
+       | English: 2
    * - Participation Fee
      - TBC
    * - Organizers

@@ -41,6 +41,9 @@ PyCon JP 團隊負責籌備今年的 PyCon APAC，並將依循 PyCon JP 的傳�
      - :doc:`工學院大學 新宿校區 <../venue/index>`
    * - 參加人數 (規畫)
      - 500
+   * - Tracks (Planned)
+     - | Japanese: 2
+       | English: 2
    * - 參加費用
      - 待決
    * - 籌備者
