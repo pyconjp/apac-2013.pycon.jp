@@ -74,6 +74,6 @@
 - PyCon APAC 網站上的表示
 - 1 張招待票
 
-Sponsorship Application Form
+贊助申請表
 ============================
-- `PyCon APAC 2013 in Japan Sponsorship Application Form <https://docs.google.com/forms/d/19qYB6OdtCyNX23pGMf9bpIrE5hpXmU70LJeDF3Obr7Q/edit#>`_
+- `PyCon APAC 2013 in Japan 贊助申請表 <https://docs.google.com/forms/d/19qYB6OdtCyNX23pGMf9bpIrE5hpXmU70LJeDF3Obr7Q/edit#>`_
