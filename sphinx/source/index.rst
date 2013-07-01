@@ -23,12 +23,20 @@ Upcoming Milestones
      - Call for Proposal and Sponsorship Application starts
    * - mid June
      - Ticket Sales starts
-   * - end June
+   * - July 9
      - Call for Proposal ends
 
 
 Updates
 ========
+
+Call for Proposals extended
+---------------------------
+
+Call for Proposals for PyCon APAC 2013 has been extended to July 9.
+
+Please apply from :doc:`speakers/cfp` page.
+
 
 Georg Brandl selected as keynote speaker
 --------------------------------------------
@@ -38,7 +46,7 @@ Python core developer Georg Brandl has been selected as PyCon APAC 2013's first 
 Call for Proposals
 --------------------------
 
-We are glad to announce that we are now inviting for proposals for talks at the PyCon APAC 2013. If you have anything you would like to share with the rest of Pythonians, please apply  from :doc:`speakers/cfp` page!
+We are glad to announce that we are now inviting for proposals for talks at the PyCon APAC 2013. If you have anything you would like to share with the rest of Pythonians, please apply from :doc:`speakers/cfp` page!
 
 
 Sponsoring

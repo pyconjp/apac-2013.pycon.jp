@@ -32,7 +32,7 @@ Important Notes
 
 Schedule
 ==========
-- Proposal Deadline: June 30 2013
+- Proposal Deadline: July 9 2013
 - Proposal Acceptance Deadline: Mid July 2013
 
 Call for Proposals Form
@@ -41,3 +41,6 @@ Call for Proposals Form
 .. raw:: html
 
    <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dExtMHhrRUozZ0Z3dmZpeXNLZlc4c2c6MA" width="1040" height="2960" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
+
+
+If you can't see CfP form, please access CfP form directly from `here <https://docs.google.com/spreadsheet/viewform?formkey=dExtMHhrRUozZ0Z3dmZpeXNLZlc4c2c6MA#gid=0>`_ .
