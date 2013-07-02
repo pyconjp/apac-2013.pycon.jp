@@ -30,6 +30,13 @@ Upcoming Milestones
 Updates
 ========
 
+PyCon APAC 2013 Registration
+--------------------------------
+
+Registration for PyCon APAC 2013 is now open! 
+
+Please see the :doc:`participants registration <registration/index>` page for details.
+
 Call for Proposals extended
 ---------------------------
 
