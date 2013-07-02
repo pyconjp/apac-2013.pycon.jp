@@ -36,6 +36,8 @@ Patron registration includes a normal ticket to PyCon APAC.
    :alt: REGISTER NOW
    :target: http://connpass.com/event/2704/
 
+.. TODO: Partyの説明
+
 .. PyCon JP Party registraiton
 .. ===========================
 .. 
