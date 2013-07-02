@@ -30,9 +30,9 @@ conference for our attendees.
 
 Patron registration includes a normal ticket to PyCon APAC.
 
-|register|
+|register_patron|
 
-.. |register| image:: /_static/register-now.png
+.. |register_patron| image:: /_static/register-now.png
    :alt: REGISTER NOW
    :target: http://connpass.com/event/2704/
 
