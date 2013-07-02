@@ -21,10 +21,13 @@
 
    * - 6月頭
      - 講演内容の受付(Call for Proposals)開始, スポンサー募集開始
-   * - 6月中旬
-     - 一般参加者募集開始
-   * - 7/9(火)
-     - 講演内容の受付終了
+       (:doc:`/ja/sponsors/prospectus`)
+   * - 7月2日
+     - 一般参加者、Patonスポンサー募集開始(:doc:`/ja/registration/index`)
+   * - 7月9日
+     - 講演内容の受付終了(:doc:`/ja/speakers/cfp`)
+   * - 8月14日
+     - EarlyBird(早割)チケット終了
 
 
 おしらせ

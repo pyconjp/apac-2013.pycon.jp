@@ -20,11 +20,13 @@ Upcoming Milestones
    :widths: 20 80
 
    * - early June
-     - Call for Proposal and Sponsorship Application starts
-   * - mid June
-     - Ticket Sales starts
+     - Call for Proposal and Sponsorship Application starts(:doc:`/sponsors/prospectus`)
+   * - July 2
+     - Ticket Sales and Paton Sponsorship starts(:doc:`/registration/index`)
    * - July 9
-     - Call for Proposal ends
+     - Call for Proposal ends(:doc:`/speakers/cfp`)
+   * - August 14
+     - Early Bird Ticket ends
 
 
 Updates
