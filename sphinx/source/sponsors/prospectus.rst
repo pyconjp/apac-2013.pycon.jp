@@ -66,6 +66,12 @@ Silver Level Sponsorship — 100,000 JPY
 - Tote bag insert (provided by sponsor)
 - 1 complimentary pass
 
+PyCon APAC Patron Sponsorship — 10,000 JPY(For individuals and start-up businesses)
+------------------------------------------------------------------------------------
+- Patron sponsor link on PyCon APAC website
+- 1 complimentary pass
+
+Purchase patron sponsor ticket from `PyCon APAC 2013 in Japan(Patron) <http://connpass.com/event/2704/>`_ page.
 
 Media sponsorship (Please contact us)
 -------------------------------------
