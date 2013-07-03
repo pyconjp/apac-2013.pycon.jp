@@ -24,7 +24,7 @@ The ticket includes all talks, lunch, coffee break, T-shirt and etc.
 Patron Sponsorship Registration
 ===============================
 
-PyCon APAC also allows Patron Sopnsorship registrations.
+PyCon APAC also allows Patron Sponsorship registrations.
 Patron registations are a good way to help support PyCon APAC, allow us to cover our costs and provide a better conference for our attendees.
 
 Patron registration includes:
