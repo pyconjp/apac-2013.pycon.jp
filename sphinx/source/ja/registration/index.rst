@@ -5,7 +5,7 @@
 PyCon APAC への EarlyBird 参加登録
 =======================================
 
-PyCon APAC のEarlyBird参加費用は「5,000円」となります。
+PyCon APAC のEarlyBird参加費用は「5,000円」です。
 一般の発表者もチケットが必要となります。
 
 |register|
@@ -42,10 +42,10 @@ Patron スポンサーチケットは下記のボタンから購入可能です�
 .. PyCon JP Party への参加登録
 .. ===========================
 .. 1日目(9月15日)の夜には PyCon JP Party が開催されます。
-.. PyCon JP Party への参加費用は「5,500円」となります。
-.. 
+.. PyCon JP Party への参加費用は「5,500円」です。
+..
 .. |party|
-.. 
+..
 .. .. |party| image:: /_static/buy-party-tickets.png
 ..    :alt: BUY PARTY TICKETS
 ..    :target: http://connpass.com/event/709/
