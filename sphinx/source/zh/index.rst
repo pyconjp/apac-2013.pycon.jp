@@ -30,12 +30,19 @@
 最新報導
 ========
 
-PyCon APAC 2013 Registration Open
+PyCon APAC 2013 開放註冊
 -------------------------------------
 
-Registration for PyCon APAC 2013 is now open! 
+PyCon APAC 2013 的註冊已開放！
 
-Please see the :doc:`participants registration <registration/index>` page for details.
+詳情請見\ :doc:`會眾註冊 <registration/index>`\ 頁面。
+
+Call for Proposals 期限延長
+---------------------------
+
+PyCon APAC 2013 的徵稿期限延長與 7 月 9 日。
+
+歡迎至 :doc:`speakers/cfp` 頁面投稿。
 
 
 Georg Brandl 應邀成為主題講員
