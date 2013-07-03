@@ -152,6 +152,10 @@
         </a>
       </div>
 {%- endmacro %}
+{% macro patron_sponsor(data) -%}
+        <a href="{{ data[1] }}" target="_blank">
+          <img src="{{ pathto('_static/patron/%s.png' % data[0], 1) }}" alt="{{ data[2] }}" /></a>
+{%- endmacro %}
 {% set platinum = [
   ('goga', 'http://www.goga.co.jp/', 'GOGA'),
 ] %}
@@ -166,6 +170,14 @@
   ('triax', 'http://triax.jp/', 'TriAx'),
   ('fairydevices', 'http://www.fairydevices.jp/', 'Fairy Devices'),
   ('beproud', 'http://www.beproud.jp/', 'BePROUD'),
+] %}
+{% set patron = [
+  ('nakagami', 'http://nakagami.blog.so-net.ne.jp/', 'nakagami'),
+  ('rokujyouhitoma', 'http://rokujyouhitoma.jp', 'rokujyouhitoma'),
+  ('just_do_neet', 'https://twitter.com/just_do_neet', 'just_do_neet'),
+  ('bucho', 'http://about.me/torufurukawa', 'Toru Furukawa'),
+  ('hirokiky', 'http://hirokiky.org/', 'hirokiky'),
+  ('aodag', 'http://aodag.posthaven.com/', 'aodag'),
 ] %}
 {% set media = [
   ('gihyo', 'http://gihyo.jp/', 'gihyo.jp'),
@@ -228,6 +240,11 @@
     </div>
 
     <h4>PyCon APAC Patron</h4>
+    <div class="banners">
+      {% for data in patron %}
+        {{ patron_sponsor(data) }}
+      {% endfor %}
+    </div>
 
     {%- if _getName('lang') == 'lang-ja' %}
       <h4>メディアスポンサー</h4>
