@@ -30,6 +30,14 @@
 最新報導
 ========
 
+PyCon APAC 2013 Registration Open
+-------------------------------------
+
+Registration for PyCon APAC 2013 is now open! 
+
+Please see the :doc:`participants registration <registration/index>` page for details.
+
+
 Georg Brandl 應邀成為主題講員
 --------------------------------------------
 
