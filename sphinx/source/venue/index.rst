@@ -89,14 +89,24 @@ Shops & Restaurants
 
 Special Requirements
 ------------------------------
-Dietary requirements are not common among Japanese, and it is not well understood about vegan, muslim halal and other dietary requirements. It is adviseable to bring the list of what you can eat / you can't eat with pictures if you would like to venture into local Japanese restaurants (e.g. if you can take dairy products when you are vegetarian)
 
-Here are some vegan and halal friendly restaurans.
+Dietary requirements are not common among Japanese, and dietary requirements
+such as vegan, or muslim halal are not well understood. It is adviseable to
+bring a list of what you can and cannot eat with pictures if you would like to
+venture into local Japanese restaurants (e.g. if you consume dairy products
+when you are vegetarian)
+
+Here are some vegetarian and halal friendly restaurants.
 
 * `Vegetarian <http://www.vegguide.org/region/364>`_
 * `Muslim Halal Food <http://www.tripadvisor.com/ShowTopic-g1066457-i13059-k3667894-Halal_muslim_food-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html>`_
 
-
 Weather
 ==============================
+
+The weather in Japan in September is warm and humid with the average daytime
+temperature being 27 C (81 F) and the average nighttime low being 21 C (70 F).
+August and September is peak Typhoon season so you may want to have an umbrella
+and catch up on the local weather report before traveling.
+
 `Weather Forecast <http://www.accuweather.com/en/jp/tokyo/226396/month/226396?monyr=9/01/2013>`_
