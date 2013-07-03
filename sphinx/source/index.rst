@@ -32,8 +32,8 @@ Upcoming Milestones
 Updates
 ========
 
-PyCon APAC 2013 Registration
---------------------------------
+PyCon APAC 2013 Registration Open
+-------------------------------------
 
 Registration for PyCon APAC 2013 is now open! 
 
