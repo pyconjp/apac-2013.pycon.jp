@@ -144,6 +144,34 @@
 {%- endblock body %}
   </div>
 
+{# スポンサー情報を出力するためのmacro #}
+{% macro sponsor(data) -%}
+      <div class="banner">
+        <a href="{{ data[1] }}" target="_blank">
+          <img src="{{ pathto('_static/image/logo_%s.png' % data[0], 1) }}" alt="{{ data[2] }}" />
+        </a>
+      </div>
+{%- endmacro %}
+{% set platinum = [
+  ('goga', 'http://www.goga.co.jp/', 'GOGA'),
+] %}
+{% set gold = [
+] %}
+{% set silver = [
+  ('codeiq', 'https://codeiq.jp/', 'CodeIQ'),
+  ('zerostart', 'http://zero-start.jp/', 'zerostart'),
+  ('cb21', 'http://www.cb21.co.jp/', 'Catchball21'),
+  ('bizmobile', 'http://www.bizmobile.co.jp/', 'BizMobile'),
+  ('nexedi', 'http://www.nexedi.co.jp/', 'Nexedi'),
+  ('triax', 'http://triax.jp/', 'TriAx'),
+  ('fairydevices', 'http://www.fairydevices.jp/', 'Fairy Devices'),
+  ('beproud', 'http://www.beproud.jp/', 'BePROUD'),
+] %}
+{% set media = [
+  ('gihyo', 'http://gihyo.jp/', 'gihyo.jp'),
+  ('codezine', 'http://codezine.jp/', 'CodeZine'),
+  ('oreilly', 'http://www.oreilly.co.jp/', "O'Reilly Japan"),
+] %}
 {%- block sidebar %}
   <div id="sidebar">
     {%- if _getName('lang') == 'lang-ja' %}
@@ -161,6 +189,47 @@
     {%- endif %}
 
     {%- if _getName('lang') == 'lang-ja' %}
+      <h4>Platinum スポンサー</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>白金級贊助</h4>
+    {%- else %}
+      <h4>Platinum sponsors</h4>
+    {%- endif %}
+    <div class="banners">
+      {% for data in platinum %}
+        {{ sponsor(data) }}
+      {% endfor %}
+    </div>
+
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h4>Gpld スポンサー</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>黃金級贊助</h4>
+    {%- else %}
+      <h4>Gold sponsors</h4>
+    {%- endif %}
+    <div class="banners">
+      {% for data in gold %}
+        {{ sponsor(data) }}
+      {% endfor %}
+    </div>
+
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h4>Silver スポンサー</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>白銀級贊助</h4>
+    {%- else %}
+      <h4>Silver sponsors</h4>
+    {%- endif %}
+    <div class="banners">
+      {% for data in silver %}
+        {{ sponsor(data) }}
+      {% endfor %}
+    </div>
+
+    <h4>PyCon APAC Patron</h4>
+
+    {%- if _getName('lang') == 'lang-ja' %}
       <h4>メディアスポンサー</h4>
     {%- elif _getName('lang') == 'lang-zh' %}
       <h4>媒體贊助</h4>
@@ -168,23 +237,9 @@
       <h4>Media sponsors</h4>
     {%- endif %}
     <div class="banners">
-      <div class="banner">
-        <a href="http://gihyo.jp/" target="_blank">
-          <img src="{{ pathto('_static/image/logo_gihyo.png', 1) }}" />
-        </a>
-      </div>
-      <hr />
-      <div class="banner">
-        <a href="http://codezine.jp/" target="_blank">
-          <img src="{{ pathto('_static/image/logo_codezine.png', 1) }}" />
-        </a>
-      </div>
-      <hr />
-      <div class="banner">
-        <a href="http://www.oreilly.co.jp/" target="_blank">
-          <img src="{{ pathto('_static/image/logo_oreilly.png', 1) }}" />
-        </a>
-      </div>
+      {% for data in media %}
+        {{ sponsor(data) }}
+      {% endfor %}
     </div>
   </div>
 {%- endblock sidebar %}
