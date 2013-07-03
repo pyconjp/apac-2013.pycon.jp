@@ -40,7 +40,7 @@ confirmed.
    * - Conference
      - 2013-09-14(Sat)-15(Sun)
    * - Development Sprints
-     - 2013-09-16(Mon / Publich Holiday in Japan)
+     - 2013-09-16(Mon / Public Holiday in Japan)
    * - Theme
      - The Year of Python
    * - Venue
