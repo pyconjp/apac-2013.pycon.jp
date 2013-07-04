@@ -33,9 +33,4 @@ Pythonに関連する事柄で、Pythonユーザーと共有したい情報、�
 
 Call for Proposals 申請フォーム
 ===============================
-
-.. raw:: html
-
-   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dExtMHhrRUozZ0Z3dmZpeXNLZlc4c2c6MA" width="1040" height="2960" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
-
-フォームが表示されない方は `こちら <https://docs.google.com/spreadsheet/viewform?formkey=dExtMHhrRUozZ0Z3dmZpeXNLZlc4c2c6MA#gid=0>`_ から直接フォームにアクセスしてください。
+`CfPの応募はこちらから <https://docs.google.com/spreadsheet/viewform?formkey=dExtMHhrRUozZ0Z3dmZpeXNLZlc4c2c6MA#gid=0>`_
