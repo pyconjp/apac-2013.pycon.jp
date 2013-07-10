@@ -113,6 +113,15 @@ Silver
    :target: http://www.fairydevices.jp/
    :alt: FairyDevices
 
+|shannon|
+---------
+- Shannon Lab
+- http://shannon-lab.org/
+
+.. |shannon| image:: /_themes/pycon_apac_2013_theme/static/image/logo_shannon.png
+   :target: http://shannon-lab.org/
+   :alt: Shannon Lab
+
 |doda|
 ------
 - DODA

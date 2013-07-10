@@ -129,6 +129,17 @@ TriAxは、大学・研究機関や様々な企業とのプロジェクトを通
 | フェアリーデバイセズでは、新しくて面白いものを，みんなで協力してつくっています。
 | 新しい仲間をいつでも募集しているので、気軽に声をかけてくださいね！
 
+|shannon|
+---------
+- Shannon Lab
+- http://shannon-lab.org/
+
+.. |shannon| image:: /_themes/pycon_apac_2013_theme/static/image/logo_shannon.png
+   :target: http://shannon-lab.org/
+   :alt: Shannon Lab
+
+機械学習システムや、音声認識・発話システムを主に扱っており、それらを組み合わせた学習型人工知能システム「誰でもポン」を提供しております。販売促進や病院などの予約システムの簡易化にお役立ち頂けます。
+
 |doda|
 ------
 - DODA
