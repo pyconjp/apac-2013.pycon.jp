@@ -34,6 +34,12 @@
 
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta property="og:title" content="{{ title }} - {{ docstitle }}" />
+  <meta property="og:image" content="http://apac-2013.pycon.jp/_static/image/apac2013_pycon_logo_big.png" />
+  <meta property="og:url" content="http://apac-2013.pycon.jp/{{ pagename }}{{ file_suffix }}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:description" content="PyCon APAC 2013 Official site." />
+  <meta property="og:site_name" content="PyCon APAC 2013" />
   <title>{{ title }} - {{ docstitle }}</title>
   <link rel="shortcut icon" href="{{ pathto('_static/favicon.png', 1) }}" />
   <link rel="stylesheet" href="{{ pathto('_static/normalize.css', 1) }}" type="text/css" />
