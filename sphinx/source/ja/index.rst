@@ -23,13 +23,20 @@
      - スポンサー募集開始
        (:doc:`/ja/sponsors/prospectus`)
    * - 7月2日
-     - 一般参加者、Patonスポンサー募集開始(:doc:`/ja/registration/index`)
+     - 一般参加者、Patronスポンサー募集開始(:doc:`/ja/registration/index`)
    * - 8月14日
      - EarlyBird(早割)チケット終了
 
 
 おしらせ
 ========
+
+Rian Hunter 氏が基調講演者に決定
+---------------------------------
+
+`Dropbox <http://www.dropbox.com/>`_ の三番目のエンジニアである Rian Hunter 氏が PyCon APAC 2013 の二人目の基調講演者に決定しました！
+
+Rian Hunter 氏のプロフィールは :doc:`speakers/keynote` のページをご覧下さい。
 
 Call for Proposal 締め切り
 --------------------------

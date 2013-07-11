@@ -22,13 +22,20 @@ Upcoming Milestones
    * - early June
      - Sponsorship Application starts(:doc:`/sponsors/prospectus`)
    * - July 2
-     - Ticket Sales and Paton Sponsorship starts(:doc:`/registration/index`)
+     - Ticket Sales and Patron Sponsorship starts(:doc:`/registration/index`)
    * - August 14
      - Early Bird Ticket ends
 
 
 Updates
 ========
+
+Rian Hunter selected as keynote speaker
+--------------------------------------------
+
+`Dropbox's <http://www.dropbox.com/>`_ third engineer Rian Hunter has been
+selected as PyCon APAC 2013's second keynote speaker. Find more about Rian on
+the :doc:`speakers/keynote` page.
 
 Call for Proposals ended
 ------------------------
