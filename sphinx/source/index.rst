@@ -22,7 +22,7 @@ Upcoming Milestones
    * - early June
      - Sponsorship Application starts(:doc:`/sponsors/prospectus`)
    * - July 2
-     - Ticket Sales and Paton Sponsorship starts(:doc:`/registration/index`)
+     - Ticket Sales and Patron Sponsorship starts(:doc:`/registration/index`)
    * - August 14
      - Early Bird Ticket ends
 

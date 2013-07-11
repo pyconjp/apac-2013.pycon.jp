@@ -23,7 +23,7 @@
      - スポンサー募集開始
        (:doc:`/ja/sponsors/prospectus`)
    * - 7月2日
-     - 一般参加者、Patonスポンサー募集開始(:doc:`/ja/registration/index`)
+     - 一般参加者、Patronスポンサー募集開始(:doc:`/ja/registration/index`)
    * - 8月14日
      - EarlyBird(早割)チケット終了
 
