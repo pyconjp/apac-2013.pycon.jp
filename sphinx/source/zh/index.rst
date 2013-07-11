@@ -3,15 +3,15 @@
  PyCon APAC 2013
 =================
 
-
 .. toctree::
    :maxdepth: 1
 
    about/index
-   speakers/cfp
-   sponsors/prospectus
+   registration/index
+   speakers/index
    venue/index
-
+   sponsors/index
+   events/index
 
 近期時程
 ====================

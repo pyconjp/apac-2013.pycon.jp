@@ -2,6 +2,11 @@
  PyCon APAC 2013 in Japan Sponsors
 ===================================
 
+.. toctree::
+   :maxdepth: 1
+
+   prospectus
+
 - `スポンサーになるにはこちら>> <prospectus.html>`_
 
 Platinum

@@ -2,6 +2,10 @@
 About PyCon APAC 2013
 ==============================
 
+.. toctree::
+   :maxdepth: 1
+
+   staff
 
 Objective
 ============

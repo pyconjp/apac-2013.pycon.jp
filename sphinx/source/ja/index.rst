@@ -3,15 +3,16 @@
  PyCon APAC 2013
 =================
 
-
 .. toctree::
    :maxdepth: 1
+   :hidden:
 
    about/index
-   speakers/cfp
-   sponsors/prospectus
+   registration/index
+   speakers/index
    venue/index
-
+   sponsors/index
+   events/index
 
 これからのスケジュール
 ======================
