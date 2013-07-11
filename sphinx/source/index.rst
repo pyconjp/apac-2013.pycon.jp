@@ -20,11 +20,9 @@ Upcoming Milestones
    :widths: 20 80
 
    * - early June
-     - Call for Proposal and Sponsorship Application starts(:doc:`/sponsors/prospectus`)
+     - Sponsorship Application starts(:doc:`/sponsors/prospectus`)
    * - July 2
      - Ticket Sales and Paton Sponsorship starts(:doc:`/registration/index`)
-   * - July 9
-     - Call for Proposal ends(:doc:`/speakers/cfp`)
    * - August 14
      - Early Bird Ticket ends
 
@@ -32,19 +30,21 @@ Upcoming Milestones
 Updates
 ========
 
+Call for Proposals ended
+------------------------
+
+Call for Proposals for PyCon APAC 2013 ended at July 9.
+Thank you for your many proposals.
+
+We will publish adopted result on the site.
+
+
 PyCon APAC 2013 Registration Open
 -------------------------------------
 
-Registration for PyCon APAC 2013 is now open! 
+Registration for PyCon APAC 2013 is now open!
 
 Please see the :doc:`participants registration <registration/index>` page for details.
-
-Call for Proposals extended
----------------------------
-
-Call for Proposals for PyCon APAC 2013 has been extended to July 9.
-
-Please apply from :doc:`speakers/cfp` page.
 
 
 Georg Brandl selected as keynote speaker
@@ -52,14 +52,9 @@ Georg Brandl selected as keynote speaker
 
 Python core developer Georg Brandl has been selected as PyCon APAC 2013's first keynote speaker. Find more about Georg on the :doc:`speakers/keynote` page.
 
-Call for Proposals
---------------------------
-
-We are glad to announce that we are now inviting for proposals for talks at the PyCon APAC 2013. If you have anything you would like to share with the rest of Pythonians, please apply from :doc:`speakers/cfp` page!
-
 
 Sponsoring
-----------------------------------
+----------
 
 We would like to invite sponsors to support the PyCon APAC 2013 event, the premier Python community event in our region. The details of the sponsorships program can be found at :doc:`sponsors/prospectus`.
 

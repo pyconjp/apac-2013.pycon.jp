@@ -30,6 +30,15 @@
 最新報導
 ========
 
+Call for Proposals ended
+------------------------
+
+Call for Proposals for PyCon APAC 2013 ended at July 9.
+Thank you for your many proposals.
+
+We will publish adopted result on the site.
+
+
 PyCon APAC 2013 開放註冊
 -------------------------------------
 
@@ -37,26 +46,11 @@ PyCon APAC 2013 的註冊已開放！
 
 詳情請見\ :doc:`會眾註冊 <registration/index>`\ 頁面。
 
-Call for Proposals 期限延長
----------------------------
-
-PyCon APAC 2013 的徵稿期限延長與 7 月 9 日。
-
-歡迎至 :doc:`speakers/cfp` 頁面投稿。
-
 
 Georg Brandl 應邀成為主題講員
 --------------------------------------------
 
 Python 核心開發者 Georg Brandl 應邀成為 PyCon APAC 2013 的首位主題講者。關於 Georg 的詳細資訊，請見\ :doc:`speakers/keynote`\ 頁面。
-
-徵求演講
---------------------------
-
-我們很榮幸地宣布 PyCon APAC 2013 已經開始徵求演講。如果你願意和其它 Pythonians 分享的題目，請至 :doc:`speakers/cfp` 頁面投稿！
-
-.. We are glad to announce that we are now inviting for proposals for talks at the PyCon APAC 2013. If you have anything you would like to share with the rest of Pythonians, please apply  from :doc:`speakers/cfp` page!
-
 
 贊助
 ----------------------------------
