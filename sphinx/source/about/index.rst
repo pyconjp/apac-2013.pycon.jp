@@ -1,6 +1,6 @@
-==============================
-About PyCon APAC 2013
-==============================
+=======================
+ About PyCon APAC 2013
+=======================
 
 .. toctree::
    :maxdepth: 1
@@ -8,7 +8,7 @@ About PyCon APAC 2013
    staff
 
 Objective
-============
+=========
 
 PyCon is a conference where Python users can meet and talk about the
 developments around Python and the Python community.  All Pythonistas in the
@@ -30,7 +30,7 @@ We are also glad to announce that we are arranging tutorial sessions with
 some charge.  We'll post updates once we confirm the details.
 
 Details
-==========
+=======
 
 The summary of event details as below. We'll post updates once further details
 confirmed.
@@ -62,9 +62,8 @@ confirmed.
      - 2013@pycon.jp
 
 
-
 About Organizers
-===================
+================
 
 PyCon APAC 2013 is being organized by the `PyCon JP Organizing Committee`_.
 
@@ -83,13 +82,3 @@ PyCon APAC 2013 is being organized by the `PyCon JP Organizing Committee`_.
 
 
 Refer to :doc:`staff` about the team and meeting minutes archive.
-
-
-
-* Other Information
-====================
-
-.. toctree::
-
-   about/staff
-   about/budget

@@ -78,13 +78,3 @@ PyCon APAC 2013 由 `PyCon JP 籌備委員會`_ 所籌備。
 
 
 關於籌備團隊與籌備會議紀錄，請參考 :doc:`staff`\ 。
-
-
-
-* 其它資訊
-====================
-
-.. toctree::
-
-   about/staff
-   about/budget

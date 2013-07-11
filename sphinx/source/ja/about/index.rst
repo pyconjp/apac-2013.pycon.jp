@@ -72,10 +72,3 @@ PyCon JP 2013 は `PyCon JP 実行委員会`_ PyCon APAC 2013 運営チームに
 
 チームの詳細やミーティング議事録は :doc:`staff` を参照してください。
 
-●その他の情報
-==================
-
-.. toctree::
-
-   about/staff
-   about/budget
