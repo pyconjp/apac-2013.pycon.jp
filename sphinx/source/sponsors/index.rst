@@ -38,6 +38,16 @@ Platinum
 Gold
 ====
 
+|microsoft|
+-----------
+
+- Windows Azure/BizSpark
+- http://windowsazure.com/
+
+.. |microsoft| image:: /_themes/pycon_apac_2013_theme/static/image/logo_winazure.png
+   :target: http://windowsazure.com/
+   :alt: Windows Azure/BizSpark
+
 Silver
 ======
 
@@ -76,6 +86,15 @@ Silver
 .. |cb21| image:: /_themes/pycon_apac_2013_theme/static/image/logo_cb21.png
    :target: http://www.cb21.co.jp/
    :alt: Catchball21
+
+|silveregg|
+-----------
+- Silver Egg Technology
+- http://www.silveregg.co.jp/
+
+.. |silveregg| image:: /_themes/pycon_apac_2013_theme/static/image/logo_silveregg.png
+   :target: http://www.silveregg.co.jp/
+   :alt: Silver Egg Technology
 
 |bizmobile|
 -----------

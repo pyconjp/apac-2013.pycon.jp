@@ -38,6 +38,23 @@ Platinum
 Gold
 ====
 
+|microsoft|
+-----------
+
+- Windows Azure/BizSpark
+- http://windowsazure.com/
+
+マイクロソフトは、よりオープンで相互運用性の高い製品/サービスの開発や技術情報提供に力を入れています。
+
+パブリッククラウド「Windows Azure」は、Pythonはもちろんのこと、PHP、Ruby、Node.js、Javaといった各種言語向けのSDKを提供しており、開発環境としてはWindowsだけではなくMacやLinuxもサポートしています。統合開発環境「Visual Studio」向けの拡張機能「Python Tools for Visual Studio」を使うことで、Python/Djangoアプリケーションの開発生産性を大きく向上することもできます。Python/Djangoアプリケーションの実行環境としては、IaaS型の「Windows Azure仮想マシン」を使い、LinuxやWindows Serverの仮想マシン上で実行することも、標準でPython/DjangoをサポートしているPaaS型のWebサイトホスティングサービス「Windows Azure Webサイト」を使って簡単にアプリケーションを展開することもできます。
+
+“Microsoft has changed as a company. Now, Microsoft is Open to Open Source.”
+今後のマイクロソフトのオープンな取り組みにご期待ください。
+
+.. |microsoft| image:: /_themes/pycon_apac_2013_theme/static/image/logo_winazure.png
+   :target: http://windowsazure.com/
+   :alt: Windows Azure/BizSpark
+
 Silver
 ======
 
@@ -85,6 +102,15 @@ Silver
    :alt: Catchball21
 
 株式会社キャッチボール・トゥエンティワンでは Python と Django を使い、Web アプリケーション構築を行ない、顧客の要望に応えつつ、自社サービスの創造を行なっています。
+
+|silveregg|
+-----------
+- Silver Egg Technology
+- http://www.silveregg.co.jp/
+
+.. |silveregg| image:: /_themes/pycon_apac_2013_theme/static/image/logo_silveregg.png
+   :target: http://www.silveregg.co.jp/
+   :alt: Silver Egg Technology
 
 |bizmobile|
 -----------
