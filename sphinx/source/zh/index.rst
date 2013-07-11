@@ -30,20 +30,17 @@
 最新報導
 ========
 
-Rian Hunter selected as keynote speaker
+Rian Hunter 應邀成為主題講員
 --------------------------------------------
 
-`Dropbox's <http://www.dropbox.com/>`_ third engineer Rian Hunter has been
-selected as PyCon APAC 2013's second keynote speaker. Find more about Rian on
-the :doc:`speakers/keynote` page.
+PyCon APAC 2013 的第二位主題講員確定為 `Dropbox <http://www.dropbox.com/>`_ 的第三號工程師 Rian Hunter。詳細資訊請見\ :doc:`speakers/keynote`\ 頁面。
 
-Call for Proposals ended
-------------------------
+結束徵稿 Call for Proposals
+---------------------------
 
-Call for Proposals for PyCon APAC 2013 ended at July 9.
-Thank you for your many proposals.
+PyCon APAC 2013 Call for Proposals 已於七月九日結束。非常感謝眾多的投稿。
 
-We will publish adopted result on the site.
+我們將會在網站上公告採用資訊。
 
 
 PyCon APAC 2013 開放註冊
