@@ -30,6 +30,13 @@ Upcoming Milestones
 Updates
 ========
 
+Rian Hunter selected as keynote speaker
+--------------------------------------------
+
+`Dropbox's <http://www.dropbox.com/>`_ third engineer Rian Hunter has been
+selected as PyCon APAC 2013's second keynote speaker. Find more about Rian on
+the :doc:`speakers/keynote` page.
+
 Call for Proposals ended
 ------------------------
 
