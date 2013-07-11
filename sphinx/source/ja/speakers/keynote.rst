@@ -17,7 +17,7 @@ Rian Hunter
 
 .. figure:: /_static/rian.jpg
 
-Rian Hunter氏は `Dropbox's <http://www.dropbox.com/>`_ の三番目のエンジニアです。
+Rian Hunter氏は `Dropbox <http://www.dropbox.com/>`_ の三番目のエンジニアです。
 Dropbox初期のアルファ及びベータバージョンの頃から開発に携わり、現在では数億人のユーザを支えています。
 また、彼はMITの卒業生で、そこで分散コンピューティング、データベース、ファイルシステム、
 カーネルと組み込みプログラミング、そしてデータ同期アルゴリズムについて学びました。
