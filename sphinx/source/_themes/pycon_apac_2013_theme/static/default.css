@@ -127,6 +127,12 @@ td {
 	float: left;
 }
 
+#contents_without_sidebar {
+	margin: 40px 0 20px 190px;
+	width: 740px;
+	float: left;
+}
+
 #footer {
 	margin: 0 0 0 190px;
 	padding-top: 7px;
