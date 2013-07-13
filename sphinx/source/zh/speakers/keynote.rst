@@ -19,9 +19,9 @@ Rian Hunter
 
 .. figure:: /_static/rian.jpg
 
-Rian Hunter is `Dropbox's <http://www.dropbox.com/>`_ third engineer. He’s
-developed and helped shape the product from its early alpha and beta versions
-to its current form supporting hundreds of millions of users today. He’s a
-graduate from MIT and his experience spans distributed computing, databases,
-file systems, kernel and embedded programming, and data synchronization
-algorithms.
+Rian Hunter 是 `Dropbox <http://www.dropbox.com/>`_ 的第三號工程師。\
+他自早期的 alpha 與 beta 階段就參與 Dropbox 的開發，\
+一路塑造這個產品，使其如今可承載數億的使用者。\
+Rian 是 MIT 的畢業生。\
+他的經驗横跨分散式計算、資料庫、檔案系統、核心與嵌入式系統程式設計，\
+以及資料同步演算法。
