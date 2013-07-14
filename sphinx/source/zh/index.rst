@@ -20,9 +20,9 @@
    :widths: 20 80
 
    * - 六月初
-     - 開始徵求演講與贊助 (:doc:`/sponsors/prospectus`)
+     - 開始徵求演講與贊助 (:doc:`sponsors/prospectus`)
    * - 七月二日
-     - 開始售票與 Patron 贊助 (:doc:`/registration/index`)
+     - 開始售票與 Patron 贊助 (:doc:`registration/index`)
    * - 八月十四日
      - 結束早鳥
 
