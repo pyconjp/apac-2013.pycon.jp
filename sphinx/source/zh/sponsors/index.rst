@@ -53,6 +53,18 @@ Gold
    :target: http://windowsazure.com/
    :alt: Windows Azure/BizSpark
 
+|google|
+--------
+
+- Google
+- http://developers.google.com/open-source
+
+.. |google| image:: /_themes/pycon_apac_2013_theme/static/image/logo_google.png
+   :target: http://developers.google.com/open-source
+   :alt: Google
+
+Google is a proud user and supporter of open source software and development methodologies. Google contributes back to the Open Source community in many ways, including more than 35 million lines of source code, project hosting on Google Code, programs for students including Google Summer of Code and the Google Code-in Contest, and support for a wide variety of projects, programs, and events around the world.
+
 Silver
 ======
 
