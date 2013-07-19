@@ -36,10 +36,10 @@ Performance of `PyCon JP 2012 <http://2012.pycon.jp/en/>`_ was as follows:
 
 
 Sponsorship Packages(Deadline: early August)
-====================
+============================================
 
 Platinum Level Sponsorship — 500,000 JPY(Reception end)
------------------------------------------------------
+--------------------------------------------------------
 - Platinum sponsor link on PyCon APAC website
 - A description on PyCon APAC website
 - A logo in PyCon APAC program guide
