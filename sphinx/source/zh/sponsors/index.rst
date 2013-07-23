@@ -185,3 +185,11 @@ Silver
    :target: http://www.marimore.co.jp/ja/
    :alt: MARIMORE
 
+|ariel|
+----------
+- Ariel Networks
+- http://www.ariel-networks.com/
+
+.. |ariel| image:: /_themes/pycon_apac_2013_theme/static/image/logo_ariel.png
+   :target: http://www.ariel-networks.com/
+   :alt: Ariel Networks

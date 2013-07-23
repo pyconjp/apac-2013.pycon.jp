@@ -211,3 +211,14 @@ TriAxは、大学・研究機関や様々な企業とのプロジェクトを通
    :alt: MARIMORE
 
 2007年から個人向けのショートメッセージ（SMS）配信サービスからはじめ、2011年から企業や開発者向けのSMS配信ウェブサービスAPIを提供しています。Djangoを利用しています。
+
+|ariel|
+----------
+- Ariel Networks
+- http://www.ariel-networks.com/
+
+.. |ariel| image:: /_themes/pycon_apac_2013_theme/static/image/logo_ariel.png
+   :target: http://www.ariel-networks.com/
+   :alt: Ariel Networks
+
+世界に通用する技術力と、会社の成長戦略を支えお客様の信頼に応える各分野のスペシャリスト達の存在です。『“空気のように意識せず使えるネットワーク・コンピューティング”を、より多くの企業において実現する』　―　これが、アリエルが掲げるビジョンです。世界に通じる技術者と、その技術者が創り上げる製品によって次世代の情報活用シーンをリードし、ビジネスの加速化を支援します。
