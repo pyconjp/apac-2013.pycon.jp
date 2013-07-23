@@ -281,6 +281,18 @@
         {{ sponsor(data) }}
       {% endfor %}
     </div>
+
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h4>共催</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>Co-organizer</h4>
+    {%- else %}
+      <h4>Co-organizer</h4>
+    {%- endif %}
+    <div class="banners">
+      {{ sponsor(('kogakuin', 'http://www.kogakuin.ac.jp/', '工学院大学')) }}
+    </div>
+
   </div>
 {%- endif %}
 {%- endblock sidebar %}
