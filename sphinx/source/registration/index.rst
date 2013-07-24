@@ -5,15 +5,15 @@ Registration
 PyCon APAC Early Bird Registration
 =======================================
 
+|register|
+
+.. |register| image:: /_static/register.png
+   :alt: REGISTER NOW
+   :target: http://connpass.com/event/2703/
+
 The registration fee for PyCon APAC is "5,000 JPY".
 
 Early Bird Registration is open until August 14, 2013.
-
-|register|
-
-.. |register| image:: /_static/register-now.png
-   :alt: REGISTER NOW
-   :target: http://connpass.com/event/2703/
 
 The ticket includes all talks, lunch, coffee break, T-shirt and etc.
 
@@ -24,7 +24,13 @@ The ticket includes all talks, lunch, coffee break, T-shirt and etc.
 Patron Sponsorship Registration
 ===============================
 
-PyCon APAC also allows Patron Sponsorship registrations.
+|register_patron|
+
+.. |register_patron| image:: /_static/patron.png
+   :alt: PATRON Sponsorship
+   :target: http://connpass.com/event/2704/
+
+PyCon APAC also allows Patron Sponsorship(10,000 JPY) registrations.
 Patron registations are a good way to help support PyCon APAC, allow us to cover our costs and provide a better conference for our attendees.
 
 Patron registration includes:
@@ -32,22 +38,14 @@ Patron registration includes:
 - Patron sponsor link on PyCon APAC website
 - 1 complimentary pass
 
-|register_patron|
+PyCon APAC Party registraiton
+=============================
 
-.. |register_patron| image:: /_static/register-now.png
-   :alt: REGISTER NOW
-   :target: http://connpass.com/event/2704/
+|party|
 
-.. TODO: Partyの説明
+.. |party| image:: /_static/party.png
+   :alt: BUY a PARTY Tickets
+   :target: http://connpass.com/event/2921/
 
-.. PyCon JP Party registraiton
-.. ===========================
-.. 
-.. PyCon JP Party is held at night of Day 1(September 15).
-.. PyCon JP Party registration fee is "5,500 JPY".
-.. 
-.. |party|
-.. 
-.. .. |party| image:: /_static/buy-party-tickets.png
-..    :alt: BUY PARTY TICKETS
-..    :target: http://connpass.com/event/709/
+We will hold PyCon APAC 2013 Party at night of Day 1(September 14).
+Party registration fee is “6,000 JPY”.
