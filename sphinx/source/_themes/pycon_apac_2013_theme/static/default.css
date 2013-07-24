@@ -154,3 +154,6 @@ div.banner {
   margin-bottom: 15px;
 }
 
+.lang-unavailable {
+	color: #ccc;
+}
