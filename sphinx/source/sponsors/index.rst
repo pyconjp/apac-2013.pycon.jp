@@ -194,3 +194,12 @@ Silver
    :target: http://www.ariel-networks.com/
    :alt: Ariel Networks
 
+|tracpath|
+----------
+- tracpath
+- http://tracpath.com/
+
+.. |tracpath| image:: /_themes/pycon_apac_2013_theme/static/image/logo_tracpath.png
+   :target: http://www.tracpath-networks.com/
+   :alt: tracpath
+
