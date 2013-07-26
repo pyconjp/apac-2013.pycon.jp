@@ -85,4 +85,4 @@ Patron スポンサーは `PyCon APAC 2013 in Japan(Patron) <http://connpass.com
 
 スポンサー情報入力フォーム
 ==========================
-- `PyCon APAC 2013 in Japan スポンサー情報入力フォーム <https://docs.google.com/forms/d/1O0GejeI6Bfj7-JPedNGZEKNLAZ2fYs-bPcfKpculH_4/edit#>`_
+- `PyCon APAC 2013 in Japan スポンサー情報入力フォーム <https://docs.google.com/forms/d/1O0GejeI6Bfj7-JPedNGZEKNLAZ2fYs-bPcfKpculH_4/viewform>`_
