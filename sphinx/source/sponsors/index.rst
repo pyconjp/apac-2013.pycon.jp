@@ -53,6 +53,14 @@ Gold
    :target: http://windowsazure.com/
    :alt: Windows Azure/BizSpark
 
+Microsoft focuses on developing and providing technical information of more open and interoperable products/services.
+
+Microsoft’s public cloud “Windows Azure” provides SDKs for not only Python but also various programing languages such as PHP, Ruby Node.js and Java. It supports Mac and Linux in addition to Windows as a development environment.
+You can improve development productivity of Python/Django applications using integrated development environment “Visual Studio” and its extension “Python Tools for Visual Studio (PTVS)”.
+
+You can host Python/Django applications on Linux or Windows Server VMs of “Windows Azure Virtual Machines” (IaaS). Alternatively, you can easily deploy Python/Django applications to “Windows Azure Web Sites” (PaaS).
+“Microsoft has changed as a company. Now, Microsoft is Open to Open Source.” Please stay tuned our openness and interoperability :)
+
 |google|
 --------
 
