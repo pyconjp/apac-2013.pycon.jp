@@ -37,6 +37,8 @@ Patron 票種 (日幣 10,000 圓) 包含：
 - PyCon APAC 網站上的 Patron 贊助連結
 - 1 張招待票
 
+Patron Sponsorship fee is expected to be used as "travel support", "student ticket" and etc.
+
 PyCon APAC Party registraiton
 =============================
 
