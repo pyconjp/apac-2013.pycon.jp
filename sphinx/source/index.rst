@@ -12,7 +12,7 @@
    speakers/index
    venue/index
    sponsors/index
-   events/index
+   program/index
    ja/index
    zh/index
 

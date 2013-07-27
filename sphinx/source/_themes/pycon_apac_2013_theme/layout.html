@@ -87,20 +87,19 @@
         {%- if _getName('lang') == 'lang-ja' %}
           <li><a href="{{ pathto('ja/about/index') }}" class="program">About</a></li>
           <li><a href="{{ pathto('ja/registration/index') }}" class="program">Registration</a></li>
-          <li><a href="{{ pathto('ja/events/index') }}" class="program">Events</a></li>
-          <li><a href="{{ pathto('ja/speakers/keynote') }}" class="program">Speakers</a></li>
+          <li><a href="{{ pathto('ja/program/index') }}" class="program">Program</a></li>
           <li><a href="{{ pathto('ja/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('ja/sponsors/index') }}" class="program">Sponsors</a></li>
         {%- elif _getName('lang') == 'lang-zh' %}
           <li><a href="{{ pathto('zh/about/index') }}" class="program">About</a></li>
           <li><a href="{{ pathto('zh/registration/index') }}" class="program">Registration</a></li>
-          <li><a href="{{ pathto('zh/speakers/keynote') }}" class="program">Speakers</a></li>
+          <li><a href="{{ pathto('zh/program/index') }}" class="program">Program</a></li>
           <li><a href="{{ pathto('zh/venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('zh/sponsors/index') }}" class="program">Sponsors</a></li>
         {%- else %}
           <li><a href="{{ pathto('about/index') }}" class="program">About</a></li>
           <li><a href="{{ pathto('registration/index') }}" class="program">Registration</a></li>
-          <li><a href="{{ pathto('speakers/keynote') }}" class="program">Speakers</a></li>
+          <li><a href="{{ pathto('program/index') }}" class="program">Program</a></li>
           <li><a href="{{ pathto('venue/index') }}" class="program">Venue</a></li>
           <li><a href="{{ pathto('sponsors/index') }}" class="program">Sponsors</a></li>
         {%- endif %}
@@ -111,7 +110,7 @@
       {%- if _getName('lang') == 'lang-en' %}
         English
       {%- else %}
-        {%- if _getName('my') == 'ja-events-index' %}
+        {%- if _getName('my') == 'ja-program-tutorials' %}
           <span class="lang-unavailable">English</span>
         {%- elif _getName('my') == 'ja-index' or _getName('my') == 'zh-index' %}
           <a href="{{ pathto('index') }}">English</a>
@@ -133,7 +132,7 @@
       {%- if _getName('lang') == 'lang-zh' %}
         中文
       {%- else %}
-        {%- if _getName('my') == 'ja-events-index' %}
+        {%- if _getName('my') == 'ja-program-tutorials' %}
           <span class="lang-unavailable">中文</span>
         {%- elif _getName('my') == 'index' or _getName('my') == 'ja-index' %}
           <a href="{{ pathto('zh/index') }}">中文</a>
