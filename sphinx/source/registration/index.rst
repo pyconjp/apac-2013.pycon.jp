@@ -38,6 +38,8 @@ Patron registration includes:
 - Patron sponsor link on PyCon APAC website
 - 1 complimentary pass
 
+Patron Sponsorship fee is expected to be used as "travel support", "student ticket" and etc.
+
 PyCon APAC Party registraiton
 =============================
 

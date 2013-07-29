@@ -12,7 +12,7 @@
    speakers/index
    venue/index
    sponsors/index
-   events/index
+   program/index
 
 これからのスケジュール
 ======================
@@ -36,7 +36,7 @@
 --------------------------
 カンファレンス前日 2013-09-13(金) に開催予定のチュートリアルに関する情報を一部公開しました。
 
-詳細は :doc:`events/index` のページをご覧下さい。
+詳細は :doc:`program/tutorials` のページをご覧下さい。
 
 Rian Hunter 氏が基調講演者に決定
 ---------------------------------
