@@ -35,6 +35,11 @@ Upcoming Milestones
 Updates
 ========
 
+After Conference Party
+-----------------------------------------------
+:doc:`/venue/party` details is out now and ticket is available at `Connpass <http://connpass.com/event/2921/>`_ . Once you reserved your conference seat, please secure your drink!
+
+
 Support for a long distance participant program
 -----------------------------------------------
 We started the acceptance of the travel support of PyCon APAC participants.

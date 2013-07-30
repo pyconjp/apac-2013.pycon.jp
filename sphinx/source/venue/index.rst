@@ -2,6 +2,14 @@
 Venue
 ==============================
 
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+
+   party
+
+Please refer to :doc:`party` for party details.
+
 
 Venue Details
 ==============================
