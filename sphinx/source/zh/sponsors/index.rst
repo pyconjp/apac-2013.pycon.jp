@@ -193,6 +193,17 @@ Silver
    :target: http://www.marimore.co.jp/ja/
    :alt: MARIMORE
 
+|github|
+--------
+- GitHub
+- http://www.github.com/
+
+.. |github| image:: /_themes/pycon_apac_2013_theme/static/image/logo_github.png
+   :target: http://www.github.com/
+   :alt: GitHub
+
+GitHub is the best way to build software together. Whether it's your company's app, your favorite open source library, or a weekend side project, GitHub helps everyone work better by providing tools for easier collaboration and code sharing on any device. Start collaborating today—open source project hosting is free!
+
 |ariel|
 ----------
 - Ariel Networks

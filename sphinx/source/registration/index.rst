@@ -2,6 +2,10 @@
 Registration
 ==============================
 
+.. toctree::
+
+   support
+
 PyCon APAC Early Bird Registration
 =======================================
 
@@ -17,8 +21,8 @@ Early Bird Registration is open until August 14, 2013.
 
 The ticket includes all talks, lunch, coffee break, T-shirt and etc.
 
-.. In addition, we prepared for a system to support the travel cost of the participant.
-.. Please refer to :doc:`support` (Deadline: August 7).
+In addition, we prepared for a system to support the travel cost of the participant.
+Please refer to :doc:`support` (Deadline: August 11).
 
 
 Patron Sponsorship Registration
@@ -37,6 +41,8 @@ Patron registration includes:
 
 - Patron sponsor link on PyCon APAC website
 - 1 complimentary pass
+
+Patron Sponsorship fee is expected to be used as "travel support", "student ticket" and etc.
 
 PyCon APAC Party registraiton
 =============================

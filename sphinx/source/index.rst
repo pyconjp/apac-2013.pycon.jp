@@ -26,12 +26,26 @@ Upcoming Milestones
      - Sponsorship Application starts(:doc:`/sponsors/prospectus`)
    * - July 2
      - Ticket Sales and Patron Sponsorship starts(:doc:`/registration/index`)
+   * - August 11
+     - Travel support proposal ends(:doc:`/registration/support`)
    * - August 14
      - Early Bird Ticket ends
 
 
 Updates
 ========
+
+After Conference Party
+-----------------------------------------------
+:doc:`/venue/party` details is out now and ticket is available at `Connpass <http://connpass.com/event/2921/>`_ . Once you reserved your conference seat, please secure your drink!
+
+
+Support for a long distance participant program
+-----------------------------------------------
+We started the acceptance of the travel support of PyCon APAC participants.
+The deadline is August 11.
+
+Please see the :doc:`/registration/support` page.
 
 Rian Hunter selected as keynote speaker
 --------------------------------------------
