@@ -240,7 +240,18 @@ GitHub is the best way to build software together. Whether it's your company's a
 - http://tracpath.com/
 
 .. |tracpath| image:: /_themes/pycon_apac_2013_theme/static/image/logo_tracpath.png
-   :target: http://www.tracpath-networks.com/
+   :target: http://tracpath.com/
    :alt: tracpath
 
 tracpath はソフトウェア開発に必要なバージョン管理(Git, Subversion,  Mercurial)とプロジェクト管理をクラウドでご提供。tracpath と DevOps に特化したソフトウェア企業です。
+
+|iridge|
+----------
+- iRidge
+- http://iridge.jp/
+
+.. |iridge| image:: /_themes/pycon_apac_2013_theme/static/image/logo_iridge.png
+   :target: http://iridge.jp/
+   :alt: iRidge
+
+アイリッジではスマートフォンを利用した位置情報連動型の情報配信プラットフォーム「popinfo」を中心に、O2Oマーケティングに注力しています。その根幹をPython(Django)をはじめとするオープンソースソフトウェア技術およびコンピューティングクラウドなどの技術により開発・運営を行なっています。
