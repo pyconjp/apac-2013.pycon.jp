@@ -201,6 +201,10 @@ TriAxは、大学・研究機関や様々な企業とのプロジェクトを通
    :target: http://www.beproud.jp/
    :alt: BePROUD
 
+ビープラウドはPythonをメイン言語としており、優秀なPythonistaが集まるとも知られている会社です。
+
+勉強会BPStudyの主催、IT勉強会のためのサイトconnpass運営など、コミュニティ活動にも積極的に取り組んでいます。
+
 |marimore|
 ----------
 - MARIMORE
