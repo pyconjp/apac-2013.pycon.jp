@@ -183,14 +183,14 @@ TriAxは、大学・研究機関や様々な企業とのプロジェクトを通
 
 機械学習システムや、音声認識・発話システムを主に扱っており、それらを組み合わせた学習型人工知能システム「誰でもポン」を提供しております。販売促進や病院などの予約システムの簡易化にお役立ち頂けます。
 
-|doda|
-------
-- DODA
-- http://doda.jp/engineer/
+|intelligence|
+--------------
+- intelligence
+- http://www.inte.co.jp/
 
-.. |doda| image:: /_themes/pycon_apac_2013_theme/static/image/logo_doda.png
-   :target: http://doda.jp/engineer/
-   :alt: DODA
+.. |intelligence| image:: /_themes/pycon_apac_2013_theme/static/image/logo_intelligence.png
+   :target: http://www.inte.co.jp/
+   :alt: intelligence
 
 |beproud|
 ---------
