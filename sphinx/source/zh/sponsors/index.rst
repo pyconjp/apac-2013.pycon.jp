@@ -240,3 +240,12 @@ GitHub is the best way to build software together. Whether it's your company's a
 .. |iridge| image:: /_themes/pycon_apac_2013_theme/static/image/logo_iridge.png
    :target: http://iridge.jp/
    :alt: iRidge
+
+|erato|
+-------
+- JST ERATO Minato Discrete Strucure Manipulation System Project
+- http://www-erato.ist.hokudai.ac.jp/
+
+.. |erato| image:: /_themes/pycon_apac_2013_theme/static/image/logo_erato.png
+   :target: http://www-erato.ist.hokudai.ac.jp/
+   :alt: JST ERATO Minato Discrete Strucure Manipulation System Project

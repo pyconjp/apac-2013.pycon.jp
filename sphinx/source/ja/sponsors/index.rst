@@ -269,3 +269,14 @@ tracpath はソフトウェア開発に必要なバージョン管理(Git, Subve
    :alt: iRidge
 
 アイリッジではスマートフォンを利用した位置情報連動型の情報配信プラットフォーム「popinfo」を中心に、O2Oマーケティングに注力しています。その根幹をPython(Django)をはじめとするオープンソースソフトウェア技術およびコンピューティングクラウドなどの技術により開発・運営を行なっています。
+
+|erato|
+-------
+- JST ERATO Minato Discrete Strucure Manipulation System Project
+- http://www-erato.ist.hokudai.ac.jp/
+
+.. |erato| image:: /_themes/pycon_apac_2013_theme/static/image/logo_erato.png
+   :target: http://www-erato.ist.hokudai.ac.jp/
+   :alt: JST ERATO Minato Discrete Strucure Manipulation System Project
+
+本プロジェクトは、JST の進める戦略的創造研究推進事業のひとつで、大規模かつ多様な離散データを効率的に処理する基盤技術ならびに応用研究を推進しています。
