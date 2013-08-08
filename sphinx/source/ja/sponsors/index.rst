@@ -270,6 +270,17 @@ tracpath はソフトウェア開発に必要なバージョン管理(Git, Subve
 
 アイリッジではスマートフォンを利用した位置情報連動型の情報配信プラットフォーム「popinfo」を中心に、O2Oマーケティングに注力しています。その根幹をPython(Django)をはじめとするオープンソースソフトウェア技術およびコンピューティングクラウドなどの技術により開発・運営を行なっています。
 
+|heroku|
+--------
+- Heroku
+- http://www.heroku.com/
+
+.. |heroku| image:: /_themes/pycon_apac_2013_theme/static/image/logo_heroku.png
+   :target: http://www.heroku.com/
+   :alt: Heroku
+
+HerokuはPythonをはじめRubyやJavaなど、複数のプログラミング言語に対応した世界で最も先進的なPaaSです。アプリ開発者はサーバ管理から解放され100%開発に集中できるようになります。
+
 |erato|
 -------
 - JST ERATO Minato Discrete Strucure Manipulation System Project
