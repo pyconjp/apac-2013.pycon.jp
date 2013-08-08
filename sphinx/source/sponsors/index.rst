@@ -241,6 +241,15 @@ GitHub is the best way to build software together. Whether it's your company's a
    :target: http://iridge.jp/
    :alt: iRidge
 
+|heroku|
+--------
+- Heroku
+- http://www.heroku.com/
+
+.. |heroku| image:: /_themes/pycon_apac_2013_theme/static/image/logo_heroku.png
+   :target: http://www.heroku.com/
+   :alt: Heroku
+
 |erato|
 -------
 - JST ERATO Minato Discrete Strucure Manipulation System Project
