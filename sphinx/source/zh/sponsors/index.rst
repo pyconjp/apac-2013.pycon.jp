@@ -131,6 +131,8 @@ Silver
    :target: http://www.silveregg.co.jp/
    :alt: Silver Egg Technology
 
+Silver Egg Technology provides targeted item recommendation service to many of Japan's top-tier internet sites. The company works closely with clients to develop innovative targeting solutions based on deep customer knowledge. Its mission is to become a world-wide leader in predictive marketing services.
+
 |bizmobile|
 -----------
 - BizMobile

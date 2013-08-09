@@ -139,6 +139,8 @@ Silver
    :target: http://www.silveregg.co.jp/
    :alt: Silver Egg Technology
 
+シルバーエッグ・テクノロジーは日本の大手ネットビジネスを中心にレコメンドサービスを提供。技術力とサポートには高い評価あり。リターゲティング広告サービス、レコメンドメールなどのサービスも提供している。
+
 |bizmobile|
 -----------
 - BizMobile
