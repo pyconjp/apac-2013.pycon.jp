@@ -315,3 +315,14 @@ HerokuはPythonをはじめRubyやJavaなど、複数のプログラミング言
    :alt: STREAM PLUS
 
 ストリームプラスは、YouTube Live、USTREAM、ニコニコ生放送、Livestream などのリアルタイム映像配信を業界No1の実績とノウハウでサポートします。
+
+|ousia|
+-------
+- Studio Ousia
+- http://www.ousia.jp/
+
+.. |ousia| image:: /_themes/pycon_apac_2013_theme/static/image/logo_ousia.png
+   :target: http://www.ousia.jp/
+   :alt: Studio Ousia
+
+人工知能を用いた言語解析に関する技術開発を行っています。Cython、gevent、MessagePack-RPC、NumPy、scikit-learn、PiCloud等のライブラリ／サービスを使用。

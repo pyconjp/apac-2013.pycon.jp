@@ -281,3 +281,12 @@ Plone is the leading python-based Content Management System. Plone is secure, fl
    :target: http://ustream.siteplus.jp/
    :alt: STREAM PLUS
 
+|ousia|
+-------
+- Studio Ousia
+- http://www.ousia.jp/
+
+.. |ousia| image:: /_themes/pycon_apac_2013_theme/static/image/logo_ousia.png
+   :target: http://www.ousia.jp/
+   :alt: Studio Ousia
+
