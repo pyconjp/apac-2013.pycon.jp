@@ -49,7 +49,7 @@ Platinum Level Sponsorship — 500,000 JPY(Reception end)
 
 
 Gold Level Sponsorship — 300,000 JPY(Reception end)
--------------------------------------
+----------------------------------------------------
 - Gold sponsor link on PyCon APAC website
 - A description on PyCon APAC website
 - A logo in PyCon APAC program guide
