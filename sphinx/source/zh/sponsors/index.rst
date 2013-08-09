@@ -232,6 +232,17 @@ GitHub is the best way to build software together. Whether it's your company's a
    :target: http://tracpath.com/
    :alt: tracpath
 
+|plone|
+-------
+- Plone
+- http://plone.org/
+
+.. |plone| image:: /_themes/pycon_apac_2013_theme/static/image/logo_plone.png
+   :target: http://plone.org/
+   :alt: Plone
+
+Plone is the leading python-based Content Management System. Plone is secure, flexible, and easy to adapt for organizations of almost any size. From easy theming to powerful work-flows, from integration with LDAP and SQL databases to high-availability scenarios, Plone is the premier choice for professional intranets and websites.
+
 |iridge|
 ----------
 - iRidge
