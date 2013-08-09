@@ -269,3 +269,13 @@ Plone is the leading python-based Content Management System. Plone is secure, fl
 .. |erato| image:: /_themes/pycon_apac_2013_theme/static/image/logo_erato.png
    :target: http://www-erato.ist.hokudai.ac.jp/
    :alt: JST ERATO Minato Discrete Strucure Manipulation System Project
+
+|streamplus|
+------------
+- STREAM PLUS
+- http://ustream.siteplus.jp/
+
+.. |streamplus| image:: /_themes/pycon_apac_2013_theme/static/image/logo_streamplus.png
+   :target: http://ustream.siteplus.jp/
+   :alt: STREAM PLUS
+

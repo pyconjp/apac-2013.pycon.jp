@@ -302,3 +302,14 @@ HerokuはPythonをはじめRubyやJavaなど、複数のプログラミング言
    :alt: JST ERATO Minato Discrete Strucure Manipulation System Project
 
 本プロジェクトは、JST の進める戦略的創造研究推進事業のひとつで、大規模かつ多様な離散データを効率的に処理する基盤技術ならびに応用研究を推進しています。
+
+|streamplus|
+------------
+- STREAM PLUS
+- http://ustream.siteplus.jp/
+
+.. |streamplus| image:: /_themes/pycon_apac_2013_theme/static/image/logo_streamplus.png
+   :target: http://ustream.siteplus.jp/
+   :alt: STREAM PLUS
+
+ストリームプラスは、YouTube Live、USTREAM、ニコニコ生放送、Livestream などのリアルタイム映像配信を業界No1の実績とノウハウでサポートします。
