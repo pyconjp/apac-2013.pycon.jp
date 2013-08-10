@@ -226,6 +226,9 @@
   ('engineer_type', 'http://engineer.typemag.jp/', 'Engineer Type'),
   ('at_it', 'http://www.atmarkit.co.jp/', '@IT'),
 ] %}
+{% set support = [
+  ('osc', 'https://www.ospn.jp/', 'Open Source Conference'),
+] %}
 {%- block sidebar %}
 {%- if not is_sponsor_page %}
   <div id="sidebar">
@@ -298,6 +301,19 @@
     {%- endif %}
     <div class="banners">
       {% for data in media %}
+        {{ sponsor(data) }}
+      {% endfor %}
+    </div>
+
+    {%- if _getName('lang') == 'lang-ja' %}
+      <h4>サポート</h4>
+    {%- elif _getName('lang') == 'lang-zh' %}
+      <h4>支持</h4>
+    {%- else %}
+      <h4>Support</h4>
+    {%- endif %}
+    <div class="banners">
+      {% for data in support %}
         {{ sponsor(data) }}
       {% endfor %}
     </div>
