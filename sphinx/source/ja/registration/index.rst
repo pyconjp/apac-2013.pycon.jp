@@ -27,9 +27,9 @@ PyCon APAC の参加費用に全公演の参加、ランチ、コーヒーブレ
 PyCon APAC チュートリアルへの参加登録
 =======================================
 
-|register|
+|tutorial|
 
-.. |register| image:: /_static/register.png
+.. |tutorial| image:: /_static/register.png
    :alt: REGISTER NOW
    :target: http://connpass.com/event/3127/
 
