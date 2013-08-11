@@ -362,7 +362,7 @@ def topic_filter(lang_idx):
 def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
 
     templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
-    lang_idx = {'ja': 0, 'en': 1}
+    lang_idx = {'ja': 1, 'en': 0}
     filters = {
         'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
         'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),

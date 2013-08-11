@@ -6,13 +6,13 @@
 | Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
 | Python3.4に向けたパッケージングツールの現状と、現在利用可能なパッケージング方法について解説します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 11:10-12:00
 :Room: Room A0715 (Ja1)
-:Topic: Python 3k / パッケージング
+:Topic: Python 3k / Packaging Issues
 
 aodag
 -----
@@ -30,13 +30,13 @@ Pythonプロダクトを活用した開発チーム運営
 ========================================
 | Pythonプロダクトを活用した開発チーム運営事例についてお話します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 日本語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 11:10-12:00
 :Room: Room A0765 (Ja2)
-:Topic: プロジェクト事例
+:Topic: Project Best Practices
 
 Takahiro Ikeuchi / 池内 孝啓
 ----------------------------
@@ -66,13 +66,13 @@ http://librabuch.jp/
 ============
 | Pythonには、NumPyなどの科学技術計算に有用なライブラリがたくさんあり、またPyMOLのようにPythonで書かれ、世界中で多くのユーザーに使われているアプリケーションがあります。Pythonの科学技術分野での有用性、応用例について講演します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 日本語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 13:00-13:30
 :Room: Room A0715 (Ja1)
-:Topic: 科学や数学
+:Topic: Science and Math
 
 HW_a_pythonista
 ---------------
@@ -92,13 +92,13 @@ Sphinxと僕
 ==========
 | Sphinxと戯れてみたいあなたに送る入門編
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 13:00-13:30
 :Room: Room A0765 (Ja2)
-:Topic: ドキュメント
+:Topic: Documentation
 
 tell-k
 ------
@@ -121,13 +121,13 @@ Pylons/Pyramid からの Django 逆入門
 | Pylons と Pyramid の経験者が Django を使ってみて気がついたこと、それぞれのフレームワークの違いなど
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 13:40-14:10
 :Room: Room A0715 (Ja1)
-:Topic: Webシステム
+:Topic: Web-based Systems
 
 Nozomu KANEKO
 -------------
@@ -147,13 +147,13 @@ FreeCADとParaViewによる統合計算環境
 ===================================
 | Pythonスクリプトを用いて、FreeCADによるプリプロセッシングと、ParaViewによるポストプロセッシング、そして計算プログラムを統合した計算環境を構築した事例を紹介する。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 13:40-14:10
 :Room: Room A0765 (Ja2)
-:Topic: 科学や数学
+:Topic: Science and Math
 
 青子守歌
 --------
@@ -176,13 +176,13 @@ VFX業界におけるPython活用事例
 | VFX、CGアニメーション業界での、Pythonを取り巻く環境、活用事例を
 | 実際のツール紹介を交えながら紹介します
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 14:20-14:50
 :Room: Room A0715 (Ja1)
-:Topic: プロジェクト事例
+:Topic: Project Best Practices
 
 齊藤　弘
 --------
@@ -202,10 +202,10 @@ PythonとDataDogを使って簡単システムモニターリング
 =================================================
 | pythonとDatadog フリーアカウントを使った、お手軽監視プラットフォームの構築。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 14:20-14:50
 :Room: Room A0765 (Ja2)
 :Topic: monitoring
@@ -225,13 +225,13 @@ Programming AWS with Python
 ===========================
 | Pythonを用いてAWSを操作する様々なツールやサービスを紹介いたします。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 15:30-16:20
 :Room: Room A0715 (Ja1)
-:Topic: ライブラリや拡張 / Webシステム / AWS
+:Topic: Python libraries and extensions / Web-based Systems / AWS
 
 Yasuhiro Matsuo
 ---------------
@@ -255,13 +255,13 @@ http://aws.typepad.com/aws_japan/
 | C-APIを駆使して書かれた高速WSGI Server Meinheld の作者がPython C拡張モジュールの開発の基礎から実践的な開発方法、TIPSなどを紹介します。
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者 / 上級者
-:Language: 日本語
+:Audience: Intermediate programmer / Advanced programmer
+:Language: Japanese
 :Time: Sep 14 15:30-16:20
 :Room: Room A0765 (Ja2)
-:Topic: Python 3k / ライブラリや拡張
+:Topic: Python 3k / Python libraries and extensions
 
 mopemope
 --------
@@ -283,13 +283,13 @@ Python on Windows Azureの心得
 =============================
 | Windows AzureをPythonアプリケーションのホスティング環境として選択するに当たり押さえておくべきポイントについて、長所はもちろん短所も包み隠さずに、本音で解説します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 日本語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 16:30-17:20
 :Room: Room A0715 (Ja1)
-:Topic: プロジェクト事例 / Webシステム
+:Topic: Project Best Practices / Web-based Systems
 
 高橋 道也
 ---------
@@ -309,13 +309,13 @@ Cythonによる拡張モジュール開発
 ==============================
 | Pythonの拡張モジュール開発言語 Cythonの紹介
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 16:30-17:20
 :Room: Room A0765 (Ja2)
-:Topic: Other implementations(Jython / IronPython / 他のPython実装 / ライブラリや拡張
+:Topic: Other implementations(Jython / IronPython / PyPy..) / Python libraries and extensions
 
 Atsuo Ishimoto
 --------------
@@ -330,13 +330,13 @@ pythonでオフィス快適化計画
 ==========================
 | docx,xlsx,pptxといったMicrosoft Officeの文書フォーマットをpythonで扱うことで、資料作成の手間を軽減しましょう。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 14 17:30-18:20
 :Room: Room A0715 (Ja1)
-:Topic: ライブラリや拡張 / ドキュメント
+:Topic: Python libraries and extensions / Documentation
 
 kzfm
 ----
@@ -358,10 +358,10 @@ about mock
 ==========
 | mock (python 3.3から標準ライブラリ)についての紹介。利用法や実装からpythonが抱える闇について紹介する。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 14 17:30-18:20
 :Room: Room A0765 (Ja2)
 :Topic: Core Python / Python 3k
@@ -382,13 +382,13 @@ PofEAA in SQLAlchemy
 | Python の代表的な O/R Mapper である SQLAlchemy の設計について、
 | PofEAA <http://www.amazon.co.jp/dp/0321127420> のパターンを交えながら解説します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 15 11:10-12:00
 :Room: Room A0715 (Ja1)
-:Topic: ライブラリや拡張 / データベース
+:Topic: Python libraries and extensions / Databases
 
 methane
 -------
@@ -416,13 +416,13 @@ http://methane.hatenablog.jp/
 | Ruby製のChefやPuppet以外にもPython製のAnsibleという構成管理ツールがありますが、ChefやPuppetに比べて日本語のまとまった情報が少なく、興味があっても手を出しにくい状況にあります。
 | 本講演では、Ansibleの公式ドキュメントやAnsibleに関するネット上の情報を見ながら私個人が実際にAnsibleを使ってきた経験を元にして、Ansibleを使ったことが無い人がAnsibleを使い始める手助けになる情報を提供します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 15 11:10-12:00
 :Room: Room A0765 (Ja2)
-:Topic: ツール / オープンソースのPythonプロジェクト
+:Topic: Programming Tools / Open Source Python projects
 
 SHIMIZU Taku / 清水琢
 ---------------------
@@ -443,13 +443,13 @@ Python2.5から3.3で動作するツールの作り方
 | 
 | sphinx-intlはSphinxの国際化機能を楽に使えるようにするためのサポートツールです。SphinxがPython2.5から3.3まで対応しているため、同じバージョン対応が必要でしたが、2to3でコード変換する方法ではテストなど手間がかかるので、sphinx-intlではPython2でも3でも同じソースコードで変換なしに動作するように実装しました。そのためにsixを利用しましたが、sixでもサポートしていない一部の非互換コードについては自分で互換性を保つように工夫しています。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者 / 上級者
-:Language: 日本語
+:Audience: Intermediate programmer / Advanced programmer
+:Language: Japanese
 :Time: Sep 15 13:00-13:50
 :Room: Room A0715 (Ja1)
-:Topic: Core Python / Python 3k / ライブラリや拡張 / パッケージング / ツール
+:Topic: Core Python / Python 3k / Python libraries and extensions / Packaging Issues / Programming Tools
 
 Takayuki Shimizukawa
 --------------------
@@ -485,13 +485,13 @@ Webセキュアコーディングの基本
 | Webフレームワーク上でアプリケーションを書いているだけでは、なかなか身につけることができない、脆弱性のメカニズムとその対策方法について、コード例を元に解説します。
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 15 13:00-13:50
 :Room: Room A0765 (Ja2)
-:Topic: Webシステム / Security
+:Topic: Web-based Systems / Security
 
 落合豪史
 --------
@@ -516,13 +516,13 @@ NodeBoxで始めるジェネラティブ・アート
 =====================================
 | NodeBoxはPythonをインターフェースとして用いたProcessingライクなプログラミング環境です。本セッションではNodeBoxを使って、ジェネラティブ・アート作成の為の基本的なテクニックを紹介します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 15 14:00-14:50
 :Room: Room A0715 (Ja1)
-:Topic: 科学や数学
+:Topic: Science and Math
 
 Shinichi Morimoto / 森本 真一
 -----------------------------
@@ -543,13 +543,13 @@ Flaskで作る実践ハイパフォーマンス・Web+APIアプリケーショ�
 | 
 | 今では当たり前となったスマートフォンアプリですが、どのようなフレームワークを使うべきなのか、どのようなAPI設計にすればいいのか、なかなか自信を持って決めることはできないのではないでしょうか。実際にPythonを使ってスマートフォン用アプリを開発したい方の助けとなることを目指しています。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 15 14:00-14:50
 :Room: Room A0765 (Ja2)
-:Topic: プロジェクト事例 / Webシステム
+:Topic: Project Best Practices / Web-based Systems
 
 weboo
 -----
@@ -571,13 +571,13 @@ http://weboo-returns.com
 ======================================================
 | 皆さんターミナルは好きですか？プログラマなら・いっぱしのITエンジニアならターミナル(端末)つかってコマンドライン当然でしょとか言ってませんか？でも、ちょっとしたツールのUIをサッと作ろうとなると、すぐにWebインターフェースに走るのは何故なんでしょう。Javascriptを駆使した美麗はWebUI。カッコイイですね。だけれども、皆さんが大好きな screen, tmux, top, dstat そして vim ... 端末画面を駆使した、魅力的なターミナルアプリケーションもたくさんあります。サッとたちあげてコマンドキーでサッと使う。サーバプロセスなんて必要ない軽量なUIを実現するためのライブラリがPythonには標準で含まれているのです。このセッションでは端末制御を実現するcursesライブラリについて、チュートリアル形式で紹介します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 15 15:30-16:20
 :Room: Room A0715 (Ja1)
-:Topic: ライブラリや拡張 / ツール / ゲームプログラム
+:Topic: Python libraries and extensions / Programming Tools / Game Programming
 
 Ransui Iso
 ----------
@@ -599,13 +599,13 @@ Django 1.5 における効果的な MTV 設計 & ネイティブApp
 ====================================================
 | DjangoはMTVデザインパターンを採用しています。MTVのメリットを最大限に発揮するにはどうするか。ネイティブアプリケーションとの連携についても発表します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 日本語
+:Audience: Intermediate programmer
+:Language: Japanese
 :Time: Sep 15 15:30-16:20
 :Room: Room A0765 (Ja2)
-:Topic: Webシステム / ネイティブアプリケーション
+:Topic: Web-based Systems / ネイティブアプリケーション
 
 luyikei
 -------
@@ -625,13 +625,13 @@ bpmappersの紹介
 | 本セッションでは、bpmappersが必要とされるような場面や、bpmappersを使用することでどのようにコードを記述できるようになるかを紹介します。
 | また、bpmappersのDjangoサポート機能についても紹介します。
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 日本語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: Japanese
 :Time: Sep 15 16:30-17:20
 :Room: Room A0715 (Ja1)
-:Topic: ライブラリや拡張 / Webシステム
+:Topic: Python libraries and extensions / Web-based Systems
 
 岡野真也
 --------
@@ -661,13 +661,13 @@ Django最速デバッグ指南
 | 私が趣味/仕事でのDjangoアプリケーションを開発する通して学んだ
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 日本語
+:Audience: Beginning programmer
+:Language: Japanese
 :Time: Sep 15 16:30-17:20
 :Room: Room A0765 (Ja2)
-:Topic: オープンソースのPythonプロジェクト / Webシステム
+:Topic: Open Source Python projects / Web-based Systems
 
 hirokiky
 --------

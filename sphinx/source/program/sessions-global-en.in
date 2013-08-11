@@ -5,13 +5,13 @@ Experimentation in porting the Go concurrency model to Python 3
 ===============================================================
 | Lot of people are trying to port the actor pattern to Python, but this pattern isn't really designed for such languages. On the contrary the Go concurrency model has some attractive points that can be easily ported to Python. This talk will describe the go concurrency model and my own experimentation actually named flower to port it in Python. In this talk you will see how I am using greenlets or generators to handle corountines and optionally use pyuv to manage a non blocking IO poll server.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 上級者
-:Language: 英語
+:Audience: Advanced programmer
+:Language: English
 :Time: Sep 14 11:10-12:00
 :Room: Room A0712 (En1)
-:Topic: Python 3k / ライブラリや拡張 / オープンソースのPythonプロジェクト
+:Topic: Python 3k / Python libraries and extensions / Open Source Python projects
 
 benoitc
 -------
@@ -36,13 +36,13 @@ Ryu Network Operating System and Python experience through its development
 | Lastly talk about experience with Python through Ryu development.
 | Especially issues with threads and asynchronous io.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 14 11:10-12:00
 :Room: Room A0762 (En2)
-:Topic: ネットワークプログラム / オープンソースのPythonプロジェクト / プロジェクト事例
+:Topic: Network Programming / Open Source Python projects / Project Best Practices
 
 Isaku Yamahata
 --------------
@@ -62,13 +62,13 @@ BEST PRACTICES: A Resource for Teachers
 =======================================
 | Utilizing best practices in my classroom positively impacts students by providing motivation to learn and promoting success in a global world.To survive in a new, globally competitive world, today's children will need creativity, problem-solving abilities, a passion for learning, a dedicated work ethic and lifelong learning opportunities. Students can develop these abilities through instruction based on Best Practice teaching strategies
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 14 13:00-13:30
 :Room: Room A0712 (En1)
-:Topic: 教育事例
+:Topic: Education Best Practices
 
 Doc.
 ----
@@ -85,13 +85,13 @@ Enforcing Responsiveness in Web Apps
 | 
 | I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 14 13:00-13:30
 :Room: Room A0762 (En2)
-:Topic: Core Python / ライブラリや拡張 / オープンソースのPythonプロジェクト / Webシステム
+:Topic: Core Python / Python libraries and extensions / Open Source Python projects / Web-based Systems
 
 erikvanzijst
 ------------
@@ -111,10 +111,10 @@ Python for Humans
 =================
 | Python’s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We’ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
 :Audience: Intermediate
-:Language: 英語
+:Language: English
 :Time: Sep 14 13:40-14:10
 :Room: Room A0712 (En1)
 :Topic: Best Practices
@@ -139,13 +139,13 @@ Fabric for fun and profit
 =========================
 | Throughout my life I have written my share of shell scripts to automate varied tasks, from boring file uploads to complex web app deployments. Fabric is a tool that has helped me make all that work easier and more fun by using Python.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 14 13:40-14:10
 :Room: Room A0762 (En2)
-:Topic: ライブラリや拡張 / オープンソースのPythonプロジェクト / Devops
+:Topic: Python libraries and extensions / Open Source Python projects / Devops
 
 jairtrejo
 ---------
@@ -169,13 +169,13 @@ Simulating whole cell with E-Cell System
 ========================================
 | I will present the E-Cell Project, our efforts towards realizing precise whole cell-scale simulations possible.  Our simulation platform E-Cell System combines C++ and Python to mitigate biological complexity while maintaining high-productivity and high-performance on various architectures including supercomputers.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 14 14:20-14:50
 :Room: Room A0712 (En1)
-:Topic: オープンソースのPythonプロジェクト / 科学や数学
+:Topic: Open Source Python projects / Science and Math
 
 Koichi Takahashi
 ----------------
@@ -198,13 +198,13 @@ How the Mock library helps me developing client-side applications
 | Server-side programs are usually easily tested inside the frameworks like django, flask, etc. For client-side development, it's hard to write unit tests in isolation from other modules/classes. Mock is thus a necessary library for client-side testing. This talk will introduce when and how to write client-side test with the power of mock library.
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 14 14:20-14:50
 :Room: Room A0762 (En2)
-:Topic: ライブラリや拡張 / mock / testing
+:Topic: Python libraries and extensions / mock / testing
 
 clsung
 ------
@@ -239,13 +239,13 @@ Graphillion: Python module for very large sets of graphs
 | including a power network optimizer.
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 14 15:30-16:20
 :Room: Room A0712 (En1)
-:Topic: 科学や数学
+:Topic: Science and Math
 
 Takeru Inoue
 ------------
@@ -267,13 +267,13 @@ Bringing Spatial Love to your Python Application
 ================================================
 | Get ready to go home and start using MongoDB to add some great spatial functionality to your Python Application.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 14 15:30-16:20
 :Room: Room A0762 (En2)
-:Topic: Webシステム
+:Topic: Web-based Systems
 
 shekhargulati
 -------------
@@ -291,13 +291,13 @@ Deployment, Configuration Management and more with Salt Stack
 | can greatly ease management of small and large computing infrastructure
 | installations.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 14 16:30-17:20
 :Room: Room A0712 (En1)
-:Topic: オープンソースのPythonプロジェクト
+:Topic: Open Source Python projects
 
 izquierdo
 ---------
@@ -319,13 +319,13 @@ Release Faster
 ==============
 | I will talk about the philosophy of continually releasing (continuous deployment) as well as the requirements to get there.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 14 16:30-17:20
 :Room: Room A0762 (En2)
-:Topic: プロジェクト事例
+:Topic: Project Best Practices
 
 zeeg
 ----
@@ -342,10 +342,10 @@ Dissecting memory mysteries of Python
 =====================================
 | Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者 / 上級者
-:Language: 英語
+:Audience: Intermediate programmer / Advanced programmer
+:Language: English
 :Time: Sep 14 17:30-18:20
 :Room: Room A0712 (En1)
 :Topic: Core Python
@@ -391,10 +391,10 @@ Running your Python applications on Google Compute Engine
 | All the information you need to get started and make architectural decisions for your Python applications. We’ll cover APIs, storage, networking (including load balancing), bootstrapping instances, and orchestrating resources from App Engine. There will be time for questions, lots of code and live demos.
 | 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者 / 上級者
-:Language: 英語
+:Audience: Intermediate programmer / Advanced programmer
+:Language: English
 :Time: Sep 14 17:30-18:20
 :Room: Room A0762 (En2)
 :Topic: Cloud
@@ -419,13 +419,13 @@ AR Drone Hacking with python
 ============================
 | Hacking and Extending AR Drone with python
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 15 11:10-12:00
 :Room: Room A0712 (En1)
-:Topic: ライブラリや拡張
+:Topic: Python libraries and extensions
 
 Kim Yong
 --------
@@ -440,13 +440,13 @@ Mathematical Optimization and Python
 ====================================
 | In the field of mathematical optimization, Python is one of the most popular scripting language for modeling realistic problem, analyzing data and building applications. This talk will introduce some mathematical optimization projects related to Python including my own solver software development. 
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 15 11:10-12:00
 :Room: Room A0762 (En2)
-:Topic: プロジェクト事例 / 科学や数学
+:Topic: Project Best Practices / Science and Math
 
 likr
 ----
@@ -474,13 +474,13 @@ Luigi, The Friendly Pipeline Plumber
 | and show how Luigi helps with dependency resolution, workflow management, and
 | visualization.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 15 13:00-13:50
 :Room: Room A0712 (En1)
-:Topic: ツール / Webシステム / Big-Data Batch Processing
+:Topic: Programming Tools / Web-based Systems / Big-Data Batch Processing
 
 IanMLewis
 ---------
@@ -505,13 +505,13 @@ Implementation of pyCUDA, an Example
 ====================================
 | Extensions are used to interface C and Python. Python is made more powerful by these extensions. CUDA is the parallel programming API for NVIDIA GPUs. pyCUDA is basically a wrapper for Python to implement CUDA.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 英語
+:Audience: Beginning programmer
+:Language: English
 :Time: Sep 15 13:00-13:50
 :Room: Room A0762 (En2)
-:Topic: ライブラリや拡張 / 組み込み / 科学や数学
+:Topic: Python libraries and extensions / Embedding and Extending / Science and Math
 
 adityaatluri
 ------------
@@ -526,13 +526,13 @@ django CMS 3
 ============
 | With version 3.0 of the popular django CMS, we introduce exciting features for both users and developers. Users can now take advantage of the highly improved frontend editing and developers can start writing websites in Python 3 and enhance their apps with our frontend tools. In this talk I would like to highlight what we did, why we did it and how we did it.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 15 14:00-14:50
 :Room: Room A0712 (En1)
-:Topic: Python 3k / ライブラリや拡張 / オープンソースのPythonプロジェクト / Webシステム
+:Topic: Python 3k / Python libraries and extensions / Open Source Python projects / Web-based Systems
 
 ojii
 ----
@@ -551,13 +551,13 @@ Let Python talk native
 ======================
 | In this talk, I am going to mention several methods to use C or C++ code from within a Python script, including Cython, Boost.Python and ctypes module.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者 / 上級者
-:Language: 英語
+:Audience: Intermediate programmer / Advanced programmer
+:Language: English
 :Time: Sep 15 14:00-14:50
 :Room: Room A0762 (En2)
-:Topic: Core Python / Other implementations(Jython / IronPython / 他のPython実装 / ライブラリや拡張 / ツール / 組み込み
+:Topic: Core Python / Other implementations(Jython / IronPython / PyPy..) / Python libraries and extensions / Programming Tools / Embedding and Extending
 
 Moriyoshi Koizumi
 -----------------
@@ -579,13 +579,13 @@ IPython for interactive python
 ==============================
 | This talk aims to introduce some very cool, useful and amazing features that IPython notebook has to offer that makes writing python programs both fun and interactive.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者
-:Language: 英語
+:Audience: Beginning programmer
+:Language: English
 :Time: Sep 15 15:30-16:20
 :Room: Room A0712 (En1)
-:Topic: ツール
+:Topic: Programming Tools
 
 KonarkModi
 ----------
@@ -600,13 +600,13 @@ MoSQL: More than SQL, but Less than ORM
 =======================================
 | In this talk, I will introduce the MoSQL library, which is another solution between using pure SQL and ORMs. It will include the advantages, the techniques, and deployment of MoSQL.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 中級者
-:Language: 英語
+:Audience: Intermediate programmer
+:Language: English
 :Time: Sep 15 15:30-16:20
 :Room: Room A0762 (En2)
-:Topic: ライブラリや拡張 / データベース / オープンソースのPythonプロジェクト
+:Topic: Python libraries and extensions / Databases / Open Source Python projects
 
 Mosky
 -----
@@ -640,13 +640,13 @@ Building a Better Package Ecosystem
 ===================================
 | Gone are the days of monolithic applications. With the surge in SOA focussed development, and the push for short, concise and focussed web services, the principles of DRY and reduced boilerplate code are now more important than ever. This is where some freely available tools come into play.
 
-:Video: 後日公開予定
+:Video: 
 :Slide: 
-:Audience: 初心者 / 中級者
-:Language: 英語
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
 :Time: Sep 15 16:30-17:20
 :Room: Room A0712 (En1)
-:Topic: データベース / オープンソースのPythonプロジェクト / プロジェクト事例 / Webシステム
+:Topic: Databases / Open Source Python projects / Project Best Practices / Web-based Systems
 
 rhyselsmore
 -----------
