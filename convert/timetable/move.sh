@@ -1,2 +1,3 @@
-mv *-ja.* ../../sphinx/program/
-mv *-en.* ../../sphinx/en/program/
+mv *-ja.* ../../sphinx/source/ja/program/
+cp *-en.* ../../sphinx/source/program/
+mv *-en.* ../../sphinx/source/zh/program/

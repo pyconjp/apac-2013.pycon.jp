@@ -1,0 +1,688 @@
+
+.. _session-14-1110-RoomA0715(Ja1)-en:
+
+パッケージングの今と未来
+========================
+| Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
+| Python3.4に向けたパッケージングツールの現状と、現在利用可能なパッケージング方法について解説します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 14 11:10-12:00
+:Room: Room A0715 (Ja1)
+:Topic: Python 3k / パッケージング
+
+aodag
+-----
+
+
+http://aodag.posthaven.com
+
+| pylonsproject.jp
+| パーフェクトPython
+
+
+.. _session-14-1110-RoomA0765(Ja2)-en:
+
+Pythonプロダクトを活用した開発チーム運営
+========================================
+| Pythonプロダクトを活用した開発チーム運営事例についてお話します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者 / 中級者
+:Language: 日本語
+:Time: Sep 14 11:10-12:00
+:Room: Room A0765 (Ja2)
+:Topic: プロジェクト事例
+
+Takahiro Ikeuchi / 池内 孝啓
+----------------------------
+
+
+
+.. figure:: /_static/speakers/takahiroikeuchi.jpeg
+   :alt: Takahiro Ikeuchi / 池内 孝啓
+
+
+http://librabuch.jp/
+
+| 株式会社ALBERT (http://www.albert2005.co.jp/)
+| 「分析力をコアとするマーケティングソリューションカンパニー」
+| システム開発部 部長
+| 
+| - レコメンデーションエンジン
+| - CRMソリューション
+| - アドテクノロジー
+| 
+| 上記に関するシステム開発・運用
+
+
+.. _session-14-1300-RoomA0715(Ja1)-en:
+
+科学とPython
+============
+| Pythonには、NumPyなどの科学技術計算に有用なライブラリがたくさんあり、またPyMOLのようにPythonで書かれ、世界中で多くのユーザーに使われているアプリケーションがあります。Pythonの科学技術分野での有用性、応用例について講演します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者 / 中級者
+:Language: 日本語
+:Time: Sep 14 13:00-13:30
+:Room: Room A0715 (Ja1)
+:Topic: 科学や数学
+
+HW_a_pythonista
+---------------
+
+
+http://python-practice-note.blogspot.jp/
+
+| Science with Python（Google group)に参加中
+| 本職は、某研究所研究員として、薬剤候補分子の設計とその支援ツール(Pythonやその他のライブラリやソフトを利用）の作成
+| ソフトウェア企業でPythonプログラマとしての勤務経験あり
+| 
+
+
+.. _session-14-1300-RoomA0765(Ja2)-en:
+
+Sphinxと僕
+==========
+| Sphinxと戯れてみたいあなたに送る入門編
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 13:00-13:30
+:Room: Room A0765 (Ja2)
+:Topic: ドキュメント
+
+tell-k
+------
+
+
+
+.. figure:: /_static/speakers/tell-k.png
+   :alt: tell-k
+
+
+http://tell-k.hatenablog.com/
+
+| 情弱プログラマー
+
+
+.. _session-14-1340-RoomA0715(Ja1)-en:
+
+Pylons/Pyramid からの Django 逆入門
+===================================
+| Pylons と Pyramid の経験者が Django を使ってみて気がついたこと、それぞれのフレームワークの違いなど
+| 
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 13:40-14:10
+:Room: Room A0715 (Ja1)
+:Topic: Webシステム
+
+Nozomu KANEKO
+-------------
+
+
+https://github.com/knzm
+
+| 参加プロジェクト:
+| - Pylons Project JP
+| - Pythonドキュメント日本語翻訳
+| 
+
+
+.. _session-14-1340-RoomA0765(Ja2)-en:
+
+FreeCADとParaViewによる統合計算環境
+===================================
+| Pythonスクリプトを用いて、FreeCADによるプリプロセッシングと、ParaViewによるポストプロセッシング、そして計算プログラムを統合した計算環境を構築した事例を紹介する。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 13:40-14:10
+:Room: Room A0765 (Ja2)
+:Topic: 科学や数学
+
+青子守歌
+--------
+
+
+
+.. figure:: /_static/speakers/aokomoriuta.png
+   :alt: 青子守歌
+
+
+http://twitter.com/aokomoriuta
+
+| 土木工学/水理学分野における計算力学が専門分野の技術者。最近の研究対象はGPGPUによる粒子法（MPS法）の高速化など。
+
+
+.. _session-14-1420-RoomA0715(Ja1)-en:
+
+VFX業界におけるPython活用事例
+=============================
+| VFX、CGアニメーション業界での、Pythonを取り巻く環境、活用事例を
+| 実際のツール紹介を交えながら紹介します
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 14:20-14:50
+:Room: Room A0715 (Ja1)
+:Topic: プロジェクト事例
+
+齊藤　弘
+--------
+
+
+
+.. figure:: /_static/speakers/alpaca3.jpeg
+   :alt: 齊藤　弘
+
+
+| 株式会社デジタル・フロンティア所属
+
+
+.. _session-14-1420-RoomA0765(Ja2)-en:
+
+PythonとDataDogを使って簡単システムモニターリング
+=================================================
+| pythonとDatadog フリーアカウントを使った、お手軽監視プラットフォームの構築。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 14:20-14:50
+:Room: Room A0765 (Ja2)
+:Topic: monitoring
+
+jhotta
+------
+
+
+| 所属: 無し
+| 肩書き: 無し
+| 参加プロジェクト: 無し
+
+
+.. _session-14-1530-RoomA0715(Ja1)-en:
+
+Programming AWS with Python
+===========================
+| Pythonを用いてAWSを操作する様々なツールやサービスを紹介いたします。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 15:30-16:20
+:Room: Room A0715 (Ja1)
+:Topic: ライブラリや拡張 / Webシステム / AWS
+
+Yasuhiro Matsuo
+---------------
+
+
+http://aws.typepad.com/aws_japan/
+
+| 1978年、山梨県生まれ。慶應義塾大学大学院理工学研究科修士課程修了。
+| AWSを多くエンジニアに知ってもらうことで、エンジニアの価値を高めたいという思いから、2012年3月にアマゾンデータサービスジャパン入社。
+| 以後、テクニカルエバンジェリストとして、AWSの普及のために日本中を飛びまわる日々を送る。
+| 年間の講演回数は130を越え、AWSのハンズ オンも精力的に実施。
+| またAmazon Web Services ブログからAWSの最新アップデート情報を日本語で発信している。
+| Amazon Web Services ブログ http://aws.typepad.com/aws_japan/
+| 
+
+
+.. _session-14-1530-RoomA0765(Ja2)-en:
+
+実践! Python C拡張モジュール開発
+================================
+| C-APIを駆使して書かれた高速WSGI Server Meinheld の作者がPython C拡張モジュールの開発の基礎から実践的な開発方法、TIPSなどを紹介します。
+| 
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者 / 上級者
+:Language: 日本語
+:Time: Sep 14 15:30-16:20
+:Room: Room A0765 (Ja2)
+:Topic: Python 3k / ライブラリや拡張
+
+mopemope
+--------
+
+
+
+.. figure:: /_static/speakers/mopemope.jpeg
+   :alt: mopemope
+
+
+http://mopemope.hatenablog.com/
+
+| 株式会社Abby CTO
+
+
+.. _session-14-1630-RoomA0715(Ja1)-en:
+
+Python on Windows Azureの心得
+=============================
+| Windows AzureをPythonアプリケーションのホスティング環境として選択するに当たり押さえておくべきポイントについて、長所はもちろん短所も包み隠さずに、本音で解説します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者 / 中級者
+:Language: 日本語
+:Time: Sep 14 16:30-17:20
+:Room: Room A0715 (Ja1)
+:Topic: プロジェクト事例 / Webシステム
+
+高橋 道也
+---------
+
+
+
+.. figure:: /_static/speakers/michiya.jpeg
+   :alt: 高橋 道也
+
+
+| 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当しています。
+
+
+.. _session-14-1630-RoomA0765(Ja2)-en:
+
+Cythonによる拡張モジュール開発
+==============================
+| Pythonの拡張モジュール開発言語 Cythonの紹介
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 14 16:30-17:20
+:Room: Room A0765 (Ja2)
+:Topic: Other implementations(Jython / IronPython / 他のPython実装 / ライブラリや拡張
+
+Atsuo Ishimoto
+--------------
+
+
+| 1998年にスタートした、日本語によるPythonメーリングリストの初代管理人
+
+
+.. _session-14-1730-RoomA0715(Ja1)-en:
+
+pythonでオフィス快適化計画
+==========================
+| docx,xlsx,pptxといったMicrosoft Officeの文書フォーマットをpythonで扱うことで、資料作成の手間を軽減しましょう。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 14 17:30-18:20
+:Room: Room A0715 (Ja1)
+:Topic: ライブラリや拡張 / ドキュメント
+
+kzfm
+----
+
+
+
+.. figure:: /_static/speakers/kzfm.png
+   :alt: kzfm
+
+
+http://blog.kzfmix.com
+
+| Shizuoka.py
+
+
+.. _session-14-1730-RoomA0765(Ja2)-en:
+
+about mock
+==========
+| mock (python 3.3から標準ライブラリ)についての紹介。利用法や実装からpythonが抱える闇について紹介する。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 14 17:30-18:20
+:Room: Room A0765 (Ja2)
+:Topic: Core Python / Python 3k
+
+podhmo
+------
+
+
+https://gist.github.com/podhmo
+
+| びーぷらうど所属のふつうのpythonプログラマ
+
+
+.. _session-15-1110-RoomA0715(Ja1)-en:
+
+PofEAA in SQLAlchemy
+====================
+| Python の代表的な O/R Mapper である SQLAlchemy の設計について、
+| PofEAA <http://www.amazon.co.jp/dp/0321127420> のパターンを交えながら解説します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 15 11:10-12:00
+:Room: Room A0715 (Ja1)
+:Topic: ライブラリや拡張 / データベース
+
+methane
+-------
+
+
+
+.. figure:: /_static/speakers/methane.jpeg
+   :alt: methane
+
+
+http://methane.hatenablog.jp/
+
+| KLab 株式会社 Kラボラトリー所属
+| Webサイトのパフォーマンス・チューニングやミドルウェアの開発を行う
+| 
+| Python ドキュメント翻訳、 「Expert Python プログラミング」の翻訳
+| msgpack-python など
+
+
+.. _session-15-1110-RoomA0765(Ja2)-en:
+
+入門Ansible
+===========
+| 最近ChefやPuppetといった構成管理ツールに着目が集まっており、日本では意欲ある個人がChef、Puppetに関する情報を電子書籍で売り出して話題になる程の盛り上がりを見せています。
+| Ruby製のChefやPuppet以外にもPython製のAnsibleという構成管理ツールがありますが、ChefやPuppetに比べて日本語のまとまった情報が少なく、興味があっても手を出しにくい状況にあります。
+| 本講演では、Ansibleの公式ドキュメントやAnsibleに関するネット上の情報を見ながら私個人が実際にAnsibleを使ってきた経験を元にして、Ansibleを使ったことが無い人がAnsibleを使い始める手助けになる情報を提供します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 15 11:10-12:00
+:Room: Room A0765 (Ja2)
+:Topic: ツール / オープンソースのPythonプロジェクト
+
+SHIMIZU Taku / 清水琢
+---------------------
+
+
+https://github.com/takuan-osho
+
+| 趣味でプログラミングを始め、続けているプログラマ。
+| Sphinxの勉強会に参加したのをきっかけにして、Python界隈の勉強会に参加するようになり、Pythonでプログラミングを多くするようになる。
+| そういった勉強会に参加していた縁もあり、PyCon JP 2011の副座長を務めたりもした。
+
+
+.. _session-15-1300-RoomA0715(Ja1)-en:
+
+Python2.5から3.3で動作するツールの作り方
+========================================
+| sphinx-intlを題材に、Python2.5からPython3.3までの環境で動作するプログラムの書き方について紹介します。
+| 
+| sphinx-intlはSphinxの国際化機能を楽に使えるようにするためのサポートツールです。SphinxがPython2.5から3.3まで対応しているため、同じバージョン対応が必要でしたが、2to3でコード変換する方法ではテストなど手間がかかるので、sphinx-intlではPython2でも3でも同じソースコードで変換なしに動作するように実装しました。そのためにsixを利用しましたが、sixでもサポートしていない一部の非互換コードについては自分で互換性を保つように工夫しています。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者 / 上級者
+:Language: 日本語
+:Time: Sep 15 13:00-13:50
+:Room: Room A0715 (Ja1)
+:Topic: Core Python / Python 3k / ライブラリや拡張 / パッケージング / ツール
+
+Takayuki Shimizukawa
+--------------------
+
+
+
+.. figure:: /_static/speakers/takayukishimizukawa.png
+   :alt: Takayuki Shimizukawa
+
+
+http://清水川.jp/
+
+| About Me:
+| * http://about.me/shimizukawa
+| 
+| Books
+| * Expert Python Programming (translate into Japanese), 2010.
+| * Python Professional Programming (chapter 4, 7), 2012.
+| 
+| Activity
+| * Sphinx-users.jp principal
+| * Sphinx co-committer
+| * Pillow "the successor of PIL" win32/64 egg maintainer
+| * PyCon JP 2012 vice-chairman
+| * Python mini hack-a-thon steering member
+| 
+
+
+.. _session-15-1300-RoomA0765(Ja2)-en:
+
+Webセキュアコーディングの基本
+=============================
+| Webフレームワーク上でアプリケーションを書いているだけでは、なかなか身につけることができない、脆弱性のメカニズムとその対策方法について、コード例を元に解説します。
+| 
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 15 13:00-13:50
+:Room: Room A0765 (Ja2)
+:Topic: Webシステム / Security
+
+落合豪史
+--------
+
+
+
+.. figure:: /_static/speakers/gjo.jpeg
+   :alt: 落合豪史
+
+
+http://twitter.com/gjo
+
+| 1998年某地方公立大学文学部卒。
+| 以降、職業プログラマー。
+| Python歴は10年くらい。
+| 時折ライブラリやアプリケーションのローカライズなどをしている。
+
+
+.. _session-15-1400-RoomA0715(Ja1)-en:
+
+NodeBoxで始めるジェネラティブ・アート
+=====================================
+| NodeBoxはPythonをインターフェースとして用いたProcessingライクなプログラミング環境です。本セッションではNodeBoxを使って、ジェネラティブ・アート作成の為の基本的なテクニックを紹介します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 15 14:00-14:50
+:Room: Room A0715 (Ja1)
+:Topic: 科学や数学
+
+Shinichi Morimoto / 森本 真一
+-----------------------------
+
+
+http://shnmorimoto.tumblr.com/
+
+| 株式会社キャッチボール・トゥエンティワン　 開発グループ
+
+
+.. _session-15-1400-RoomA0765(Ja2)-en:
+
+Flaskで作る実践ハイパフォーマンス・Web+APIアプリケーション
+==========================================================
+| 株式会社ヴェッテルでは、スマートフォン向けアプリのWebとAPIをFlaskを使って開発しています。
+| 
+| これまでの開発/運用経験を踏まえて Flask, SQLAlchemy, alembic, Celery, Redis, uWSGI, Fluentd といったソフトウェア、ライブラリを組み合わせて高速に動作するモダンなアプリケーションを開発する方法について紹介します。
+| 
+| 今では当たり前となったスマートフォンアプリですが、どのようなフレームワークを使うべきなのか、どのようなAPI設計にすればいいのか、なかなか自信を持って決めることはできないのではないでしょうか。実際にPythonを使ってスマートフォン用アプリを開発したい方の助けとなることを目指しています。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 15 14:00-14:50
+:Room: Room A0765 (Ja2)
+:Topic: プロジェクト事例 / Webシステム
+
+weboo
+-----
+
+
+
+.. figure:: /_static/speakers/weboo.jpeg
+   :alt: weboo
+
+
+http://weboo-returns.com
+
+| 株式会社ヴェッテル 代表取締役
+
+
+.. _session-15-1530-RoomA0715(Ja1)-en:
+
+ターミナルの復権：隠れた名ライブラリcursesを使いこなす
+======================================================
+| 皆さんターミナルは好きですか？プログラマなら・いっぱしのITエンジニアならターミナル(端末)つかってコマンドライン当然でしょとか言ってませんか？でも、ちょっとしたツールのUIをサッと作ろうとなると、すぐにWebインターフェースに走るのは何故なんでしょう。Javascriptを駆使した美麗はWebUI。カッコイイですね。だけれども、皆さんが大好きな screen, tmux, top, dstat そして vim ... 端末画面を駆使した、魅力的なターミナルアプリケーションもたくさんあります。サッとたちあげてコマンドキーでサッと使う。サーバプロセスなんて必要ない軽量なUIを実現するためのライブラリがPythonには標準で含まれているのです。このセッションでは端末制御を実現するcursesライブラリについて、チュートリアル形式で紹介します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 15 15:30-16:20
+:Room: Room A0715 (Ja1)
+:Topic: ライブラリや拡張 / ツール / ゲームプログラム
+
+Ransui Iso
+----------
+
+
+
+.. figure:: /_static/speakers/ransuiiso.jpeg
+   :alt: Ransui Iso
+
+
+http://www.facebook.com/ransui
+
+| 株式会社X-Listing技術戦略グループ・ディレクター。ネット広告の配信システム、配信最適化、データ分析、システムアーキテクチャの設計、エンジニアチームのディレクション等を担当。Pythonは1998年頃より使用。過去にはサーチエンジン、ECサイトその他多くのシステムをPythonをベースに構築。PyCON JP 2011でPyQtについて、2012でソフトシンセを題材としたチュートリアルで好評を得る。PyCON APAC 2013 チュートリアルデーの講師も担当。
+
+
+.. _session-15-1530-RoomA0765(Ja2)-en:
+
+Django 1.5 における効果的な MTV 設計 & ネイティブApp
+====================================================
+| DjangoはMTVデザインパターンを採用しています。MTVのメリットを最大限に発揮するにはどうするか。ネイティブアプリケーションとの連携についても発表します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 中級者
+:Language: 日本語
+:Time: Sep 15 15:30-16:20
+:Room: Room A0765 (Ja2)
+:Topic: Webシステム / ネイティブアプリケーション
+
+luyikei
+-------
+
+
+| 日本 Qt ユーザー会を設立。日本における Qt の情報の発信を促進する傍ら、 Django でWEBアプリケーションを作成することをメインとして活動する。
+
+
+.. _session-15-1630-RoomA0715(Ja1)-en:
+
+bpmappersの紹介
+===============
+| アプリケーション内のさまざまな処理で、入力となるオブジェクトや辞書と、出力する辞書やJSONの構造が一対一にならないことが頻繁にありました。
+| その際、データのマッピング処理が必要になりますが、アプリケーションの規模が大きくなるにつれて、似たようなマッピング処理や、複雑なマッピング処理を必要とする場面が増えてきます。
+| bpmappersは、これらのデータのマッピング処理を支援するモジュールです。
+| 
+| 本セッションでは、bpmappersが必要とされるような場面や、bpmappersを使用することでどのようにコードを記述できるようになるかを紹介します。
+| また、bpmappersのDjangoサポート機能についても紹介します。
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者 / 中級者
+:Language: 日本語
+:Time: Sep 15 16:30-17:20
+:Room: Room A0715 (Ja1)
+:Topic: ライブラリや拡張 / Webシステム
+
+岡野真也
+--------
+
+
+
+.. figure:: /_static/speakers/tokibito.jpeg
+   :alt: 岡野真也
+
+
+http://d.hatena.ne.jp/nullpobug/
+
+| 株式会社ビープラウド所属。
+| 
+| django-coreやPyScripterの日本語翻訳作業に参加。
+| 
+| bpmappersを開発しています。
+
+
+.. _session-15-1630-RoomA0765(Ja2)-en:
+
+Django最速デバッグ指南
+======================
+| Djangoアプリケーションを開発する際のデバッグ方法について紹介します。
+| 標準のDebugモード以外に使える様々なサードパーティライブラリを中心に、
+| 
+| 私が趣味/仕事でのDjangoアプリケーションを開発する通して学んだ
+| 
+
+:Video: 後日公開予定
+:Slide: 
+:Audience: 初心者
+:Language: 日本語
+:Time: Sep 15 16:30-17:20
+:Room: Room A0765 (Ja2)
+:Topic: オープンソースのPythonプロジェクト / Webシステム
+
+hirokiky
+--------
+
+
+
+.. figure:: /_static/speakers/hirokiky.jpeg
+   :alt: hirokiky
+
+
+http://hirokiky.org/
+
+| Happy Hacking Programmer。Python, Djangoが好きです。
+| 
+| Djangoの自体開発に参加したり、Djangoでアプリケーションやライブラリを書いたり
+| Djangoのポータルサイト(http://djangoproject.jp/)を管理したりDjangoドキュメントの翻訳をしたりしています(https://github.com/django-docs-ja)。
+| 
+| BePROUD Inc.でITアーキテクトとして仕事してたりもします。

@@ -20,7 +20,7 @@ Program
 
 :doc:`sessions`
 
-    Comming soon.
+    Sessions on conference day
 
 
 :doc:`sprint`

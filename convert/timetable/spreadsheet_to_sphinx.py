@@ -9,12 +9,12 @@ import string
 
 
 ROOM_IDX_MAP = {
-    'Room 230': 1,
-    'Room 433': 2,
-    'Room 351a': 3,
-    'Room 357': 4,
-    'Room 452': 5,
-    'Room 358': 6
+    'Hall': 1,
+    'Room A0712 (En1)': 2,
+    'Room A0715 (Ja1)': 3,
+    'Room A0762 (En2)': 4,
+    'Room A0765 (Ja2)': 5,
+    'Tokyo Cafe 202': 6
 }
 
 JOINT_NAMES = [
@@ -105,7 +105,7 @@ VIDEO_SUB_TEMPLATE = """
 URL_TEMPLATE = """{url}"""
 
 IMAGE_TEMPLATE = """
-.. figure:: /_static/speaker/{image}
+.. figure:: /_static/speakers/{image}
    :alt: {speaker}
 """
 
@@ -286,6 +286,11 @@ def make_sphinx_heading(text, marker='='):
     t += '\n' + (marker * t_width)
     return t.encode('utf-8')
 
+def make_sphinx_lineblock(text):
+    t = text.decode('utf-8')  #TODO
+    t = '| ' + t
+    t = t.replace('\n', '\n| ')
+    return t.encode('utf-8')
 
 def make_session(rows, template, type_=(), override_filters={}):
     sessions = []
@@ -297,7 +302,7 @@ def make_session(rows, template, type_=(), override_filters={}):
 
         params = dict(
             title_with_line = make_sphinx_heading(row.title_ja),
-            abstract = row.abstract,
+            abstract = make_sphinx_lineblock(row.abstract),
             speaker = row.speaker,
             speaker_with_line = make_sphinx_heading(row.speaker, marker='-'),
             language = row.language,
@@ -306,7 +311,7 @@ def make_session(rows, template, type_=(), override_filters={}):
             audience = row.audience,
             reference_id = create_reference_id(row),
             image = row.image,
-            bio = row.bio,
+            bio = make_sphinx_lineblock(row.bio),
             topic = row.topic,
             url = row.url,
             video = row.video,
@@ -402,8 +407,6 @@ def main():
     make_timetables(rows, 'schedule1', 'schedule2', 'en')
     make_main_sessions(rows, 'sessions-local', 'sessions-global', 'ja')
     make_main_sessions(rows, 'sessions-local', 'sessions-global', 'en')
-    make_joint_sessions(rows, 'sessions-joint', 'ja')
-    make_joint_sessions(rows, 'sessions-joint', 'en')
 
 
 if __name__ == '__main__':

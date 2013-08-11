@@ -20,6 +20,10 @@ p {
 	line-height: 150%;
 }
 
+div.line {
+	line-height: 150%;
+}
+
 table {
 	border-top: 1px #999999 solid;
 	border-right: none;
@@ -40,6 +44,10 @@ td {
 
 .headerlink {
 	display: none;
+}
+
+.section {
+	padding-left: 20px;
 }
 
 /* sections */

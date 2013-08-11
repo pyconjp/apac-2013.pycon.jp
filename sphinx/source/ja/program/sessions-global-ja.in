@@ -1,0 +1,662 @@
+
+.. _session-14-1110-RoomA0712(En1)-ja:
+
+Experimentation in porting the Go concurrency model to Python 3
+===============================================================
+| Lot of people are trying to port the actor pattern to Python, but this pattern isn't really designed for such languages. On the contrary the Go concurrency model has some attractive points that can be easily ported to Python. This talk will describe the go concurrency model and my own experimentation actually named flower to port it in Python. In this talk you will see how I am using greenlets or generators to handle corountines and optionally use pyuv to manage a non blocking IO poll server.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Advanced programmer
+:言語: English
+:日時: Sep 14 11:10-12:00
+:場所: Room A0712 (En1)
+:トピック: Python 3k / Python libraries and extensions / Open Source Python projects
+
+benoitc
+-------
+
+
+
+.. figure:: /_static/speakers/benoit.jpg
+   :alt: benoitc
+
+
+| Benoît Chesneau is a French web craftsman, living near Paris. He has years of experience in building small and big-scale database backend websites. He is the founder of Enki Multimedia, a company building innovative web services and open-source applications. Benoît Chesneau is the founder of the Refuge project.
+| 
+| Benoît Chesneau is also a PSF member, gunicorn author and Apache CouchDB PMC member & committer.
+
+
+.. _session-14-1110-RoomA0762(En2)-ja:
+
+Ryu Network Operating System and Python experience through its development
+==========================================================================
+| As introduction, discuss what Software Defined Networking and OpenFlow is.
+| And then Ryu will be introduced and discussed. What Ryu is and how it works.
+| Lastly talk about experience with Python through Ryu development.
+| Especially issues with threads and asynchronous io.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 14 11:10-12:00
+:場所: Room A0762 (En2)
+:トピック: Network Programming / Open Source Python projects / Project Best Practices
+
+Isaku Yamahata
+--------------
+
+
+| Isaku Yamahata: Senior Software Engineer
+| 
+| Isaku Yamahata have been participating in OpenStack development and
+| Ryu project with background of virtualization technology for some years.
+| His major contribution to Openstack is compute boot-from-volume and 
+| Network Ryu plugin.
+
+
+.. _session-14-1300-RoomA0712(En1)-ja:
+
+BEST PRACTICES: A Resource for Teachers
+=======================================
+| Utilizing best practices in my classroom positively impacts students by providing motivation to learn and promoting success in a global world.To survive in a new, globally competitive world, today's children will need creativity, problem-solving abilities, a passion for learning, a dedicated work ethic and lifelong learning opportunities. Students can develop these abilities through instruction based on Best Practice teaching strategies
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 14 13:00-13:30
+:場所: Room A0712 (En1)
+:トピック: Education Best Practices
+
+Doc.
+----
+
+
+| Alusine Sahid Kamara is a Sierra Leonean by birth, studied at the Fourah Bay College University of Sierra Leone hold a B.A.Honours in Library and Information Science and later did his M. A. in Peace and Development Studies at the Njala University in Sierra Leone. He has attended several trainings, conferences at home and abroad and hold several certificates. He has work for many organisations and Proven competence and experience in programme development and management, successfully applied in working with International Non-Governmental Organisations, civil society organisations, Community-Based Organisations, women, youth, children,  and war affected groups and communities all over Sierra Leone; skilled in designing projects for women and youth empowerment field implementation, monitoring and reporting demonstrated in various interventions with women and youth groups in Kono, Bombali, Koinadugu, Tonkolili, Port Loko, Kenema, Bo and Kailahun districts. he is the current Programme Manager for the Society for Knowledge Management - Sierra Leone.
+
+
+.. _session-14-1300-RoomA0762(En2)-ja:
+
+Enforcing Responsiveness in Web Apps
+====================================
+| This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
+| 
+| I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 14 13:00-13:30
+:場所: Room A0762 (En2)
+:トピック: Core Python / Python libraries and extensions / Open Source Python projects / Web-based Systems
+
+erikvanzijst
+------------
+
+
+
+.. figure:: /_static/speakers/erikvanzijst.jpeg
+   :alt: erikvanzijst
+
+
+| Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.
+
+
+.. _session-14-1340-RoomA0712(En1)-ja:
+
+Python for Humans
+=================
+| Python’s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We’ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate
+:言語: English
+:日時: Sep 14 13:40-14:10
+:場所: Room A0712 (En1)
+:トピック: Best Practices
+
+kennethreitz
+------------
+
+
+
+.. figure:: /_static/speakers/kennethreitz.jpeg
+   :alt: kennethreitz
+
+
+http://kennethreitz.org/
+
+| Kenneth Reitz is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically Requests.
+
+
+.. _session-14-1340-RoomA0762(En2)-ja:
+
+Fabric for fun and profit
+=========================
+| Throughout my life I have written my share of shell scripts to automate varied tasks, from boring file uploads to complex web app deployments. Fabric is a tool that has helped me make all that work easier and more fun by using Python.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 14 13:40-14:10
+:場所: Room A0762 (En2)
+:トピック: Python libraries and extensions / Open Source Python projects / Devops
+
+jairtrejo
+---------
+
+
+
+.. figure:: /_static/speakers/jairtrejo.jpeg
+   :alt: jairtrejo
+
+
+http://jairtrejo.mx
+
+| I'm Jair Trejo, Operations Director of a web development studio based on Mexico City. I 've been developing software professionally for the past four years, mostly on the web, but my interest in programming is a life-long affair.
+| 
+| I have been a Python man through and through for the past seven years, working on Django projects for the past two, and although I am more on the infrastructure side nowadays, as the moral leader of the Python team I like to keep up with trends.
+
+
+.. _session-14-1420-RoomA0712(En1)-ja:
+
+Simulating whole cell with E-Cell System
+========================================
+| I will present the E-Cell Project, our efforts towards realizing precise whole cell-scale simulations possible.  Our simulation platform E-Cell System combines C++ and Python to mitigate biological complexity while maintaining high-productivity and high-performance on various architectures including supercomputers.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 14 14:20-14:50
+:場所: Room A0712 (En1)
+:トピック: Open Source Python projects / Science and Math
+
+Koichi Takahashi
+----------------
+
+
+
+.. figure:: /_static/speakers/koichitakahashi.jpeg
+   :alt: Koichi Takahashi
+
+
+http://www.e-cell.org http://lbcs.e-cell.org
+
+| Koichi Takahashi is a founding member of the E-Cell Project and the chief system architect of the E-Cell System, an integrative cell simulation platform written in C++ and Python.  He earned his PhD from Keio University in 2004.  He then spent a few years in Berkeley, California as a Human Frontier Science Program Fellow at the Molecular Sciences Institute.  He is currently a principal investigator at RIKEN Quantitative Biology Center, heading Laboratory for Biochemical Simulation there.  He also holds project associate professorship at Keio University and visiting associate professorship at Osaka University.
+
+
+.. _session-14-1420-RoomA0762(En2)-ja:
+
+How the Mock library helps me developing client-side applications
+=================================================================
+| Server-side programs are usually easily tested inside the frameworks like django, flask, etc. For client-side development, it's hard to write unit tests in isolation from other modules/classes. Mock is thus a necessary library for client-side testing. This talk will introduce when and how to write client-side test with the power of mock library.
+| 
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 14 14:20-14:50
+:場所: Room A0762 (En2)
+:トピック: Python libraries and extensions / mock / testing
+
+clsung
+------
+
+
+
+.. figure:: /_static/speakers/clsung.jpeg
+   :alt: clsung
+
+
+http://dev.clsung.tw/
+
+| Co-Founder, Developer at Cloudioh Inc. I am also a FreeBSD ports committer since 2004, love and enjoy in contributing to Open Source. I get started with Python about 3 years ago.
+| 
+| Active Python Project:
+| 
+|  * https://github.com/clsung/gdapi
+| 
+| Maintaining Python Project:
+| 
+|  * https://github.com/clsung/plurk-oauth
+| 
+
+
+.. _session-14-1530-RoomA0712(En1)-ja:
+
+Graphillion: Python module for very large sets of graphs
+========================================================
+| Graphillion is a Python module to efficiently manipulate a number of,
+| even x-illions of, graphs for heavy graph problems like optimization.
+| My talk includes the overview as well as interesting case studies
+| including a power network optimizer.
+| 
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 14 15:30-16:20
+:場所: Room A0712 (En1)
+:トピック: Science and Math
+
+Takeru Inoue
+------------
+
+
+
+.. figure:: /_static/speakers/takeruinoue.jpeg
+   :alt: Takeru Inoue
+
+
+https://sites.google.com/site/takeruinoue/
+
+| Takeru Inoue is an ERATO researcher at Japan science and technology agency. He is also working for a laboratory in a telecommunication company.  He founded several software projects including DNET (power distribution network evaluation tool) and rcdn.info (URL shortening service redirecting to CDN).
+
+
+.. _session-14-1530-RoomA0762(En2)-ja:
+
+Bringing Spatial Love to your Python Application
+================================================
+| Get ready to go home and start using MongoDB to add some great spatial functionality to your Python Application.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 14 15:30-16:20
+:場所: Room A0762 (En2)
+:トピック: Web-based Systems
+
+shekhargulati
+-------------
+
+
+| Shekhar Gulati is Principal OpenShift Developer Evangelist working with Red Hat. He has 8 years of software development experience. In his current role, he travel around the world and speaks about OpenShift at various conference and user groups. Shekhar is an active writer and has written many technical articles for IBM DeveloperWorks, Developer.com, and JavaLobby. His current interests are NoSQL databases and cloud computing, mainly Platform-as-a-Service (PaaS) and new things happening in Java community. When he is not traveling, he loves to write code and read books. 
+
+
+.. _session-14-1630-RoomA0712(En1)-ja:
+
+Deployment, Configuration Management and more with Salt Stack
+=============================================================
+| Introduction to Salt Stack, an open source tool for remote execution,          
+| configuration management, deployment and more, written in Python. Salt Stack
+| can greatly ease management of small and large computing infrastructure
+| installations.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 14 16:30-17:20
+:場所: Room A0712 (En1)
+:トピック: Open Source Python projects
+
+izquierdo
+---------
+
+
+
+.. figure:: /_static/speakers/danielizquierdo.jpg
+   :alt: izquierdo
+
+
+http://www.makeleaps.jp
+
+| Developer at MakeLeaps, a Tokyo-based startup. Venezuelan, moved to Tokyo last year. Currently doing a lot of Django development, and very interested in Python in general.
+
+
+.. _session-14-1630-RoomA0762(En2)-ja:
+
+Release Faster
+==============
+| I will talk about the philosophy of continually releasing (continuous deployment) as well as the requirements to get there.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 14 16:30-17:20
+:場所: Room A0762 (En2)
+:トピック: Project Best Practices
+
+zeeg
+----
+
+
+| I'm the founder/author of Sentry and previously the infrastructure lead at Disqus. I've been doing work with Python (and Django specifically) for about 8 years in addition to a lot of open source work during that time.
+| 
+| I generally care about productivity & tooling, testing, and release processes.
+
+
+.. _session-14-1730-RoomA0712(En1)-ja:
+
+Dissecting memory mysteries of Python
+=====================================
+| Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer / Advanced programmer
+:言語: English
+:日時: Sep 14 17:30-18:20
+:場所: Room A0712 (En1)
+:トピック: Core Python
+
+vishalkanaujia
+--------------
+
+
+http://freethreads.wordpress.com/
+
+| Vishal Kanaujia is a Python developer and technology enthusiast. He has delivered talks and written articles on Python. He was a speaker at Pycon APAC, Singapore, 2012, PyCon India 2011-2012 and SciPy India 2011.
+| 
+| He has interest in fields including Python internals, Filesystems, and search technologies, and application performance optimization. He shares his thoughts, opinion and knowledge through blog (http://freethreads.wordpress.com), technical papers, and articles with international magazines including ‘Linux for You’ and ‘Agile Record’.
+| 
+| Open source projects
+| 
+|     seFS (https://github.com/cjgiridhar/seFS)
+| 
+|     pyrebootops (https://github.com/cjgiridhar/pyrebootops/)
+| 
+| Talks
+| 
+|     FUSEing Python for rapid development of storage efficient file system, PyCon APAC, June 2012, Singapore
+| 
+|     Rapid development of website search in Python, PyCon India, September 2012
+| 
+|     Exploiting the power of multicore for scientific computing in Python, SciPy India, December 2011, IIT Bombay
+| 
+|     Diving in to Byte-code optimization in Python, SciPy India, December 2011, IIT Bombay
+| 
+|     ‘Python threads: Dive into GIL!’, PyCon India, Sept 2011
+| 
+| Website
+| 
+|     http://freethreads.wordpress.com/
+| 
+
+
+.. _session-14-1730-RoomA0762(En2)-ja:
+
+Running your Python applications on Google Compute Engine
+=========================================================
+| All the information you need to get started and make architectural decisions for your Python applications. We’ll cover APIs, storage, networking (including load balancing), bootstrapping instances, and orchestrating resources from App Engine. There will be time for questions, lots of code and live demos.
+| 
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer / Advanced programmer
+:言語: English
+:日時: Sep 14 17:30-18:20
+:場所: Room A0762 (En2)
+:トピック: Cloud
+
+briandorsey
+-----------
+
+
+
+.. figure:: /_static/speakers/briandorsey.jpeg
+   :alt: briandorsey
+
+
+http://briandorsey.info
+
+| I'm a Developer Programs Engineer on the Google Developer Relations team. I help you build cool stuff with our APIs. I focus on our Cloud Platform, especially Compute Engine and Cloud Storage. I love Python and I've taught Python at the University of Washington & spoken at both PyCon US & PyCon Japan.He taught English in Shizuoka-ken from 1997 to 1999. I live in Seattle, WA, USA. 日本語も話せます。よろしくお願いします！
+
+
+.. _session-15-1110-RoomA0712(En1)-ja:
+
+AR Drone Hacking with python
+============================
+| Hacking and Extending AR Drone with python
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 15 11:10-12:00
+:場所: Room A0712 (En1)
+:トピック: Python libraries and extensions
+
+Kim Yong
+--------
+
+
+| System Engineer/Sysadmin Geek
+
+
+.. _session-15-1110-RoomA0762(En2)-ja:
+
+Mathematical Optimization and Python
+====================================
+| In the field of mathematical optimization, Python is one of the most popular scripting language for modeling realistic problem, analyzing data and building applications. This talk will introduce some mathematical optimization projects related to Python including my own solver software development. 
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 15 11:10-12:00
+:場所: Room A0762 (En2)
+:トピック: Project Best Practices / Science and Math
+
+likr
+----
+
+
+
+.. figure:: /_static/speakers/onouepanda.jpg
+   :alt: likr
+
+
+| 京都で博士課程の学生をしています。
+| 可視化や最適化の技術を用いた意思決定支援に取り組んでおり、データの分析や可視化、アプリケーションの開発にPythonを使ったり使ってなかったりしています。
+| プログラムの高速化にも関心があり、Pythonを使ったGPGPUプログラミングの布教なども時々行っています。
+
+
+.. _session-15-1300-RoomA0712(En1)-ja:
+
+Luigi, The Friendly Pipeline Plumber
+====================================
+| In this talk I will discuss how to make use of Luigi, which is a tool written
+| by Spotify to manage a pipeline of long running batch processes. Luigi allows
+| you to write long running batch processes in pure Python and provides built-in
+| support for Hadoop mapreduce jobs and abstractions for HDFS and local file systems.
+| I'll show how to use Luigi to perform a simple set of chained mapreduce jobs 
+| and show how Luigi helps with dependency resolution, workflow management, and
+| visualization.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 15 13:00-13:50
+:場所: Room A0712 (En1)
+:トピック: Programming Tools / Web-based Systems / Big-Data Batch Processing
+
+IanMLewis
+---------
+
+
+
+.. figure:: /_static/speakers/ianmlewis.jpeg
+   :alt: IanMLewis
+
+
+http://www.ianlewis.org/
+
+| Ian Lewis in a web developer at BeProud Inc. Ian is a founder and board member
+| for PyCon JP and is active in Python community building in Japan.  He is
+| currently the lead developer for connpass.com, a service for building developer
+| communities though events.
+
+
+.. _session-15-1300-RoomA0762(En2)-ja:
+
+Implementation of pyCUDA, an Example
+====================================
+| Extensions are used to interface C and Python. Python is made more powerful by these extensions. CUDA is the parallel programming API for NVIDIA GPUs. pyCUDA is basically a wrapper for Python to implement CUDA.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer
+:言語: English
+:日時: Sep 15 13:00-13:50
+:場所: Room A0762 (En2)
+:トピック: Python libraries and extensions / Embedding and Extending / Science and Math
+
+adityaatluri
+------------
+
+
+| I am Python, C/C++ geek. I write python code for fun, automating my actions on the internet. My areas of expertise is HPC. I am fluent in CUDA, OpenCL, SSE, AVX, OpenMP, C++ AMP technologies.
+
+
+.. _session-15-1400-RoomA0712(En1)-ja:
+
+django CMS 3
+============
+| With version 3.0 of the popular django CMS, we introduce exciting features for both users and developers. Users can now take advantage of the highly improved frontend editing and developers can start writing websites in Python 3 and enhance their apps with our frontend tools. In this talk I would like to highlight what we did, why we did it and how we did it.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 15 14:00-14:50
+:場所: Room A0712 (En1)
+:トピック: Python 3k / Python libraries and extensions / Open Source Python projects / Web-based Systems
+
+ojii
+----
+
+
+http://www.ojii.ch
+
+| I'm a Python enthusiast, mostly hacking web stuff using Django, Twisted or Flask. For the past two years I was the maintainer and lead developer of django CMS. Besides that, I've written quite a number of open source projects, which can be found on my GitHub page, most notably django-nani (now django-hvad), django-classy-tags and pymaging.
+| 
+| In 2012 I've co-organized DjangoCon Europe 2012 in Zurich and became one of the two first non-core-developer Django Software Foundation developer members.
+
+
+.. _session-15-1400-RoomA0762(En2)-ja:
+
+Let Python talk native
+======================
+| In this talk, I am going to mention several methods to use C or C++ code from within a Python script, including Cython, Boost.Python and ctypes module.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer / Advanced programmer
+:言語: English
+:日時: Sep 15 14:00-14:50
+:場所: Room A0762 (En2)
+:トピック: Core Python / Other implementations(Jython / IronPython / PyPy..) / Python libraries and extensions / Programming Tools / Embedding and Extending
+
+Moriyoshi Koizumi
+-----------------
+
+
+
+.. figure:: /_static/speakers/moriyoshikoizumi.jpeg
+   :alt: Moriyoshi Koizumi
+
+
+http://www.mozo.jp/
+
+| A tokyo-based programmer who's been using Python for 7 years to deal with various kinds of tasks, from scientific programming to entertainment.  Also known as a PHP committer.
+
+
+.. _session-15-1530-RoomA0712(En1)-ja:
+
+IPython for interactive python
+==============================
+| This talk aims to introduce some very cool, useful and amazing features that IPython notebook has to offer that makes writing python programs both fun and interactive.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer
+:言語: English
+:日時: Sep 15 15:30-16:20
+:場所: Room A0712 (En1)
+:トピック: Programming Tools
+
+KonarkModi
+----------
+
+
+| Konark Modi works as Assistant Manager for Website Operations @ MakeMyTrip.com. Major work focus areas include Designing/Writing/Implementing/Maintaining tools for monitoring/alerting purposes. Python/Django are the primary languages that is used in daily operations. Apart from this loves to interact with new technologies and keep updated with the latest happenings in the tech. space.
+
+
+.. _session-15-1530-RoomA0762(En2)-ja:
+
+MoSQL: More than SQL, but Less than ORM
+=======================================
+| In this talk, I will introduce the MoSQL library, which is another solution between using pure SQL and ORMs. It will include the advantages, the techniques, and deployment of MoSQL.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Intermediate programmer
+:言語: English
+:日時: Sep 15 15:30-16:20
+:場所: Room A0762 (En2)
+:トピック: Python libraries and extensions / Databases / Open Source Python projects
+
+Mosky
+-----
+
+
+
+.. figure:: /_static/speakers/mosky.jpeg
+   :alt: Mosky
+
+
+http://mosky.tw/
+
+| I am a Python developer at Pinkoi [1], an author of Python packages, a Python instructor, and an Open Source lover.
+| 
+| Since I met Python in 2009, it is too hard to forget the simplicity and elegance of Python, so I’ve now been writing Python for 5 years. I am interesting in using Python in web and system administration. I developed some Python packages, such as MoSQL [2] and Clime [3]. You can find all of my projects in GitHub [4] or PyPI [5]. I also teach Python at OSSF [6].
+| 
+| I am also an organizer of COSCUP [7], an open source conference in Taiwan. And it is my personal website: http://mosky.tw/ .
+| 
+| [1]: http://pinkoi.com/
+| [2]: http://mosql.mosky.tw/
+| [3]: http://clime.mosky.tw/
+| [4]: https://www.github.com/moskytw
+| [5]: https://pypi.python.org/pypi?%3Aaction=search&term=mosky&submit=search
+| [6]: http://www.openfoundry.org/
+| [7]: http://coscup.org/
+
+
+.. _session-15-1630-RoomA0712(En1)-ja:
+
+Building a Better Package Ecosystem
+===================================
+| Gone are the days of monolithic applications. With the surge in SOA focussed development, and the push for short, concise and focussed web services, the principles of DRY and reduced boilerplate code are now more important than ever. This is where some freely available tools come into play.
+
+:ビデオ: 後日公開予定
+:スライド: 
+:対象: Beginning programmer / Intermediate programmer
+:言語: English
+:日時: Sep 15 16:30-17:20
+:場所: Room A0712 (En1)
+:トピック: Databases / Open Source Python projects / Project Best Practices / Web-based Systems
+
+rhyselsmore
+-----------
+
+
+
+.. figure:: /_static/speakers/rhyselsmore.jpeg
+   :alt: rhyselsmore
+
+
+rhys.io
+
+| Be it arguing about Hypermedia APIs, enjoying a cold ale, or working on some code, I am in my happy place. Engineer at Heroku by day, Hacker by night, I value working with great people, the creation of elegant code, and getting out there and involved in our amazing community.
