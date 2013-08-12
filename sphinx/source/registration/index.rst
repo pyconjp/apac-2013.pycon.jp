@@ -15,7 +15,7 @@ PyCon APAC Early Bird Registration
    :alt: REGISTER NOW
    :target: http://connpass.com/event/2703/
 
-The registration fee for PyCon APAC is "5,000 JPY".
+The "Eary Bird" registration fee for PyCon APAC is "5,000 JPY".
 
 Early Bird Registration is open until August 14, 2013.
 
@@ -23,7 +23,6 @@ The ticket includes all talks, lunch, coffee break, T-shirt and etc.
 
 In addition, we prepared for a system to support the travel cost of the participant.
 Please refer to :doc:`support` (Deadline: August 11).
-
 
 Patron Sponsorship Registration
 ===============================
