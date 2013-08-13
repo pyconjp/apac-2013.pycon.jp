@@ -82,6 +82,8 @@ Google is a proud user and supporter of open source software and development met
    :target: http://www.hde.co.jp/gip/
    :alt: HDE
 
+株式会社HDE (HDE) は、クラウド上にシステムを移行したいが、一定のレベルの情報セキュリティ統制の確保が必要なために移行できていない企業に向けて、追加のセキュリティレイヤを提供している企業です。HDEのプロダクト／サービスはGoogle Apps向けメールセキュリティ市場で74%以上のシェアを獲得しており、Erlang/C++/PHPとともにPythonをメインの言語として使用しています。
+
 Silver
 ======
 

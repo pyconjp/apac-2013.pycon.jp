@@ -83,6 +83,8 @@ Google is a proud user and supporter of open source software and development met
    :target: http://www.hde.co.jp/gip/
    :alt: HDE
 
+HDE, Inc. (HDE) delivers an additional security layer to companies which are willing to move their systems on to the cloud, but can not do so because they need certain level of security control over their information. Our product/service, owning over 74% of marketshare in Google Apps targeted security service area in Japan, uses Python as a main language (along with some Erlang/C++/PHP).
+
 Silver
 ======
 
