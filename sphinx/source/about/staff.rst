@@ -74,6 +74,10 @@ Staff
      - Ian Lewis
      - :tw:`@IanMLewis`
      - `Ian Lewis <http://www.facebook.com/ianmlewis>`_
+   * -
+     - Iqbal Abdullah
+     - :tw:`@iqbalabd `
+     - `Iqbal Abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - Public Relations
      - Ryuji Tsutsui
      - :tw:`@ryu22e`
@@ -90,12 +94,15 @@ Staff
      - Fumichika Kinoshita
      - :tw:`@kinofumi`
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
+   * - Party
+     - Ryoichiro Kamiya
+     - :tw:`@ryokamiya`
+     - `ryoichiro.kamiya <http://www.facebook.com/ryoichiro.kamiya>`_
    * - Committee Members
      - Riko Imazu
      - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
    * -
-     - Ryoichiro Kamiya
-     - :tw:`@ryokamiya`
-     - `ryoichiro.kamiya <http://www.facebook.com/ryoichiro.kamiya>`_
-
+     - Yasushi Masuda
+     - :tw:`@whosaysni`
+     - 
