@@ -63,7 +63,7 @@ Staff
      -
      -
    * -
-     - Kitahara
+     - Kosei Kitahara
      - :tw:`@Surgo`
      - `Surgo <http://www.facebook.com/Surgo>`_
    * -

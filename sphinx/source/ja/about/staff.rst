@@ -63,7 +63,7 @@
      -
      -
    * -
-     - 北原
+     - 北原 光星
      - :tw:`@Surgo`
      - `Surgo <http://www.facebook.com/Surgo>`_
    * -
