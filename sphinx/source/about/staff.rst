@@ -76,7 +76,7 @@ Staff
      - `Ian Lewis <http://www.facebook.com/ianmlewis>`_
    * -
      - Iqbal Abdullah
-     - :tw:`@iqbalabd `
+     - :tw:`@iqbalabd`
      - `Iqbal Abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - Public Relations
      - Ryuji Tsutsui

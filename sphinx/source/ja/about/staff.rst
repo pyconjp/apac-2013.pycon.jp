@@ -76,7 +76,7 @@
      - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
    * -
      - Iqbal Abdullah
-     - :tw:`@iqbalabd `
+     - :tw:`@iqbalabd`
      - `Iqbal Abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - 広報
      - 筒井 隆次

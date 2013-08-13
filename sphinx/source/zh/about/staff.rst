@@ -75,6 +75,10 @@
      - Ian Lewis
      - :tw:`@IanMLewis`
      - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
+   * -
+     - Iqbal Abdullah
+     - :tw:`@iqbalabd`
+     - `Iqbal Abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - 公關
      - 筒井 隆次
      - :tw:`@ryu22e`
@@ -91,14 +95,18 @@
      - 木下 文史
      - :tw:`@kinofumi`
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
+   * - 黨
+     - 神谷 亮一郎
+     - :tw:`@ryokamiya`
+     - `ryoichiro.kamiya <http://www.facebook.com/ryoichiro.kamiya>`_
    * - 委員會成員
      - 今津 りこ
      - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
    * -
-     - 神谷 亮一郎
-     - :tw:`@ryokamiya`
-     - `ryoichiro.kamiya <http://www.facebook.com/ryoichiro.kamiya>`_
+     - 増田 泰
+     - :tw:`@whosaysni`
+     - 
 
 加入籌備團隊
 ============================
