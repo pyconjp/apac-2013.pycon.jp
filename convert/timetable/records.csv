@@ -158,9 +158,7 @@ VFX業界におけるPython活用事例,VFX業界におけるPython活用事例,
 ・使用ソフトウェアとPython
 ・CG制作体制とPython活用どころ
 ・実際のツール紹介",Project Best Practices / プロジェクト事例,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Don't record my talk / 不可,,,,
-PythonとDataDogを使って簡単システムモニターリング,PythonとDataDogを使って簡単システムモニターリング,,,日本語,9/14,9/14/2013 14:20:00,9/14/2013 14:50:00,Room A0765 (Ja2),Japanese; Room A0765 (Ja2),jhotta,jhotta,Jay,Hotta,fukuzo@cybertron.co.jp,,"所属: 無し
-肩書き: 無し
-参加プロジェクト: 無し",,,pythonとDatadog フリーアカウントを使った、お手軽監視プラットフォームの構築。,facebookライクなモニタリングプラットフォーム Datadog free account (datadoghq.com)とpythonを使って、開発者から非技術者までがシステムの状態、アプリの状態、ビジネスメトリックスを情報共有するためのお手軽監視プラットフォームの構築。,monitoring,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,,,
+PythonとDataDogを使って簡単システムモニターリング,PythonとDataDogを使って簡単システムモニターリング,,,日本語,9/14,9/14/2013 14:20:00,9/14/2013 14:50:00,Room A0765 (Ja2),Japanese; Room A0765 (Ja2),jhotta,jhotta,Jay,Hotta,fukuzo@cybertron.co.jp,,参加プロジェクト: DevOps Day Tokyo 2013 実行委員会 (9/28まで),,,pythonとDatadog フリーアカウントを使った、お手軽監視プラットフォームの構築。,facebookライクなモニタリングプラットフォーム Datadog free account (datadoghq.com)とpythonを使って、開発者から非技術者までがシステムの状態、アプリの状態、ビジネスメトリックスを情報共有するためのお手軽監視プラットフォームの構築。,monitoring,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,,,
 Simulating whole cell with E-Cell System,Simulating whole cell with E-Cell System,,,英語,9/14,9/14/2013 14:20:00,9/14/2013 14:50:00,Room A0712 (En1),English; Room A0712 (En1),Koichi Takahashi,Koichi Takahashi,Koichi,Takahashi,ktakahashi@riken.jp,http://www.e-cell.org http://lbcs.e-cell.org,"Koichi Takahashi is a founding member of the E-Cell Project and the chief system architect of the E-Cell System, an integrative cell simulation platform written in C++ and Python.  He earned his PhD from Keio University in 2004.  He then spent a few years in Berkeley, California as a Human Frontier Science Program Fellow at the Molecular Sciences Institute.  He is currently a principal investigator at RIKEN Quantitative Biology Center, heading Laboratory for Biochemical Simulation there.  He also holds project associate professorship at Keio University and visiting associate professorship at Osaka University.",http://lbcs.e-cell.org/wp-content/uploads/2012/08/koichi-k2.jpg,koichitakahashi.jpeg,"I will present the E-Cell Project, our efforts towards realizing precise whole cell-scale simulations possible.  Our simulation platform E-Cell System combines C++ and Python to mitigate biological complexity while maintaining high-productivity and high-performance on various architectures including supercomputers.","Simulation of biological cells is one of the greatest scientific challenges in the 21st century.  One key technology that plays a vital role here is software engineering, as well as experimental measurement techniques, mathematical modeling methods and high-performance computing.  In this talk, I will introduce what we have been doing since establishment of the E-Cell Project in 1996 to tackle this tough computational problem, putting some emphasis on its software and computational aspects.
 
 Our software E-Cell System is an integrative computational platform that combines (1) modeling of highly complicated biochemical reaction networks in the cell, (2) high-performance computing to simulate dynamics and kinetics of intracellular molecules at the molecular resolution, and (3) analysis and visualization of simulated data.   We have recently developed a new domain-specific language for rule-based modeling of complicated reaction networks.  Its processing components are implemented on top of intact CPython interpreter and it seamlessly integrates with other parts of the software platform.   I will also talk about how we are deploying our simulations on supercomputers including K-computer in RIKEN Kobe.
@@ -179,13 +177,10 @@ Maintaining Python Project:
 ","The talk considers 3 main points.
 In the first part, we'll have a look at some common usages of mock library. The second subject will focus on how these common patterns help us testing client-side application, this includes mocking requests, service API responses, file manipulations, etc. However, the official documentation does not cover all topics. As a result, the last part will explain some problems encountered during the development phase and how to fulfill the test cases.","Python libraries and extensions / ライブラリや拡張, mock, testing",Short / 短め (30 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
 Tea Break,Tea Break,Tea Break,Tea Break,,9/14,9/14/2013 14:50:00,9/16/2012 15:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
-Programming AWS with Python,Programming AWS with Python,,,日本語,9/14,9/14/2013 15:30:00,9/14/2013 16:20:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),Yasuhiro Matsuo,Yasuhiro Matsuo,Yasuhiro,Matsuo,matsuoy@amazon.co.jp,http://aws.typepad.com/aws_japan/,"1978年、山梨県生まれ。慶應義塾大学大学院理工学研究科修士課程修了。
-AWSを多くエンジニアに知ってもらうことで、エンジニアの価値を高めたいという思いから、2012年3月にアマゾンデータサービスジャパン入社。
-以後、テクニカルエバンジェリストとして、AWSの普及のために日本中を飛びまわる日々を送る。
-年間の講演回数は130を越え、AWSのハンズ オンも精力的に実施。
-またAmazon Web Services ブログからAWSの最新アップデート情報を日本語で発信している。
-Amazon Web Services ブログ http://aws.typepad.com/aws_japan/
-",https://www.facebook.com/photo.php?fbid=10151527645103501&l=0e1dc262f4,,Pythonを用いてAWSを操作する様々なツールやサービスを紹介いたします。,"AWSのコマンドラインツールである、AWS Command Line InterfaceはPythonで書かれています。またElastic Beanstalkを使えば、スケールするPython/Django環境を数クリックで構築でき、gitを使ってコードをデプロイすればすぐにウェブアプリケーションを開始することができます。
+Programming AWS with Python,Programming AWS with Python,,,日本語,9/14,9/14/2013 15:30:00,9/14/2013 16:20:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),Yasuhiro Matsuo,Yasuhiro Matsuo,Yasuhiro,Matsuo,matsuoy@amazon.co.jp,,"アマゾンデータサービスジャパン株式会社
+ソリューションアーキテクチャ部
+ソリューションアーキテクト
+ITコンサルティング企業やスタートアップCTOなどを経て、2011年より現職。主にスタートアップ企業や大規模Web・ゲーム企業の技術支援を担当。",,,Pythonを用いてAWSを操作する様々なツールやサービスを紹介いたします。,"AWSのコマンドラインツールである、AWS Command Line InterfaceはPythonで書かれています。またElastic Beanstalkを使えば、スケールするPython/Django環境を数クリックで構築でき、gitを使ってコードをデプロイすればすぐにウェブアプリケーションを開始することができます。
 このセッションでは、Pythonを使ってAWSを操作する方法を色々紹介いたします。
 
 具体的には
@@ -648,9 +643,15 @@ Djangoのポータルサイト(http://djangoproject.jp/)を管理したりDjango
 
 BePROUD Inc.でITアーキテクトとして仕事してたりもします。",http://s.gravatar.com/avatar/4c69dbc6443b1723faa7a96f9a8b4c9a?s=300,hirokiky.jpeg,"Djangoアプリケーションを開発する際のデバッグ方法について紹介します。
 標準のDebugモード以外に使える様々なサードパーティライブラリを中心に、
+私が趣味/仕事でのDjangoアプリケーションを開発する通して学んだデバッグ方法を具体的に紹介します。
 
-私が趣味/仕事でのDjangoアプリケーションを開発する通して学んだ
-","前置きとDjango標準Debugモードについて(5分)
+アプリケーション開発時の泥沼のデバッグ作業は誰しも避けたいものです。
+その時間はたいてい無駄になりますし、開発者自身つらいものがありますね。
+優秀なツール使い、その負担を軽減しましょう。
+適切なロギングで、発生した問題に素早く対処できるようにしましょう。
+
+このセッションでは少しでも開発の助けになるよう、
+Djangoアプリケーションのデバッグ方法を紹介します。","前置きとDjango標準Debugモードについて(5分)
 
 django-debug-toolbar(10分):
 
