@@ -85,6 +85,17 @@ Google is a proud user and supporter of open source software and development met
 
 HDE, Inc. (HDE) delivers an additional security layer to companies which are willing to move their systems on to the cloud, but can not do so because they need certain level of security control over their information. Our product/service, owning over 74% of marketshare in Google Apps targeted security service area in Japan, uses Python as a main language (along with some Erlang/C++/PHP).
 
+|atlassian|
+-----------
+
+- Atlassian
+- https://www.atlassian.com/
+
+.. |atlassian| image:: /_themes/pycon_apac_2013_theme/static/image/logo_atlassian.png
+   :target: https://www.atlassian.com/
+   :alt: Atlassian
+
+
 Silver
 ======
 

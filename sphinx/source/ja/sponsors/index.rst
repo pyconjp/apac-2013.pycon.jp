@@ -84,6 +84,18 @@ Google is a proud user and supporter of open source software and development met
 
 株式会社HDE (HDE) は、クラウド上にシステムを移行したいが、一定のレベルの情報セキュリティ統制の確保が必要なために移行できていない企業に向けて、追加のセキュリティレイヤを提供している企業です。HDEのプロダクト／サービスはGoogle Apps向けメールセキュリティ市場で74%以上のシェアを獲得しており、Erlang/C++/PHPとともにPythonをメインの言語として使用しています。
 
+|atlassian|
+-----------
+
+- Atlassian
+- https://www.atlassian.com/ja/
+
+.. |atlassian| image:: /_themes/pycon_apac_2013_theme/static/image/logo_atlassian.png
+   :target: https://www.atlassian.com/ja/
+   :alt: Atlassian
+
+アトラシアンはソフトウェア開発ツール、コラボレーションツールを提供するソフトウェア企業です。素晴らしいソフトウェアを計画し、開発し、リリースする世界中のイノベーターを支援しています。アトラシアンの課題管理「JIRA」、コラボレーションツール「Confluence」、無料ソースコードホスティング「Bitbucket」、エンタープライズ向けGitリポジトリ管理「Stash」、グループチャット「HipChat」などのソフトウェア開発製品を活用して、世界中であらゆる規模の25,000以上の企業が賢く素早く協同作業をしています。オンプレミス型「ダウンロード」、クラウド型「オンデマンド」を用意しています。
+
 Silver
 ======
 
