@@ -46,6 +46,12 @@ Basho’s solutions are ideal for companies that need to always store and access
    :target: http://www.cyberagent.co.jp/
    :alt: CyberAgent
 
+CyberAgent is the operator of community and game Ameba for smartphones,
+one of leading Internet services in Japan. CyberAgent provides comprehensive Internet services with not only Ameba business butalso with social game business, and internet advertising business with one of the highest levels of sales in Japan as a pioneer. At the same time, CyberAgent invests and develops some internet service ventures in Japan and around Asia.
+
+CyberAgent has a vision "become a company that is a hallmark of the 21st century," operates a lot of smartphone services and social games, and indentifies a significant strengths with speed launching new business based on accumulated know-how obtained from experiences from early internet industry stages.Through our mainstay Ameba, CyberAgent currently provides over 28 million PC and smartphone users* per month with a blogging service that can be set up free-of-charge, the Ameba Pigg avatar community, games, and more especially for smartphone users. 
+Lately CyberAgent takes some social initiatives through our services such as IT education for elementary school children, enterepreneur backing support, support for women providing child care.
+
 Gold
 ====
 
