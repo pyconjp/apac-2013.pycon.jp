@@ -31,6 +31,12 @@ Platinum
    :target: http://basho.com
    :alt: Basho
 
+Basho is a distributed systems company that makes Riak, an open source distributed database, and Riak CS, open source cloud storage software. Both are architected for high availability, fault-tolerance, and linear scalability. They are used by businesses ranging from gaming to mobile to health, including over 25 percent of the Fortune 50. Basho opened its Tokyo office in 2012 to support the APAC region. 
+
+Basho officially supports a number of open-source `client libraries <http://docs.basho.com/riak/latest/dev/taste-of-riak/>`_ for various programming languages and environments...including Python.
+
+Basho’s solutions are ideal for companies that need to always store and access critical data. Common use cases include powering Web, mobile, and social applications; collecting client-facing monitoring data; and building public and private cloud platforms.  
+
 |cyberagent|
 ------------
 - CyberAgent
