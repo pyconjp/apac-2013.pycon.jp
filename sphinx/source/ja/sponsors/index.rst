@@ -168,6 +168,8 @@ Silver
    :target: http://www.bizmobile.co.jp/
    :alt: BizMobile
 
+Pythonで構築したMDMサービスを提供し、数十万台の企業デバイスの管理をサポートしています。モバイルワークとDevOpsを推進する仲間を募集中！
+
 |nexedi|
 --------
 - Nexedi
