@@ -314,3 +314,11 @@ Plone is the leading python-based Content Management System. Plone is secure, fl
    :target: http://www.ousia.jp/
    :alt: Studio Ousia
 
+|klab|
+-------
+- KLab
+- http://www.klab.com/
+
+.. |klab| image:: /_themes/pycon_apac_2013_theme/static/image/logo_klab.png
+   :target: http://www.klab.com/
+   :alt: KLab

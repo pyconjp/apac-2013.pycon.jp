@@ -367,3 +367,14 @@ HerokuはPythonをはじめRubyやJavaなど、複数のプログラミング言
    :alt: Studio Ousia
 
 人工知能を用いた言語解析に関する技術開発を行っています。Cython、gevent、MessagePack-RPC、NumPy、scikit-learn、PiCloud等のライブラリ／サービスを使用。
+
+|klab|
+-------
+- KLab
+- http://www.klab.com/jp/
+
+.. |klab| image:: /_themes/pycon_apac_2013_theme/static/image/logo_klab.png
+   :target: http://www.klab.com/jp/
+   :alt: KLab
+
+KLab株式会社は、自社で企画・開発した良質なモバイルオンラインゲームやスマートフォンアプリ、信頼性の高いソフトウェアパッケージを提供しています。
