@@ -31,6 +31,10 @@ Platinum
    :target: http://basho.com
    :alt: Basho
 
+Bashoは分散システムの会社で、RiakというOSSの分散データベースと、Riak CSというクラウドストレージソフトウェアを開発しています。どちらも高可用性、耐障害性、スケーラビリティが特徴で、ゲームからモバイル、ヘルスケアの分野にわたってFortune 50の25%以上の企業で利用されています。2012年にはAPACをサポートするために東京オフィスをオープンしました。
+
+Pythonを始めとする多くの言語、環境でのRiakの `クライアントライブラリ <http://docs.basho.com/riak/latest/dev/taste-of-riak/>`_ をBashoが公式にサポートしています。クリティカルなデータにいつでもアクセスできなければならない企業にとって、Bashoの提案するソリューションは理想的です。Web, モバイル、ソーシャルアプリ、モニタリングデータの保存から、パブリックまたはプライベートなクラウド環境の構築まで、様々なユースケースがあります。
+
 |cyberagent|
 ------------
 - CyberAgent
@@ -39,6 +43,10 @@ Platinum
 .. |cyberagent| image:: /_themes/pycon_apac_2013_theme/static/image/logo_cyberagent.png
    :target: http://www.cyberagent.co.jp/
    :alt: CyberAgent
+
+サイバーエージェントは、スマートフォン向けコミュニティ&ゲーム「Ameba」を運営するAmeba事業をはじめ、ソーシャルゲーム事業、インターネット広告事業でも日本トップ規模の売上高を誇っております。また、日本国内及びアジア圏におけるインターネット企業への投資・育成活動も行っており、インターネット業界のパイオニアとして、総合的にサービスを提供しております。「21世紀を代表する会社を創る」をビジョンに、インターネット黎明期から現在に至るまでに培ったノウハウに基づく新規事業の立ち上げスピードとインターネットサービス運営に強みを持ち、現在では多数のスマートフォンサービスやソーシャルゲームを運営しています。
+
+中でも、当社の代表的なサービスである「Ameba」では、月間2,800万人以上の方が利用するインターネットメディアとして、スマートフォン・PC・フィーチャーフォン上において、無料で開設可能なブログサービス、アバターコミュニティ「アメーバピグ」、スマートフォン向けゲームやコミュニティなど様々なサービスを提供しています。また最近では、小学生向けIT教育やアントレプレナーシップ輩出支援、育児中の女性支援などといった社会的な取り組みもおこなっております。
 
 Gold
 ====
@@ -83,6 +91,18 @@ Google is a proud user and supporter of open source software and development met
    :alt: HDE
 
 株式会社HDE (HDE) は、クラウド上にシステムを移行したいが、一定のレベルの情報セキュリティ統制の確保が必要なために移行できていない企業に向けて、追加のセキュリティレイヤを提供している企業です。HDEのプロダクト／サービスはGoogle Apps向けメールセキュリティ市場で74%以上のシェアを獲得しており、Erlang/C++/PHPとともにPythonをメインの言語として使用しています。
+
+|atlassian|
+-----------
+
+- Atlassian
+- https://www.atlassian.com/ja/
+
+.. |atlassian| image:: /_themes/pycon_apac_2013_theme/static/image/logo_atlassian.png
+   :target: https://www.atlassian.com/ja/
+   :alt: Atlassian
+
+アトラシアンはソフトウェア開発ツール、コラボレーションツールを提供するソフトウェア企業です。素晴らしいソフトウェアを計画し、開発し、リリースする世界中のイノベーターを支援しています。アトラシアンの課題管理「JIRA」、コラボレーションツール「Confluence」、無料ソースコードホスティング「Bitbucket」、エンタープライズ向けGitリポジトリ管理「Stash」、グループチャット「HipChat」などのソフトウェア開発製品を活用して、世界中であらゆる規模の25,000以上の企業が賢く素早く協同作業をしています。オンプレミス型「ダウンロード」、クラウド型「オンデマンド」を用意しています。
 
 Silver
 ======
@@ -151,6 +171,8 @@ Silver
 .. |bizmobile| image:: /_themes/pycon_apac_2013_theme/static/image/logo_bizmobile.png
    :target: http://www.bizmobile.co.jp/
    :alt: BizMobile
+
+Pythonで構築したMDMサービスを提供し、数十万台の企業デバイスの管理をサポートしています。モバイルワークとDevOpsを推進する仲間を募集中！
 
 |nexedi|
 --------
