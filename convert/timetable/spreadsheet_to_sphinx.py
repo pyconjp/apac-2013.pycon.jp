@@ -30,8 +30,6 @@ SESSION_TEMPLATE_JA = """
 {title_with_line}
 {abstract}
 
-:ビデオ: {video}
-:スライド: {slide}
 :対象: {audience}
 :言語: {language}
 :日時: {datetime}
@@ -47,8 +45,6 @@ JOINT_TEMPLATE_JA = """
 {title_with_line}
 {abstract}
 
-:ビデオ: {video}
-:スライド: {slide}
 :言語: {language}
 :日時: {datetime}
 :場所: {room}
@@ -62,8 +58,6 @@ SESSION_TEMPLATE_EN = """
 {title_with_line}
 {abstract}
 
-:Video: {video}
-:Slide: {slide}
 :Audience: {audience}
 :Language: {language}
 :Time: {datetime}
@@ -79,8 +73,6 @@ JOINT_TEMPLATE_EN = """
 {title_with_line}
 {abstract}
 
-:Video: {video}
-:Slide: {slide}
 :Language: {language}
 :Time: {datetime}
 :Room: {room}
