@@ -1,11 +1,35 @@
-,,,,,,
-09:30 - 09:45,Open (till 09:30),Open (till 09:30),Open (till 09:30),Open (till 09:30),Open (till 09:30),Open (till 09:30)
-09:45 - 10:45,Opening (till 10:00),,,,,
-11:00 - 11:45,`Keynote: Armin Ronacher <keynote.html#session-15-0945-room230-en>`_ (till 10:50),,,,,
-11:45 - 13:30,Break (till 11:10),Break (till 11:10),Break (till 11:10),Break (till 11:10),Break (till 11:10),Break (till 11:10)
-13:30 - 14:15,,,:ref:`session-14-1110-RoomA0715(Ja1)-en` (till 12:00),,,
-14:30 - 15:15,,,,,:ref:`session-14-1110-RoomA0765(Ja2)-en` (till 12:00),
-15:30 - 16:15,,:ref:`session-14-1110-RoomA0712(En1)-en` (till 12:00),,,,
-16:30 - 17:15,,,,:ref:`session-14-1110-RoomA0762(En2)-en` (till 12:00),,
-17:30 - 18:30,Lunch (till 13:00),Lunch (till 13:00),Lunch (till 13:00),Lunch (till 13:00),Lunch (till 13:00),Lunch (till 13:00)
-18:30 - 18:45,,,:ref:`session-14-1300-RoomA0715(Ja1)-en` (till 13:30),,,
+09:00 - 09:30,Open,Open,Open,Open,Open,Open
+09:30 - 09:45,Opening (till 10:00),,,,,
+09:45 - 10:45,`Keynote: Armin Ronacher <keynote.html#session-15-0945-room230-en>`_ (till 10:50),,,,,
+11:00 - 11:45,Break,"Break
+
+11:10 :ref:`session-14-1110-RoomA0712(En1)-en` (till 12:00)","Break
+
+11:10 :ref:`session-14-1110-RoomA0715(Ja1)-en` (till 12:00)","Break
+
+11:10 :ref:`session-14-1110-RoomA0762(En2)-en` (till 12:00)","Break
+
+11:10 :ref:`session-14-1110-RoomA0765(Ja2)-en` (till 12:00)",Break
+11:45 - 13:30,Lunch,"Lunch
+
+13:00 :ref:`session-14-1300-RoomA0712(En1)-en`","Lunch
+
+13:00 :ref:`session-14-1300-RoomA0715(Ja1)-en`","Lunch
+
+13:00 :ref:`session-14-1300-RoomA0762(En2)-en`","Lunch
+
+13:00 :ref:`session-14-1300-RoomA0765(Ja2)-en`",Lunch
+13:30 - 14:15,Break,"Break
+
+13:40 :ref:`session-14-1340-RoomA0712(En1)-en`","Break
+
+13:40 :ref:`session-14-1340-RoomA0715(Ja1)-en`","Break
+
+13:40 :ref:`session-14-1340-RoomA0762(En2)-en`","Break
+
+13:40 :ref:`session-14-1340-RoomA0765(Ja2)-en`",Break
+14:30 - 15:15,,:ref:`session-14-1420-RoomA0712(En1)-en`,:ref:`session-14-1420-RoomA0715(Ja1)-en`,:ref:`session-14-1420-RoomA0762(En2)-en`,:ref:`session-14-1420-RoomA0765(Ja2)-en`,
+15:30 - 16:15,,:ref:`session-14-1530-RoomA0712(En1)-en` (till 16:20),:ref:`session-14-1530-RoomA0715(Ja1)-en` (till 16:20),:ref:`session-14-1530-RoomA0762(En2)-en` (till 16:20),:ref:`session-14-1530-RoomA0765(Ja2)-en` (till 16:20),
+16:30 - 17:15,,:ref:`session-14-1630-RoomA0712(En1)-en` (till 17:20),:ref:`session-14-1630-RoomA0715(Ja1)-en` (till 17:20),:ref:`session-14-1630-RoomA0762(En2)-en` (till 17:20),:ref:`session-14-1630-RoomA0765(Ja2)-en` (till 17:20),
+17:30 - 18:30,Break,Break,Break,Break,Break,Break
+18:30 - 18:45,closing,,,,,

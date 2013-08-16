@@ -178,33 +178,33 @@ def create_reference_id(row):
 
 def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
     session_terms = [
-        {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
-        {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
-        {'start': datetime.datetime(2012, 9, 15,  9, 45), 'end': datetime.datetime(2012, 9, 15, 10, 45), 'end2': datetime.datetime(2012, 9, 15, 10, 50)},
-        {'start': datetime.datetime(2012, 9, 15, 11, 00), 'end': datetime.datetime(2012, 9, 15, 11, 45), 'end2': datetime.datetime(2012, 9, 15, 11, 50)},
-        {'start': datetime.datetime(2012, 9, 15, 11, 45), 'end': datetime.datetime(2012, 9, 15, 13, 30), 'end2': datetime.datetime(2012, 9, 15, 13, 35)},
-        {'start': datetime.datetime(2012, 9, 15, 13, 30), 'end': datetime.datetime(2012, 9, 15, 14, 15), 'end2': datetime.datetime(2012, 9, 15, 14, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 14, 30), 'end': datetime.datetime(2012, 9, 15, 15, 15), 'end2': datetime.datetime(2012, 9, 15, 15, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 15, 30), 'end': datetime.datetime(2012, 9, 15, 16, 15), 'end2': datetime.datetime(2012, 9, 15, 16, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 16, 30), 'end': datetime.datetime(2012, 9, 15, 17, 15), 'end2': datetime.datetime(2012, 9, 15, 17, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 17, 30), 'end': datetime.datetime(2012, 9, 15, 18, 30), 'end2': datetime.datetime(2012, 9, 15, 18, 35)},
-        {'start': datetime.datetime(2012, 9, 15, 18, 30), 'end': datetime.datetime(2012, 9, 15, 18, 45), 'end2': datetime.datetime(2012, 9, 15, 18, 50)},
+        {'start': datetime.datetime(2013, 9, 14,  9, 00), 'end': datetime.datetime(2013, 9, 14,  9, 30), 'end2': datetime.datetime(2013, 9, 14,  9, 30)},
+        {'start': datetime.datetime(2013, 9, 14,  9, 30), 'end': datetime.datetime(2013, 9, 14,  9, 45), 'end2': datetime.datetime(2013, 9, 14,  9, 45)},
+        {'start': datetime.datetime(2013, 9, 14,  9, 45), 'end': datetime.datetime(2013, 9, 14, 10, 45), 'end2': datetime.datetime(2013, 9, 14, 10, 50)},
+        {'start': datetime.datetime(2013, 9, 14, 11, 00), 'end': datetime.datetime(2013, 9, 14, 11, 45), 'end2': datetime.datetime(2013, 9, 14, 11, 50)},
+        {'start': datetime.datetime(2013, 9, 14, 11, 45), 'end': datetime.datetime(2013, 9, 14, 13, 30), 'end2': datetime.datetime(2013, 9, 14, 13, 35)},
+        {'start': datetime.datetime(2013, 9, 14, 13, 30), 'end': datetime.datetime(2013, 9, 14, 14, 15), 'end2': datetime.datetime(2013, 9, 14, 14, 20)},
+        {'start': datetime.datetime(2013, 9, 14, 14, 30), 'end': datetime.datetime(2013, 9, 14, 15, 15), 'end2': datetime.datetime(2013, 9, 14, 15, 20)},
+        {'start': datetime.datetime(2013, 9, 14, 15, 30), 'end': datetime.datetime(2013, 9, 14, 16, 15), 'end2': datetime.datetime(2013, 9, 14, 16, 20)},
+        {'start': datetime.datetime(2013, 9, 14, 16, 30), 'end': datetime.datetime(2013, 9, 14, 17, 15), 'end2': datetime.datetime(2013, 9, 14, 17, 20)},
+        {'start': datetime.datetime(2013, 9, 14, 17, 30), 'end': datetime.datetime(2013, 9, 14, 18, 30), 'end2': datetime.datetime(2013, 9, 14, 18, 35)},
+        {'start': datetime.datetime(2013, 9, 14, 18, 30), 'end': datetime.datetime(2013, 9, 14, 18, 45), 'end2': datetime.datetime(2013, 9, 14, 18, 50)},
 
-        {'start': datetime.datetime(2012, 9, 16,  9, 00), 'end': datetime.datetime(2012, 9, 16, 10, 00), 'end2': datetime.datetime(2012, 9, 16, 10, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 10, 00), 'end': datetime.datetime(2012, 9, 16, 10, 45), 'end2': datetime.datetime(2012, 9, 16, 10, 50)},
-        {'start': datetime.datetime(2012, 9, 16, 11, 00), 'end': datetime.datetime(2012, 9, 16, 11, 45), 'end2': datetime.datetime(2012, 9, 16, 11, 50)},
-        {'start': datetime.datetime(2012, 9, 16, 11, 45), 'end': datetime.datetime(2012, 9, 16, 14, 00), 'end2': datetime.datetime(2012, 9, 16, 14, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 14, 00), 'end': datetime.datetime(2012, 9, 16, 15, 00), 'end2': datetime.datetime(2012, 9, 16, 15, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 15, 15), 'end': datetime.datetime(2012, 9, 16, 16, 00), 'end2': datetime.datetime(2012, 9, 16, 16, 5)},
-        {'start': datetime.datetime(2012, 9, 16, 16, 00), 'end': datetime.datetime(2012, 9, 16, 16, 45), 'end2': datetime.datetime(2012, 9, 16, 16, 45)},
-        {'start': datetime.datetime(2012, 9, 16, 16, 45), 'end': datetime.datetime(2012, 9, 16, 17, 30), 'end2': datetime.datetime(2012, 9, 16, 17, 35)},
-        {'start': datetime.datetime(2012, 9, 16, 17, 45), 'end': datetime.datetime(2012, 9, 16, 18, 30), 'end2': datetime.datetime(2012, 9, 16, 18, 45)},
-        {'start': datetime.datetime(2012, 9, 16, 18, 45), 'end': datetime.datetime(2012, 9, 16, 19, 00), 'end2': datetime.datetime(2012, 9, 16, 19, 00)},
+        {'start': datetime.datetime(2013, 9, 15,  9, 00), 'end': datetime.datetime(2013, 9, 15, 10, 00), 'end2': datetime.datetime(2013, 9, 15, 10, 00)},
+        {'start': datetime.datetime(2013, 9, 15, 10, 00), 'end': datetime.datetime(2013, 9, 15, 10, 45), 'end2': datetime.datetime(2013, 9, 15, 10, 50)},
+        {'start': datetime.datetime(2013, 9, 15, 11, 00), 'end': datetime.datetime(2013, 9, 15, 11, 45), 'end2': datetime.datetime(2013, 9, 15, 11, 50)},
+        {'start': datetime.datetime(2013, 9, 15, 11, 45), 'end': datetime.datetime(2013, 9, 15, 14, 00), 'end2': datetime.datetime(2013, 9, 15, 14, 00)},
+        {'start': datetime.datetime(2013, 9, 15, 14, 00), 'end': datetime.datetime(2013, 9, 15, 15, 00), 'end2': datetime.datetime(2013, 9, 15, 15, 00)},
+        {'start': datetime.datetime(2013, 9, 15, 15, 15), 'end': datetime.datetime(2013, 9, 15, 16, 00), 'end2': datetime.datetime(2013, 9, 15, 16, 5)},
+        {'start': datetime.datetime(2013, 9, 15, 16, 00), 'end': datetime.datetime(2013, 9, 15, 16, 45), 'end2': datetime.datetime(2013, 9, 15, 16, 45)},
+        {'start': datetime.datetime(2013, 9, 15, 16, 45), 'end': datetime.datetime(2013, 9, 15, 17, 30), 'end2': datetime.datetime(2013, 9, 15, 17, 35)},
+        {'start': datetime.datetime(2013, 9, 15, 17, 45), 'end': datetime.datetime(2013, 9, 15, 18, 30), 'end2': datetime.datetime(2013, 9, 15, 18, 45)},
+        {'start': datetime.datetime(2013, 9, 15, 18, 45), 'end': datetime.datetime(2013, 9, 15, 19, 00), 'end2': datetime.datetime(2013, 9, 15, 19, 00)},
     ]
 
     writers = {
-        datetime.date(2012,9,15): csv.writer(open('{0}-{1}.csv'.format(timetable1_name, lang), 'wb')),
-        datetime.date(2012,9,16): csv.writer(open('{0}-{1}.csv'.format(timetable2_name, lang), 'wb')),
+        datetime.date(2013,9,14): csv.writer(open('{0}-{1}.csv'.format(timetable1_name, lang), 'wb')),
+        datetime.date(2013,9,15): csv.writer(open('{0}-{1}.csv'.format(timetable2_name, lang), 'wb')),
     }
 
     time_index = 0
