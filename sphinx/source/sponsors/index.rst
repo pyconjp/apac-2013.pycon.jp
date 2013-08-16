@@ -107,6 +107,8 @@ HDE, Inc. (HDE) delivers an additional security layer to companies which are wil
    :target: https://www.atlassian.com/
    :alt: Atlassian
 
+Atlassian products help innovators everywhere plan, build and launch great software. More than 25,000 large and small organizations – including Citigroup, eBay, and Netflix  – use Atlassian’s issue tracking, collaboration and software-development products to work smarter and deliver quality results on time. Learn more at http://atlassian.com
+
 Silver
 ======
 
@@ -295,6 +297,8 @@ Plone is the leading python-based Content Management System. Plone is secure, fl
 .. |erato| image:: /_themes/pycon_apac_2013_theme/static/image/logo_erato.png
    :target: http://www-erato.ist.hokudai.ac.jp/
    :alt: JST ERATO Minato Discrete Strucure Manipulation System Project
+
+Our project (Minato Discrete Strucure Manipulation System Project) is one of the ERATO projects funded by JST, whose aims are to organize an integrated method of algebraic operations for various types of discrete structures and construct the standard techniques for efficiently processing the large-scale practical problems in various fields.
 
 |streamplus|
 ------------
