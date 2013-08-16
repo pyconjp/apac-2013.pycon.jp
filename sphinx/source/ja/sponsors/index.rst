@@ -88,7 +88,7 @@ Gold
    :target: http://developers.google.com/open-source
    :alt: Google
 
-Google is a proud user and supporter of open source software and development methodologies. Google contributes back to the Open Source community in many ways, including more than 35 million lines of source code, project hosting on Google Code, programs for students including Google Summer of Code and the Google Code-in Contest, and support for a wide variety of projects, programs, and events around the world.
+Google は、世界中の情報を整理し、世界中の人々がアクセスできて使えるようにするために様々なサービスを提供しています。また、Google は Google App Engine、Android SDK やその他多くの API など、開発者の皆さんがアプリケーションやサービスをつくるための様々なツールを提供しています。 https://developers.google.com/
 
 |hde|
 -----
