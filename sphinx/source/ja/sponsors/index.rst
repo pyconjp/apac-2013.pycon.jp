@@ -88,7 +88,7 @@ Gold
    :target: http://developers.google.com/open-source
    :alt: Google
 
-Google は、世界中の情報を整理し、世界中の人々がアクセスできて使えるようにするために様々なサービスを提供しています。また、Google は Google App Engine、Android SDK やその他多くの API など、開発者の皆さんがアプリケーションやサービスをつくるための様々なツールを提供しています。 https://developers.google.com/
+Google では、オープンソースのソフトウェアや開発手法を積極的に利用すると共に、支持をしています。そして、Google は様々な形でオープンソースコミュニティに還元しています。例えば、3500 万行のソースコードや Google Code におけるプロジェクトホスティング、Google Summer of Code や Google Code-in のコンテストといった学生向けのプログラム、更には世界中の多岐にわたるプロジェクトやプログラム、イベントへのサポートといった活動もその一環です。
 
 |hde|
 -----
