@@ -10,11 +10,10 @@ import string
 
 ROOM_IDX_MAP = {
     'Hall': 1,
-    'Room A0712 (En1)': 2,
-    'Room A0715 (Ja1)': 3,
-    'Room A0762 (En2)': 4,
-    'Room A0765 (Ja2)': 5,
-    'Tokyo Cafe 202': 6
+    'Room A0715 (Ja1)': 2,
+    'Room A0765 (Ja2)': 3,
+    'Room A0712 (En1)': 4,
+    'Room A0762 (En2)': 5
 }
 
 JOINT_NAMES = [
@@ -101,6 +100,19 @@ IMAGE_TEMPLATE = """
    :alt: {speaker}
 """
 
+SESSION_TERMS = {}
+
+SESSION_TERMS[14] = [
+    '9:00', '9:30', '10:00', '10:50', '11:10', '12:00', '13:00', '13:30', '13:40',
+    '14:10', '14:20', '14:50', '15:30', '16:20', '16:30', '17:20', '17:30', '18:20',
+    '18:30', '19:00',
+]
+
+SESSION_TERMS[15] = [
+    '9:30', '10:00', '10:50', '11:00', '11:50', '13:00', '13:50', '14:00', '14:50',
+    '15:30', '16:20', '16:30', '17:20', '17:30', '17:40', '18:30', '19:00',
+]
+
 def str2datetime(s):
     "convert %m/%d/%Y HH:MM:SS -> datetime object"
     return datetime.datetime(*time.strptime(s, '%m/%d/%Y %H:%M:%S')[:6])
@@ -175,40 +187,32 @@ def create_reference_id(row):
 
     return ref_id
 
+def create_session_terms():
+    session_terms = {14: [], 15: []}
+    for day, terms in SESSION_TERMS.iteritems():
+        for idx, time in enumerate(terms):
+            try:
+                start_h, start_m = [int(t) for t in time.split(':')]
+                end_h, end_m = [int(t) for t in SESSION_TERMS[day][idx+1].split(':')]
+            except IndexError:
+                break
+            session_terms[day].append({
+                'start': datetime.datetime(2013, 9, day, start_h, start_m),
+                'end': datetime.datetime(2013, 9, day, end_h, end_m),
+                'end2': datetime.datetime(2013, 9, day, end_h, end_m)
+            })
+    return session_terms[14] + session_terms[15]
 
 def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
-    session_terms = [
-        {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
-        {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
-        {'start': datetime.datetime(2012, 9, 15,  9, 45), 'end': datetime.datetime(2012, 9, 15, 10, 45), 'end2': datetime.datetime(2012, 9, 15, 10, 50)},
-        {'start': datetime.datetime(2012, 9, 15, 11, 00), 'end': datetime.datetime(2012, 9, 15, 11, 45), 'end2': datetime.datetime(2012, 9, 15, 11, 50)},
-        {'start': datetime.datetime(2012, 9, 15, 11, 45), 'end': datetime.datetime(2012, 9, 15, 13, 30), 'end2': datetime.datetime(2012, 9, 15, 13, 35)},
-        {'start': datetime.datetime(2012, 9, 15, 13, 30), 'end': datetime.datetime(2012, 9, 15, 14, 15), 'end2': datetime.datetime(2012, 9, 15, 14, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 14, 30), 'end': datetime.datetime(2012, 9, 15, 15, 15), 'end2': datetime.datetime(2012, 9, 15, 15, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 15, 30), 'end': datetime.datetime(2012, 9, 15, 16, 15), 'end2': datetime.datetime(2012, 9, 15, 16, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 16, 30), 'end': datetime.datetime(2012, 9, 15, 17, 15), 'end2': datetime.datetime(2012, 9, 15, 17, 20)},
-        {'start': datetime.datetime(2012, 9, 15, 17, 30), 'end': datetime.datetime(2012, 9, 15, 18, 30), 'end2': datetime.datetime(2012, 9, 15, 18, 35)},
-        {'start': datetime.datetime(2012, 9, 15, 18, 30), 'end': datetime.datetime(2012, 9, 15, 18, 45), 'end2': datetime.datetime(2012, 9, 15, 18, 50)},
-
-        {'start': datetime.datetime(2012, 9, 16,  9, 00), 'end': datetime.datetime(2012, 9, 16, 10, 00), 'end2': datetime.datetime(2012, 9, 16, 10, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 10, 00), 'end': datetime.datetime(2012, 9, 16, 10, 45), 'end2': datetime.datetime(2012, 9, 16, 10, 50)},
-        {'start': datetime.datetime(2012, 9, 16, 11, 00), 'end': datetime.datetime(2012, 9, 16, 11, 45), 'end2': datetime.datetime(2012, 9, 16, 11, 50)},
-        {'start': datetime.datetime(2012, 9, 16, 11, 45), 'end': datetime.datetime(2012, 9, 16, 14, 00), 'end2': datetime.datetime(2012, 9, 16, 14, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 14, 00), 'end': datetime.datetime(2012, 9, 16, 15, 00), 'end2': datetime.datetime(2012, 9, 16, 15, 00)},
-        {'start': datetime.datetime(2012, 9, 16, 15, 15), 'end': datetime.datetime(2012, 9, 16, 16, 00), 'end2': datetime.datetime(2012, 9, 16, 16, 5)},
-        {'start': datetime.datetime(2012, 9, 16, 16, 00), 'end': datetime.datetime(2012, 9, 16, 16, 45), 'end2': datetime.datetime(2012, 9, 16, 16, 45)},
-        {'start': datetime.datetime(2012, 9, 16, 16, 45), 'end': datetime.datetime(2012, 9, 16, 17, 30), 'end2': datetime.datetime(2012, 9, 16, 17, 35)},
-        {'start': datetime.datetime(2012, 9, 16, 17, 45), 'end': datetime.datetime(2012, 9, 16, 18, 30), 'end2': datetime.datetime(2012, 9, 16, 18, 45)},
-        {'start': datetime.datetime(2012, 9, 16, 18, 45), 'end': datetime.datetime(2012, 9, 16, 19, 00), 'end2': datetime.datetime(2012, 9, 16, 19, 00)},
-    ]
+    session_terms = create_session_terms()
 
     writers = {
-        datetime.date(2012,9,15): csv.writer(open('{0}-{1}.csv'.format(timetable1_name, lang), 'wb')),
-        datetime.date(2012,9,16): csv.writer(open('{0}-{1}.csv'.format(timetable2_name, lang), 'wb')),
+        datetime.date(2013,9,14): csv.writer(open('{0}-{1}.csv'.format(timetable1_name, lang), 'wb')),
+        datetime.date(2013,9,15): csv.writer(open('{0}-{1}.csv'.format(timetable2_name, lang), 'wb')),
     }
 
     time_index = 0
-    cols = [''] * 7
+    cols = [''] * 6
     results = {}
     docs = []
     videos = []
@@ -216,7 +220,7 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
         term = session_terms[time_index]
         if term['end'] <= row.start:
             results[term['start']] = cols
-            cols = [''] * 7
+            cols = [''] * 6
             time_index += 1
             if len(session_terms) <= time_index:
                 break
@@ -243,18 +247,13 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
             data += ' |video%d|' % len(videos)
             videos.append((row.video, row.title_ja, row.title_en))
 
-        # 終了時間を追記
-        if row.end > term['end']:
-            #休憩時間に食い込むセッション
-            data += ' (till {0:%H:%M})'.format(row.end)
-
         # 部屋名を設定
         if row.room:
             cols[ROOM_IDX_MAP[row.room]] = data
         else:
-            cols[1:] = [data] * 6
-            if row.start.day == 16:
-                cols[ROOM_IDX_MAP['Room 230']] = ''
+            cols[1:] = [data] * 5
+            if row.start.day == 15:
+                cols[ROOM_IDX_MAP['Hall']] = ''
 
     for t in sorted(results):
         writers[t.date()].writerow(results[t])
