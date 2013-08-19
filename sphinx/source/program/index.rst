@@ -12,7 +12,7 @@ Program
 
 :doc:`timetable`
 
-    comming soon.
+    Timetable on conference day.
 
 :doc:`../speakers/keynote`
 

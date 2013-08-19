@@ -26,9 +26,9 @@
     {%- else %}{{ nameslist[-1] }}
     {%- endif %}
 {%- endmacro %}
-{% set is_sponsor_page = _getName('pwd') == 'sponsors' %}
+{% set is_wide_layout = (_getName('pwd') == 'sponsors' or _getName("") == 'timetable') %}
 {% set body_class = 'contents' %}
-{%- if is_sponsor_page %}
+{%- if is_wide_layout %}
   {% set body_class = 'contents_without_sidebar' %}
 {%- endif %}
 {%- block doctype %}
@@ -52,6 +52,13 @@
 </head>
 
 <body>
+<!--
+"":{{ _getName("") }}
+"my":{{ _getName("my") }}
+"pwd":{{ _getName("pwd") }}
+"section":{{ _getName("section") }}
+"lang":{{ _getName("lang") }}
+-->
 
 {%- block header %}
   <div id="header">
@@ -233,7 +240,7 @@
   ('osc', 'https://www.ospn.jp/', 'Open Source Conference'),
 ] %}
 {%- block sidebar %}
-{%- if not is_sponsor_page %}
+{%- if not is_wide_layout %}
   <div id="sidebar">
     {%- if _getName('lang') == 'lang-ja' %}
       <h3>PyCon APAC 2013<br />

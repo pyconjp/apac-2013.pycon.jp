@@ -1,36 +1,15 @@
-09:00 - 10:00,Open,Open,Open,Open,Open,Open
-10:00 - 10:45,`Keynote: Dan Kogai <keynote.html#session-16-1400-room433-en>`_ (till 10:50),,,,,
-11:00 - 11:45,Break,"Break
-
-11:10 :ref:`session-15-1110-RoomA0712(En1)-en` (till 12:00)","Break
-
-11:10 :ref:`session-15-1110-RoomA0715(Ja1)-en` (till 12:00)","Break
-
-11:10 :ref:`session-15-1110-RoomA0762(En2)-en` (till 12:00)","Break
-
-11:10 :ref:`session-15-1110-RoomA0765(Ja2)-en` (till 12:00)",Break
-11:45 - 14:00,"Lunch
-
-13:50 Break","Lunch
-
-13:50 Break","Lunch
-
-13:50 Break","Lunch
-
-13:50 Break","Lunch
-
-13:50 Break","Lunch
-
-13:50 Break"
-14:00 - 15:00,Tea Break (till 15:30),Tea Break (till 15:30),Tea Break (till 15:30),Tea Break (till 15:30),Tea Break (till 15:30),Tea Break (till 15:30)
-15:15 - 16:00,,:ref:`session-15-1530-RoomA0712(En1)-en` (till 16:20),:ref:`session-15-1530-RoomA0715(Ja1)-en` (till 16:20),:ref:`session-15-1530-RoomA0762(En2)-en` (till 16:20),:ref:`session-15-1530-RoomA0765(Ja2)-en` (till 16:20),
-16:00 - 16:45,Break,"Break
-
-16:30 :ref:`session-15-1630-RoomA0712(En1)-en` (till 17:20)","Break
-
-16:30 :ref:`session-15-1630-RoomA0715(Ja1)-en` (till 17:20)",Break,"Break
-
-16:30 :ref:`session-15-1630-RoomA0765(Ja2)-en` (till 17:20)",Break
-16:45 - 17:30,Break (till 17:40),Break (till 17:40),Break (till 17:40),Break (till 17:40),Break (till 17:40),Break (till 17:40)
-17:45 - 18:30,:doc:`lightningtalks`,,,,,
-18:45 - 19:00,Closing,,,,,
+09:30 - 10:00,,Open,Open,Open,Open
+10:00 - 10:50,`Keynote: Rian Hunter <../speakers/keynote.html>`_,,,,
+10:50 - 11:00,,Break,Break,Break,Break
+11:00 - 11:50,,:ref:`session-15-1110-RoomA0715(Ja1)-en`,:ref:`session-15-1110-RoomA0765(Ja2)-en`,:ref:`session-15-1110-RoomA0712(En1)-en`,:ref:`session-15-1110-RoomA0762(En2)-en`
+11:50 - 13:00,,Lunch,Lunch,Lunch,Lunch
+13:00 - 13:50,,:ref:`session-15-1300-RoomA0715(Ja1)-en`,:ref:`session-15-1300-RoomA0765(Ja2)-en`,:ref:`session-15-1300-RoomA0712(En1)-en`,:ref:`session-15-1300-RoomA0762(En2)-en`
+13:50 - 14:00,,Break,Break,Break,Break
+14:00 - 14:50,,:ref:`session-15-1400-RoomA0715(Ja1)-en`,:ref:`session-15-1400-RoomA0765(Ja2)-en`,:ref:`session-15-1400-RoomA0712(En1)-en`,:ref:`session-15-1400-RoomA0762(En2)-en`
+14:50 - 15:30,,Tea Break,Tea Break,Tea Break,Tea Break
+15:30 - 16:20,,:ref:`session-15-1530-RoomA0715(Ja1)-en`,:ref:`session-15-1530-RoomA0765(Ja2)-en`,:ref:`session-15-1530-RoomA0712(En1)-en`,:ref:`session-15-1530-RoomA0762(En2)-en`
+16:20 - 16:30,,Break,Break,Break,Break
+16:30 - 17:20,,:ref:`session-15-1630-RoomA0715(Ja1)-en`,:ref:`session-15-1630-RoomA0765(Ja2)-en`,:ref:`session-15-1630-RoomA0712(En1)-en`,
+17:20 - 17:30,,Break,Break,Break,Break
+17:30 - 17:40,:doc:`lightningtalks`,,,,
+17:40 - 18:30,Closing,,,,

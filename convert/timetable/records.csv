@@ -1,7 +1,7 @@
 講演タイトル / Talk title,英語タイトル,タイトルSphinx埋込,タイトルSphinx埋込(英語),種別,日付,開始時刻,終了時刻,場所,トラック,講演者名 / Username,掲載名 (英語の実氏名),名前 / Firstname,苗字 / Lastname,メールアドレス / E-mail address,URL,略歴 / Short biography,プロフィール画像URL / Profile photo URL,画像,講演内容 / Abstract,概要 / Outline,講演テーマ / Topic,講演時間 / Timeslot,対象者 / Intended audience,講演言語 / Language of talk,ビデオ撮影 / Video recording,備考 / Notes,slide url,slide title,video
 開場,Open,開場,Open,Key,9/14,9/14/2013 9:00:00,9/14/2013 9:30:00,,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 オープニング,Opening,オープニング,Opening,Key,9/14,9/14/2013 9:30:00,9/14/2013 10:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
-基調講演,Keynote,`基調講演: Armin Ronacher <keynote.html#session-15-0945-room230-ja>`_,`Keynote: Armin Ronacher <keynote.html#session-15-0945-room230-en>`_,Key,9/14,9/14/2013 10:00:00,9/14/2013 10:50:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+基調講演,Keynote,`基調講演:Georg Brandl <../speakers/keynote.html>`_,`Keynote: Georg Brandl <../speakers/keynote.html>`_,Key,9/14,9/14/2013 10:00:00,9/14/2013 10:50:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/14,9/14/2013 10:50:00,9/14/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 パッケージングの今と未来,パッケージングの今と未来,,,日本語,9/14,9/14/2013 11:10:00,9/14/2013 12:00:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),aodag,aodag,ATSUSHI,Odagiri,aodagx@gmail.com,http://aodag.posthaven.com,"pylonsproject.jp
 パーフェクトPython",,,"Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
@@ -152,7 +152,7 @@ I have been a Python man through and through for the past seven years, working o
 - Finally I'l show the helper scripts we use day to day for easing Django development: using fabric to interface with a Vagrant virtual machine, chaining  common tasks, running tests with colored output, etc.
 
 I believe that would give a fairly good panorama of the tool and it's possibilities.","Python libraries and extensions / ライブラリや拡張, Open Source Python projects / オープンソースのPythonプロジェクト, Devops",Short / 短め (30 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
-休憩,Break,休憩,Break,,9/14,9/14/2013 14:10:00,9/15/2012 15:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
+休憩,Break,休憩,Break,,9/14,9/14/2013 14:10:00,9/14/2013 14:20:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 VFX業界におけるPython活用事例,VFX業界におけるPython活用事例,,,日本語,9/14,9/14/2013 14:20:00,9/14/2013 14:50:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),齊藤　弘,齊藤　弘,弘,齊藤,hiromu@dfx.co.jp,,株式会社デジタル・フロンティア所属,https://fbcdn-sphotos-e-a.akamaihd.net/hphotos-ak-prn1/21256_486609658071344_1257765075_n.jpg,alpaca3.jpeg,"VFX、CGアニメーション業界での、Pythonを取り巻く環境、活用事例を
 実際のツール紹介を交えながら紹介します","・VFX、CGアニメーション業界紹介
 ・使用ソフトウェアとPython
@@ -176,7 +176,7 @@ Maintaining Python Project:
 ",https://en.gravatar.com/userimage/15175/49eda6f1aabf091ec0792c321f87d93f.jpg?size=200,clsung.jpeg,"Server-side programs are usually easily tested inside the frameworks like django, flask, etc. For client-side development, it's hard to write unit tests in isolation from other modules/classes. Mock is thus a necessary library for client-side testing. This talk will introduce when and how to write client-side test with the power of mock library.
 ","The talk considers 3 main points.
 In the first part, we'll have a look at some common usages of mock library. The second subject will focus on how these common patterns help us testing client-side application, this includes mocking requests, service API responses, file manipulations, etc. However, the official documentation does not cover all topics. As a result, the last part will explain some problems encountered during the development phase and how to fulfill the test cases.","Python libraries and extensions / ライブラリや拡張, mock, testing",Short / 短め (30 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
-Tea Break,Tea Break,Tea Break,Tea Break,,9/14,9/14/2013 14:50:00,9/16/2012 15:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
+Tea Break,Tea Break,Tea Break,Tea Break,,9/14,9/14/2013 14:50:00,9/14/2013 15:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 Programming AWS with Python,Programming AWS with Python,,,日本語,9/14,9/14/2013 15:30:00,9/14/2013 16:20:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),Yasuhiro Matsuo,Yasuhiro Matsuo,Yasuhiro,Matsuo,matsuoy@amazon.co.jp,,"アマゾンデータサービスジャパン株式会社
 ソリューションアーキテクチャ部
 ソリューションアーキテクト
@@ -378,7 +378,7 @@ I'm also happy to adjust the content, especially to be more useful to an APAC au
 Take care,
 -Brian",,,
 休憩,Break,休憩,Break,,9/14,9/14/2013 18:20:00,9/14/2013 18:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
-closing,closing,closing,closing,Key,9/14,9/14/2013 18:30:00,9/14/2013 18:45:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+Closing,Closing,クロージング,Closing,Key,9/14,9/14/2013 18:30:00,9/14/2013 18:45:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 Party,Party,Party,Party,,9/14,9/14/2013 19:00:00,9/14/2013 21:30:00,Tokyo Cafe 202,Key Event,,,,,,,,,,"住所: 東京都品川区東品川4-13-27
 
 今年のPartyは1日目の夜に会場徒歩5分のハートンホテル内のレストランREGINAで行います。
@@ -394,12 +394,12 @@ This year, we will be holding an after-party on the first day of PyCon JP at the
 
 Our two keynote speakers as well as a large number of our attendees will be attending, so it should be a lot of fun interacting and hanging out with fellow Pythonistas!",,,,,,,,,,
 開場,Open,開場,Open,Key,9/15,9/15/2013 9:30:00,9/15/2013 10:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,,,
-基調講演,Keynote,`基調講演: Dan Kogai <keynote.html#session-16-1400-room433-ja>`_,`Keynote: Dan Kogai <keynote.html#session-16-1400-room433-en>`_,Key,9/15,9/15/2013 10:00:00,9/15/2013 10:50:00,Hall,Key Event; Hall,@dankogai,@dankogai,小飼 弾 / Dan Kogai,dan,kogai,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
+基調講演,Keynote,`基調講演: Rian Hunter <../speakers/keynote.html>`_,`Keynote: Rian Hunter <../speakers/keynote.html>`_,Key,9/15,9/15/2013 10:00:00,9/15/2013 10:50:00,Hall,Key Event; Hall,@dankogai,@dankogai,小飼 弾 / Dan Kogai,dan,kogai,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
 
 著書に『小飼弾のアルファギークに逢ってきた』(技術評論社)、『弾言』『決弾』(いずれも共著、アスペクト)、『空気を読むな、本を読め』(イースト・プレス)、『新書がベスト』(KKベストセラーズ)など。
 
 * Twitter: @dankogai",,,,,,,,,,,,,
-休憩,Break,休憩,Break,,9/14,9/15/2013 10:50:00,9/15/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
+休憩,Break,休憩,Break,,9/15,9/15/2013 10:50:00,9/15/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 PofEAA in SQLAlchemy,PofEAA in SQLAlchemy,,,日本語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),methane,methane,Naoki,Inada,songofacandy@gmail.com,http://methane.hatenablog.jp/,"KLab 株式会社 Kラボラトリー所属
 Webサイトのパフォーマンス・チューニングやミドルウェアの開発を行う
 
@@ -699,5 +699,5 @@ I embarked on a path of packaging all-the-things. These packages were released o
 I want to share how I package, how I test, how I document, and my setup for ensuring that the code is PEP compliant.",,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 17:20:00,9/15/2013 17:40:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 Lightning Talks,Lightning Talks,:doc:`lightningtalks`,:doc:`lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:30:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
-Closing,Closing,Closing,Closing,Key,9/15,9/15/2013 18:30:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
-スプリント,Spints,Sprint,Sprint,Key,9/16,9/16/2013 10:00:00,9/16/2013 18:00:00,Room A0715 (Ja1); Room A0765 (Ja2),Key Event,,,,,,,,,,,,,,,,,,,,
+Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:30:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+スプリント,Spints,Sprint,Sprint,Key,9/16,9/16/2013 10:00:00,9/16/2013 18:00:00,,Key Event; Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
