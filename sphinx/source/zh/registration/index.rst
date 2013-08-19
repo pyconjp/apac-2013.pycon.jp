@@ -2,7 +2,7 @@
 註冊
 ==============================
 
-PyCon APAC 早鳥註冊
+PyCon APAC 註冊
 =======================================
 
 |register|
@@ -11,14 +11,9 @@ PyCon APAC 早鳥註冊
    :alt: REGISTER NOW
    :target: http://connpass.com/event/2703/
 
-PyCon APAC 註冊費率 (早鳥) 為「日幣 5,000 圓」。
-
-早鳥費率開放至 2013 年 8 月 14 日。
+PyCon APAC 註冊費率 為「日幣 6,000 圓」。
 
 入場卷包含所有的演講、午餐、茶點、紀念 t-shirt 等。
-
-.. In addition, we prepared for a system to support the travel cost of the participant.
-.. Please refer to :doc:`support` (Deadline: August 7).
 
 
 Patron Sponsorship Registration

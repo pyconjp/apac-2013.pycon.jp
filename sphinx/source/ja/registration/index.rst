@@ -6,7 +6,7 @@
 
    support
 
-PyCon APAC への EarlyBird 参加登録
+PyCon APAC への参加登録
 =======================================
 
 |register|
@@ -15,13 +15,10 @@ PyCon APAC への EarlyBird 参加登録
    :alt: REGISTER NOW
    :target: http://connpass.com/event/2703/
 
-PyCon APAC のEarlyBird参加費用(8月14日締切)は「5,000円」です。
+PyCon APAC の参加費用は「6,000円」です。
 一般の発表者もチケットが必要となります。
 
 PyCon APAC の参加費用に全公演の参加、ランチ、コーヒーブレイク、Tシャツ等のグッズが含まれています。
-
-なお、遠方の参加者の旅費を支援する制度があります。
-詳細は :doc:`support` を参照して申し込みを行なってください(締め切り8月11日)。
 
 
 PyCon APAC チュートリアルへの参加登録
