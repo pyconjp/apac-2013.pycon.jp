@@ -382,3 +382,14 @@ HerokuはPythonをはじめRubyやJavaなど、複数のプログラミング言
    :alt: KLab
 
 KLab株式会社は、自社で企画・開発した良質なモバイルオンラインゲームやスマートフォンアプリ、信頼性の高いソフトウェアパッケージを提供しています。
+
+|rakuten|
+---------
+- Rakuten
+- http://corp.rakuten.co.jp/careers/engineer/
+
+.. |rakuten| image:: /_themes/pycon_apac_2013_theme/static/image/logo_rakuten.png
+   :target: http://corp.rakuten.co.jp/careers/engineer/
+   :alt: Rakuten
+
+楽天はEコマースをはじめとして、複数の事業を運営しグローバルに事業規模を拡げています。 事業の基盤となるテクノロジーの開発をほぼ自社内で行っており、『人財』としてのエンジニアを大切にしています。

@@ -326,3 +326,12 @@ Our project (Minato Discrete Strucure Manipulation System Project) is one of the
 .. |klab| image:: /_themes/pycon_apac_2013_theme/static/image/logo_klab.png
    :target: http://www.klab.com/
    :alt: KLab
+
+|rakuten|
+---------
+- Rakuten
+- http://corp.rakuten.co.jp/careers/engineer/
+
+.. |rakuten| image:: /_themes/pycon_apac_2013_theme/static/image/logo_rakuten.png
+   :target: http://corp.rakuten.co.jp/careers/engineer/
+   :alt: Rakuten
