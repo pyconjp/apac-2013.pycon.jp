@@ -24,5 +24,5 @@ Program
 
 :doc:`sprint`
 
-    comming soon.
+    About sprint.
 

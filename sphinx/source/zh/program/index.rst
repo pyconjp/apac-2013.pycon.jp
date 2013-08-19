@@ -1,5 +1,5 @@
 Program
-==========
+=======
 
 .. toctree::
    :maxdepth: 1
@@ -12,7 +12,7 @@ Program
 
 :doc:`timetable`
 
-    Comming soon.
+    comming soon.
 
 :doc:`../speakers/keynote`
 
@@ -20,11 +20,9 @@ Program
 
 :doc:`sessions`
 
-    Sessions on conference day
-
+    Sessions on conference day.
 
 :doc:`sprint`
 
-    Comming soon.
-
+    About sprint.
 
