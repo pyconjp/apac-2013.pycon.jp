@@ -8,25 +8,40 @@
 
 .. _timetable-day1-ja:
 
-.. csv-table:: Day 1 : 2013年9月14日 (土)
+Day 1 : 2013年9月14日 (土)
+---------------------------
+
+.. csv-table:: 
    :header: "時刻", "ホール", "A0715(日1)", "A0765(日2)", "A0712(英1)", "A0762(英2)"
    :stub-columns: 1
    :file: schedule1-ja.csv
+   :class: timetable
+
+
+Partyについて
+~~~~~~~~~~~~~~~
 
 Day1 19:00から別会場にてPartyがあります。参加登録について詳しくはこちらへ!! => :doc:`../registration/index`
+
 
 ..   :header: "時刻", "(230)", "日本語トラック1(433)", "英語トラック(351a)", "日本語トラック2(357)", "併設トラック1(452)", "ハンズオン/併設トラック2(358)"
 
 .. _timetable-day2-ja:
 
-.. csv-table:: Day 2 : 2013年9月15日 (日)
+
+Day 2 : 2013年9月15日 (日)
+---------------------------
+
+.. csv-table:: 
    :header: "時刻", "ホール", "A0715(日1)", "A0765(日2)", "A0712(英1)", "A0762(英2)"
    :stub-columns: 1
    :file: schedule2-ja.csv
+   :class: timetable
 
 .. include:: slide-video-ja.in
 
 .. _timetable-day3-ja:
+
 
 Day 3 : 2013年9月16 (月・祝日)
 ----------------------------------
