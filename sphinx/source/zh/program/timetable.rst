@@ -29,4 +29,4 @@ Day3 : 2013/9/16 (Mon, National Holiday)
 
 Doors open at 10:00 AM.
 
-The PyCon APAC :doc:`sprints` is the event where developers gather, and develop freely on whatever Python project they choose. You can participate in Sprint without having to participate in day 1 or Day 2 of the main PyCon APAC event. Participation is completely free, but lunch and tea are not provided.
+The PyCon APAC :doc:`sprint` is the event where developers gather, and develop freely on whatever Python project they choose. You can participate in Sprint without having to participate in day 1 or Day 2 of the main PyCon APAC event. Participation is completely free, but lunch and tea are not provided.

@@ -12,7 +12,7 @@ Program
 
 :doc:`timetable`
 
-    comming soon.
+    Timetable on conference day.
 
 :doc:`../speakers/keynote`
 
@@ -20,7 +20,6 @@ Program
 
 :doc:`sessions`
 
-    Sessions on conference day.
 
 :doc:`sprint`
 
