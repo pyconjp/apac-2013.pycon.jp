@@ -393,3 +393,14 @@ KLab株式会社は、自社で企画・開発した良質なモバイルオン�
    :alt: Rakuten
 
 楽天はEコマースをはじめとして、複数の事業を運営しグローバルに事業規模を拡げています。 事業の基盤となるテクノロジーの開発をほぼ自社内で行っており、『人財』としてのエンジニアを大切にしています。
+
+|bitisle|
+---------
+- Bit-isle
+- http://www.bit-isle.co.jp/
+
+.. |bitisle| image:: /_themes/pycon_apac_2013_theme/static/image/logo_bitisle.png
+   :target: http://www.bit-isle.co.jp/
+   :alt: Bit-isle
+
+独立系の都市型データセンターとして最大規模を持つアウトソーシングプロバイダー。グループにシステムインテグレーションのビットサーフやMSPサービスのサイトロックがあり、グループでワンストップのITアウトソーシングサービスを提供しています。

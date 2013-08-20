@@ -335,3 +335,12 @@ Our project (Minato Discrete Strucure Manipulation System Project) is one of the
 .. |rakuten| image:: /_themes/pycon_apac_2013_theme/static/image/logo_rakuten.png
    :target: http://corp.rakuten.co.jp/careers/engineer/
    :alt: Rakuten
+
+|bitisle|
+---------
+- Bit-isle
+- http://www.bit-isle.co.jp/
+
+.. |bitisle| image:: /_themes/pycon_apac_2013_theme/static/image/logo_bitisle.png
+   :target: http://www.bit-isle.co.jp/
+   :alt: Bit-isle
