@@ -131,3 +131,4 @@ PyCon JP 実行委員会では、PyCon APAC 2013のイベント運営スタッ�
 - `20130528 PyCon APAC mtg#7 議事録 <https://docs.google.com/document/d/1QMTGU6FjUhKBkNBU-Msw1oqC_8WQXEVhv_ReSKnayZU/edit>`_
 - `20130611 PyCon APAC mtg#8 議事録 <https://docs.google.com/document/d/18_8C4H5UrvJBaNThsci8pSbMPBA9rHrA51BVH7VGBsM/edit>`_
 - `20130722 PyCon APAC mtg#9 議事録 <https://docs.google.com/document/d/1zeW5o05QKsuGTspf7DiJl5SHZ7mN2zXwXjkC1Xt6twg/edit>`_
+- `20130819 PyCon APAC mtg#10 議事録 <https://docs.google.com/document/d/15NZrig2N_Djh5VWAjwbAIzoq0te_vFavULbgwo9QABk/edit>`_
