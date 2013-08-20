@@ -6,23 +6,36 @@ The timetable is not definite. It may change in the future.
 
 .. _timetable-day1-en:
 
-.. csv-table:: Day1 : 2013/9/14 (Sat)
+Day1 : 2013/9/14 (Sat)
+-----------------------
+
+.. csv-table:: 
    :header: "Time", "Hall", "A0715(ja1)", "A0765(ja2)", "A0712(en1)", "A0762(en2)"
    :stub-columns: 1
    :file: schedule1-en.csv
+   :class: timetable
 
+
+About party
+~~~~~~~~~~~~
 Starting at 7pm on Day1 (Sept. 14th), the After-Party will begin at a different venue. For more information and to register, check out the registration page !! => :doc:`../registration/index`
 
 .. _timetable-day2-en:
 
-.. csv-table:: Day2 : 2013/9/15 (Sun)
+
+Day2 : 2013/9/15 (Sun)
+-----------------------
+
+.. csv-table:: 
    :header: "Time", "Hall", "A0715(ja1)", "A0765(ja2)", "A0712(en1)", "A0762(en2)"
    :stub-columns: 1
    :file: schedule2-en.csv
+   :class: timetable
 
 .. include:: slide-video-en.in
 
 .. _timetable-day3-en:
+
 
 Day3 : 2013/9/16 (Mon, National Holiday)
 ----------------------------------------

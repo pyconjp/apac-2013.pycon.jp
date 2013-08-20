@@ -20,6 +20,10 @@ p {
 	line-height: 150%;
 }
 
+em {
+	font-style: normal;
+}
+
 div.line {
 	line-height: 150%;
 }
@@ -48,6 +52,10 @@ td {
 
 .section {
 	padding-left: 20px;
+}
+
+.timetable td {
+	font-size : smaller;
 }
 
 /* sections */

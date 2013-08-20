@@ -20,6 +20,7 @@ Program
 
 :doc:`sessions`
 
+    Sessions on conference day.
 
 :doc:`sprint`
 
