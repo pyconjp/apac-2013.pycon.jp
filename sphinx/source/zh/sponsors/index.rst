@@ -83,7 +83,7 @@ You can host Python/Django applications on Linux or Windows Server VMs of “Win
    :target: http://developers.google.com/open-source
    :alt: Google
 
-Google is a proud user and supporter of open source software and development methodologies. Google contributes back to the Open Source community in many ways, including more than 35 million lines of source code, project hosting on Google Code, programs for students including Google Summer of Code and the Google Code-in Contest, and support for a wide variety of projects, programs, and events around the world.
+Google is a proud user and supporter of open source software and development methodologies. Google contributes back to the Open Source community in many ways, including more than 35 million lines of source code, programs for students including Google Summer of Code and the Google Code-in Contest, and support for a wide variety of projects, organizations, and events around the world.
 
 |hde|
 -----
