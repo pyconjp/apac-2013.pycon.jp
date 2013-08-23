@@ -404,3 +404,14 @@ KLab株式会社は、自社で企画・開発した良質なモバイルオン�
    :alt: Bit-isle
 
 独立系の都市型データセンターとして最大規模を持つアウトソーシングプロバイダー。グループにシステムインテグレーションのビットサーフやMSPサービスのサイトロックがあり、グループでワンストップのITアウトソーシングサービスを提供しています。
+
+|denso|
+---------
+- Denso IT Laboratory
+- http://www.d-itlab.co.jp/
+
+.. |denso| image:: /_themes/pycon_apac_2013_theme/static/image/logo_denso.png
+   :target: http://www.d-itlab.co.jp/
+   :alt: Denso IT Laboratory
+
+株式会社デンソーアイティーラボラトリは、ユーザーインターフェース、画像認識、信号処理、セキュリティ等の技術分野の研究開発に特化したデンソーグループ企業です。研究開発ではPythonを利用しています。

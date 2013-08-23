@@ -344,3 +344,12 @@ Our project (Minato Discrete Strucure Manipulation System Project) is one of the
 .. |bitisle| image:: /_themes/pycon_apac_2013_theme/static/image/logo_bitisle.png
    :target: http://www.bit-isle.co.jp/
    :alt: Bit-isle
+
+|denso|
+---------
+- Denso IT Laboratory
+- http://www.d-itlab.co.jp/
+
+.. |denso| image:: /_themes/pycon_apac_2013_theme/static/image/logo_denso.png
+   :target: http://www.d-itlab.co.jp/
+   :alt: Denso IT Laboratory
