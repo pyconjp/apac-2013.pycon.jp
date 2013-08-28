@@ -5,9 +5,11 @@
 .. toctree::
    :maxdepth: 1
 
+   jobs
    prospectus
 
 - `スポンサーになるにはこちら>> <prospectus.html>`_
+- :doc:`jobs`
 
 Platinum
 ========
