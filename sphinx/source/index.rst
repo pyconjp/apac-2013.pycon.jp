@@ -22,12 +22,14 @@ Upcoming Milestones
 .. list-table::
    :widths: 20 80
 
-   * - July 2
-     - Ticket Sales and Patron Sponsorship starts(:doc:`/registration/index`)
-   * - August 11
-     - Travel support proposal ends(:doc:`/registration/support`)
-   * - August 14
-     - Early Bird Ticket ends
+   * - August 28
+     - `Lightning Talks registration start <https://docs.google.com/forms/d/1AqLKB04u_bnD_0_LlniSeCBWB9yt6hGX8uXiDYJHgxE/viewform>`_
+   * - September 10
+     - Lightning Talks registration end
+   * - September 14, 15
+     - :doc:`PyCon APAC 2013 </program/index>`
+   * - September 16
+     - PyCon APAC 2013 Sprint
 
 
 Updates

@@ -20,16 +20,28 @@
 .. list-table::
    :widths: 20 80
 
-   * - 7月2日
-     - 一般参加者、Patronスポンサー募集開始(:doc:`/ja/registration/index`)
-   * - 8月11日
-     - 旅費支援の申し込み終了(:doc:`/ja/registration/support`)
-   * - 8月14日
-     - EarlyBird(早割)チケット終了
+   * - 8月 28日
+     - :doc:`Lightning Talks 受付開始 </ja/speakers/lightningtalks>`
+   * - 9月 10日
+     - Lightning Talks 受付終了
+   * - 9月 13日
+     - :doc:`PyCon APAC 2013 チュートリアル </ja/program/tutorials>`
+   * - 9月 14日, 15日
+     - :doc:`PyCon APAC 2013 </ja/program/index>`
+   * - 9月 16日
+     - PyCon APAC 2013 Sprint
 
 
 おしらせ
 ========
+
+Lightning Talks の登録を開始しました
+------------------------------------
+
+PyCon APAC 2013 の中で行われる Lightning Talks の募集を開始しました。
+
+詳細は :doc:`/ja/speakers/lightningtalks` をご覧ください。
+
 
 スポンサー募集は終了しました
 ----------------------------
