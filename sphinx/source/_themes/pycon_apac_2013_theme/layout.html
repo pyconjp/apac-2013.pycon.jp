@@ -249,19 +249,6 @@
 {%- block sidebar %}
 {%- if not is_wide_layout %}
   <div id="sidebar">
-    {%- if _getName('lang') == 'lang-ja' %}
-      <h3>PyCon APAC 2013<br />
-        スポンサー募集中</h3>
-      <a href="{{ pathto('ja/sponsors/prospectus') }}" class="program">詳細はこちら&gt;&gt;</a>
-    {%- elif _getName('lang') == 'lang-zh' %}
-      <h3>PyCon APAC 2013<br />
-        徵求贊助</h3>
-      <a href="{{ pathto('zh/sponsors/prospectus') }}" class="program">詳情見此&gt;&gt;</a>
-    {%- else %}
-      <h3>PyCon APAC 2013<br />
-        Sponsorship available</h3>
-      <a href="{{ pathto('sponsors/prospectus') }}" class="program">Learn more&gt;&gt;</a>
-    {%- endif %}
 
     {%- if _getName('lang') == 'lang-ja' %}
       <h4>Platinum スポンサー</h4>

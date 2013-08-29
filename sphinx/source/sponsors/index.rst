@@ -7,8 +7,6 @@
 
    prospectus
 
-- `LEARN HOW TO BECOME A SPONSOR>> <prospectus.html>`_
-
 Platinum
 ========
 
@@ -31,11 +29,11 @@ Platinum
    :target: http://basho.com
    :alt: Basho
 
-Basho is a distributed systems company that makes Riak, an open source distributed database, and Riak CS, open source cloud storage software. Both are architected for high availability, fault-tolerance, and linear scalability. They are used by businesses ranging from gaming to mobile to health, including over 25 percent of the Fortune 50. Basho opened its Tokyo office in 2012 to support the APAC region. 
+Basho is a distributed systems company that makes Riak, an open source distributed database, and Riak CS, open source cloud storage software. Both are architected for high availability, fault-tolerance, and linear scalability. They are used by businesses ranging from gaming to mobile to health, including over 25 percent of the Fortune 50. Basho opened its Tokyo office in 2012 to support the APAC region.
 
 Basho officially supports a number of open-source `client libraries <http://docs.basho.com/riak/latest/dev/taste-of-riak/>`_ for various programming languages and environments...including Python.
 
-Basho’s solutions are ideal for companies that need to always store and access critical data. Common use cases include powering Web, mobile, and social applications; collecting client-facing monitoring data; and building public and private cloud platforms.  
+Basho’s solutions are ideal for companies that need to always store and access critical data. Common use cases include powering Web, mobile, and social applications; collecting client-facing monitoring data; and building public and private cloud platforms.
 
 |cyberagent|
 ------------
@@ -49,7 +47,7 @@ Basho’s solutions are ideal for companies that need to always store and access
 CyberAgent is the operator of community and game Ameba for smartphones,
 one of leading Internet services in Japan. CyberAgent provides comprehensive Internet services with not only Ameba business butalso with social game business, and internet advertising business with one of the highest levels of sales in Japan as a pioneer. At the same time, CyberAgent invests and develops some internet service ventures in Japan and around Asia.
 
-CyberAgent has a vision "become a company that is a hallmark of the 21st century," operates a lot of smartphone services and social games, and indentifies a significant strengths with speed launching new business based on accumulated know-how obtained from experiences from early internet industry stages.Through our mainstay Ameba, CyberAgent currently provides over 28 million PC and smartphone users* per month with a blogging service that can be set up free-of-charge, the Ameba Pigg avatar community, games, and more especially for smartphone users. 
+CyberAgent has a vision "become a company that is a hallmark of the 21st century," operates a lot of smartphone services and social games, and indentifies a significant strengths with speed launching new business based on accumulated know-how obtained from experiences from early internet industry stages.Through our mainstay Ameba, CyberAgent currently provides over 28 million PC and smartphone users* per month with a blogging service that can be set up free-of-charge, the Ameba Pigg avatar community, games, and more especially for smartphone users.
 Lately CyberAgent takes some social initiatives through our services such as IT education for elementary school children, enterepreneur backing support, support for women providing child care.
 
 Gold

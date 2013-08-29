@@ -22,8 +22,6 @@ Upcoming Milestones
 .. list-table::
    :widths: 20 80
 
-   * - early June
-     - Sponsorship Application starts(:doc:`/sponsors/prospectus`)
    * - July 2
      - Ticket Sales and Patron Sponsorship starts(:doc:`/registration/index`)
    * - August 11
