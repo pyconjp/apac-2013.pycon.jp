@@ -102,7 +102,3 @@ Staff
      - Riko Imazu
      - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
-   * -
-     - Yasushi Masuda
-     - :tw:`@whosaysni`
-     - 
