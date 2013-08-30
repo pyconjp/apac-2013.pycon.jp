@@ -83,36 +83,7 @@ Sphinxと僕,Sphinxと僕,,,日本語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00
 3. カスタマイズ
 4. その他色々Tips
 ",Documentation / ドキュメント,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,UTCで生活してますが何か問題でも？,,,
-BEST PRACTICES: A Resource for Teachers,BEST PRACTICES: A Resource for Teachers,,,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0712 (En1),English; Room A0712 (En1),Doc.,Doc.,Alusine Sahid,Kamara,alusinesahidkamara@gmail.com,,"Alusine Sahid Kamara is a Sierra Leonean by birth, studied at the Fourah Bay College University of Sierra Leone hold a B.A.Honours in Library and Information Science and later did his M. A. in Peace and Development Studies at the Njala University in Sierra Leone. He has attended several trainings, conferences at home and abroad and hold several certificates. He has work for many organisations and Proven competence and experience in programme development and management, successfully applied in working with International Non-Governmental Organisations, civil society organisations, Community-Based Organisations, women, youth, children,  and war affected groups and communities all over Sierra Leone; skilled in designing projects for women and youth empowerment field implementation, monitoring and reporting demonstrated in various interventions with women and youth groups in Kono, Bombali, Koinadugu, Tonkolili, Port Loko, Kenema, Bo and Kailahun districts. he is the current Programme Manager for the Society for Knowledge Management - Sierra Leone.",,,"Utilizing best practices in my classroom positively impacts students by providing motivation to learn and promoting success in a global world.To survive in a new, globally competitive world, today's children will need creativity, problem-solving abilities, a passion for learning, a dedicated work ethic and lifelong learning opportunities. Students can develop these abilities through instruction based on Best Practice teaching strategies","BEST PRACTICES: A Resource for Teachers
-Best practices are an inherent part of a curriculum that exemplifies the connection and relevance identified in educational research. They interject rigor into the curriculum by developing thinking and problem-solving skills through integration and active learning.
-Relationships are built through opportunities for communication and teamwork. Best practices are applicable to all grade levels and provide the building blocks for instruction.
-Best practices motivate, engage and prompt students to learn and achieve. Students who receive a balanced curriculum and possess the knowledge, skills and abilities to transfer and connect ideas and concepts across disciplines will be successful as measured by standardized tests and other indicators of student success. Four best practices for teachers include teaching a balanced curriculum, teaching an integrated curriculum, differentiating instruction to meet individual student needs and providing active learning opportunities for students to internalize learning.
-
-Why Are Best Practices Important?
-•        What Are Best Practices?
-•        What Do Best Practices Look Like?
-
-What Core Best Practices Can Teachers Implement in Their Classrooms?
-•        Balance the Curriculum
-•        What Is a Balanced Curriculum?
-•        Why Teach a Balanced Curriculum?
-•        Implementing a Balanced Curriculum Helps Students:
-
-Integrate the Curriculum
-•        What Is an Integrated Curriculum?
-•        Why Teach an Integrated Curriculum?
-•        Implementing Integration Strategies Helps Students:
-
-Differentiate the Curriculum
-•        What Is a Differentiated Curriculum?
-•        Why Differentiate Curriculum in the Classroom?
-•        Differentiating Curriculum Helps Students:
-
-Provide Active Learning Opportunities
-•        What Is Active Learning?
-•        Why Utilize Active Learning in the Classroom?
-•        Implementing Active Learning Strategies Helps Students:
-",Education Best Practices / 教育事例,Short / 短め (30 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,"This presentation will be one of the best in the programme and is a well educative presentation, participants will enjoy this particular session.",,,
+調整中,TBA,調整中,TBA,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,,,,,,,,,,,
 Enforcing Responsiveness in Web Apps,Enforcing Responsiveness in Web Apps,,,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0762 (En2),English; Room A0762 (En2),erikvanzijst,erikvanzijst,Erik,van Zijst,erik.van.zijst@gmail.com,,"Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.",https://seccdn.libravatar.org/avatar/f6bcbb4e3f665e74455bd8c0b4b3afba?d=mm,erikvanzijst.jpeg,"This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
 
 I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.","This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
@@ -304,35 +275,7 @@ about mock,about mock,,,日本語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Roo
 ** redになるはずのテストがredにならない
 * pythonが抱える闇
 * 動的言語でmockって片手落ちじゃないの?(under progress)","Core Python, Python 3k",Standard / ふつう (50 min),Intermediate programmer / 中級者,Japanese / 日本語,Video recording OK / 可,,,,
-Dissecting memory mysteries of Python,Dissecting memory mysteries of Python,,,英語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Room A0712 (En1),English; Room A0712 (En1),vishalkanaujia,vishalkanaujia,Vishal,Kanaujia,vishalkanaujia@gmail.com,http://freethreads.wordpress.com/,"Vishal Kanaujia is a Python developer and technology enthusiast. He has delivered talks and written articles on Python. He was a speaker at Pycon APAC, Singapore, 2012, PyCon India 2011-2012 and SciPy India 2011.
-
-He has interest in fields including Python internals, Filesystems, and search technologies, and application performance optimization. He shares his thoughts, opinion and knowledge through blog (http://freethreads.wordpress.com), technical papers, and articles with international magazines including ‘Linux for You’ and ‘Agile Record’.
-
-Open source projects
-
-    seFS (https://github.com/cjgiridhar/seFS)
-
-    pyrebootops (https://github.com/cjgiridhar/pyrebootops/)
-
-Talks
-
-    FUSEing Python for rapid development of storage efficient file system, PyCon APAC, June 2012, Singapore
-
-    Rapid development of website search in Python, PyCon India, September 2012
-
-    Exploiting the power of multicore for scientific computing in Python, SciPy India, December 2011, IIT Bombay
-
-    Diving in to Byte-code optimization in Python, SciPy India, December 2011, IIT Bombay
-
-    ‘Python threads: Dive into GIL!’, PyCon India, Sept 2011
-
-Website
-
-    http://freethreads.wordpress.com/
-",,,Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.,"Python is a dynamically typed language. Applications leave task of object memory management to Python VM. Python automatically manages memory using reference counting and garbage collection. But, Python memory manager may bloat the VM size, and sometimes it may consume complete main memory. It causes applications to deliver low performance and encounter unexpected memory errors.
-
-This talk dissects the internals of CPython memory manager, its limitations and negative impact on application behavior. We demonstrate the problem of memory leaks by learning Python heap pattern, object graphs and memory profiling. Next, we suggest solutions to reduce memory footprints of applications, tools to diagnose and fix memory leaks and lesson learned as best development practices.",Core Python,Standard / ふつう (50 min),"Intermediate programmer / 中級者, Advanced programmer / 上級者",English / 英語,Video recording OK / 可,"CPython 2.7
-Proposed modules: memory_profiler, objgraph, PySizer, Guppy, pympler",,,
+調整中,TBA,調整中,TBA,英語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,,,,,,,,,,,
 Running your Python applications on Google Compute Engine,Running your Python applications on Google Compute Engine,,,英語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Room A0762 (En2),English; Room A0762 (En2),briandorsey,briandorsey,Brian,Dorsey,brian@dorseys.org,http://briandorsey.info,"I'm a Developer Programs Engineer on the Google Developer Relations team. I help you build cool stuff with our APIs. I focus on our Cloud Platform, especially Compute Engine and Cloud Storage. I love Python and I've taught Python at the University of Washington & spoken at both PyCon US & PyCon Japan.He taught English in Shizuoka-ken from 1997 to 1999. I live in Seattle, WA, USA. 日本語も話せます。よろしくお願いします！",http://briandorsey.info/Brian_Dorsey_Bio_Photo.jpg,briandorsey.jpeg,"All the information you need to get started and make architectural decisions for your Python applications. We’ll cover APIs, storage, networking (including load balancing), bootstrapping instances, and orchestrating resources from App Engine. There will be time for questions, lots of code and live demos.
 ","All demos & code in Python.
 Will highlight using these features from Python, throughout the talk.
@@ -697,6 +640,7 @@ I was encountering a large amount of Copy-Paste when rolling my web services. Te
 I embarked on a path of packaging all-the-things. These packages were released on GitHub, added to PyPi, compliant to PEP8, and with full-unit testing. Over the course of adding these packages, I learnt alot about Python, and used the community to keep me honest and motivated, and I have honestly not looked back.
 
 I want to share how I package, how I test, how I document, and my setup for ensuring that the code is PEP compliant.",,,
+調整中,TBA,調整中,TBA,英語,9/15,9/15/2013 16:30:00,9/15/2013 17:20:00,Room A0762 (En2),English; Room A0762 (En2),,,,,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 17:20:00,9/15/2013 17:40:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 Lightning Talks,Lightning Talks,:doc:`../speakers/lightningtalks`,:doc:`../speakers/lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:30:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:30:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,

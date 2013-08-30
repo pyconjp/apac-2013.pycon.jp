@@ -52,25 +52,6 @@ Isaku Yamahata
 | Network Ryu plugin.
 
 
-.. _session-14-1300-RoomA0712(En1)-ja:
-
-BEST PRACTICES: A Resource for Teachers
-=======================================
-| Utilizing best practices in my classroom positively impacts students by providing motivation to learn and promoting success in a global world.To survive in a new, globally competitive world, today's children will need creativity, problem-solving abilities, a passion for learning, a dedicated work ethic and lifelong learning opportunities. Students can develop these abilities through instruction based on Best Practice teaching strategies
-
-:対象: 初心者 / 中級者
-:言語: 英語
-:日時: Sep 14 13:00-13:30
-:場所: Room A0712 (En1)
-:トピック: 教育事例
-
-Doc.
-----
-
-
-| Alusine Sahid Kamara is a Sierra Leonean by birth, studied at the Fourah Bay College University of Sierra Leone hold a B.A.Honours in Library and Information Science and later did his M. A. in Peace and Development Studies at the Njala University in Sierra Leone. He has attended several trainings, conferences at home and abroad and hold several certificates. He has work for many organisations and Proven competence and experience in programme development and management, successfully applied in working with International Non-Governmental Organisations, civil society organisations, Community-Based Organisations, women, youth, children,  and war affected groups and communities all over Sierra Leone; skilled in designing projects for women and youth empowerment field implementation, monitoring and reporting demonstrated in various interventions with women and youth groups in Kono, Bombali, Koinadugu, Tonkolili, Port Loko, Kenema, Bo and Kailahun districts. he is the current Programme Manager for the Society for Knowledge Management - Sierra Leone.
-
-
 .. _session-14-1300-RoomA0762(En2)-ja:
 
 Enforcing Responsiveness in Web Apps
@@ -310,52 +291,6 @@ zeeg
 | I'm the founder/author of Sentry and previously the infrastructure lead at Disqus. I've been doing work with Python (and Django specifically) for about 8 years in addition to a lot of open source work during that time.
 | 
 | I generally care about productivity & tooling, testing, and release processes.
-
-
-.. _session-14-1730-RoomA0712(En1)-ja:
-
-Dissecting memory mysteries of Python
-=====================================
-| Memory leak has been perennial problem for Python applications. This causes application to behave erroneously with Memory error and very slow operation. What is wrong with the application? How to find out the cause and fix it? This is the motivation for this talk.
-
-:対象: 中級者 / 上級者
-:言語: 英語
-:日時: Sep 14 17:30-18:20
-:場所: Room A0712 (En1)
-:トピック: Core Python
-
-vishalkanaujia
---------------
-
-
-http://freethreads.wordpress.com/
-
-| Vishal Kanaujia is a Python developer and technology enthusiast. He has delivered talks and written articles on Python. He was a speaker at Pycon APAC, Singapore, 2012, PyCon India 2011-2012 and SciPy India 2011.
-| 
-| He has interest in fields including Python internals, Filesystems, and search technologies, and application performance optimization. He shares his thoughts, opinion and knowledge through blog (http://freethreads.wordpress.com), technical papers, and articles with international magazines including ‘Linux for You’ and ‘Agile Record’.
-| 
-| Open source projects
-| 
-|     seFS (https://github.com/cjgiridhar/seFS)
-| 
-|     pyrebootops (https://github.com/cjgiridhar/pyrebootops/)
-| 
-| Talks
-| 
-|     FUSEing Python for rapid development of storage efficient file system, PyCon APAC, June 2012, Singapore
-| 
-|     Rapid development of website search in Python, PyCon India, September 2012
-| 
-|     Exploiting the power of multicore for scientific computing in Python, SciPy India, December 2011, IIT Bombay
-| 
-|     Diving in to Byte-code optimization in Python, SciPy India, December 2011, IIT Bombay
-| 
-|     ‘Python threads: Dive into GIL!’, PyCon India, Sept 2011
-| 
-| Website
-| 
-|     http://freethreads.wordpress.com/
-| 
 
 
 .. _session-14-1730-RoomA0762(En2)-ja:
