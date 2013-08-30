@@ -698,6 +698,6 @@ I embarked on a path of packaging all-the-things. These packages were released o
 
 I want to share how I package, how I test, how I document, and my setup for ensuring that the code is PEP compliant.",,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 17:20:00,9/15/2013 17:40:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
-Lightning Talks,Lightning Talks,:doc:`lightningtalks`,:doc:`lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:30:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+Lightning Talks,Lightning Talks,:doc:`../speakers/lightningtalks`,:doc:`../speakers/lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:30:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:30:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 スプリント,Spints,Sprint,Sprint,Key,9/16,9/16/2013 10:00:00,9/16/2013 18:00:00,,Key Event; Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,

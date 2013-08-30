@@ -10,6 +10,7 @@
    ../speakers/keynote
    sessions
    sprint
+   ../speakers/lightningtalks
 
 :doc:`timetable`
 
@@ -31,3 +32,6 @@
 
     スプリントについて。
 
+:doc:`../speakers/lightningtalks`
+
+    ライトニングトークについて。

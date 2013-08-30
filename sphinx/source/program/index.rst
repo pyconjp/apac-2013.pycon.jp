@@ -9,6 +9,7 @@ Program
    ../speakers/keynote
    sessions
    sprint
+   ../speakers/lightningtalks
 
 :doc:`timetable`
 
@@ -26,3 +27,6 @@ Program
 
     About sprint.
 
+:doc:`../speakers/lightningtalks`
+
+    About Lightningtalks.
