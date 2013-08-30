@@ -5,7 +5,10 @@
 .. toctree::
    :maxdepth: 1
 
+   jobs
    prospectus
+
+- :doc:`jobs`
 
 Platinum
 ========
