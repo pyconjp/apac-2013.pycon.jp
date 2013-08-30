@@ -103,10 +103,6 @@
      - 今津 りこ
      - :tw:`@RicoImazu`
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
-   * -
-     - 増田 泰
-     - :tw:`@whosaysni`
-     - 
 
 加入籌備團隊
 ============================
