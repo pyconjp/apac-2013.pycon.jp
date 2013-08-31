@@ -170,7 +170,11 @@
 {%- endmacro %}
 {% macro patron_sponsor(data) -%}
         <a href="{{ data[1] }}" target="_blank">
+  {% if data[0].endswith('gif') %}
+          <img src="{{ pathto('_static/patron/%s' % data[0], 1) }}" alt="{{ data[2] }}" /></a>
+  {% else %}
           <img src="{{ pathto('_static/patron/%s.png' % data[0], 1) }}" alt="{{ data[2] }}" /></a>
+  {% endif %}
 {%- endmacro %}
 {% set platinum = [
   ('goga', 'http://www.goga.co.jp/', 'GOGA'),
@@ -231,6 +235,7 @@
   ('shidocchi', 'https://www.facebook.com/syd.jp', 'shidocchi'),
   ('shkumagai', 'http://shkumagai.github.io/blog/index.html', 'shkumagai'),
   ('knzm', 'https://github.com/knzm/', 'knzm'),
+  ('hakorobot2.gif', 'http://bugrammer.hateblo.jp/', 'esehara shigeo'),
 ] %}
 {% set media = [
   ('gihyo', 'http://gihyo.jp/', 'gihyo.jp'),
