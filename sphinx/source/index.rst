@@ -22,14 +22,14 @@ Upcoming Milestones
 .. list-table::
    :widths: 20 80
 
-   * - August 28
-     - `Lightning Talks registration start <https://docs.google.com/forms/d/1AqLKB04u_bnD_0_LlniSeCBWB9yt6hGX8uXiDYJHgxE/viewform>`_
+   * - September 5
+     - :doc:`/venue/party` advance ticket registration end
    * - September 10
-     - Lightning Talks registration end
+     - :doc:`Lightning Talks </speakers/lightningtalks>` registration end
    * - September 14, 15
      - :doc:`PyCon APAC 2013 </program/index>`
    * - September 16
-     - PyCon APAC 2013 Sprint
+     - :doc:`PyCon APAC 2013 Sprint </program/sprint>`
 
 
 Updates

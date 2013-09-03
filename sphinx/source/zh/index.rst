@@ -19,10 +19,14 @@
 .. list-table::
    :widths: 20 80
 
-   * - 七月二日
-     - 開始售票與 Patron 贊助 (:doc:`registration/index`)
-   * - 八月十四日
-     - 結束早鳥
+   * - 九月五日
+     - :doc:`/zh/venue/party` advance ticket registration end
+   * - 九月十日
+     - :doc:`Lightning Talks </zh/speakers/lightningtalks>` registration end
+   * - 九月十四, 十五日
+     - :doc:`PyCon APAC 2013 </zh/program/index>`
+   * - 九月十六日
+     - :doc:`PyCon APAC 2013 Sprint </zh/program/sprint>`
 
 
 最新報導
