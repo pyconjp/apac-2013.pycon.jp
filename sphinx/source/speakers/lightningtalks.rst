@@ -1,37 +1,29 @@
 =================
  Lightning Talks
 =================
-..
-    PyCon APAC 2013 を締め括る Lightning Talks のスピーカーを募集します！
 
-    `Lightning Talk <http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF>`_ とは、5分間の持ち時間で行う短いプレゼンテーションのことです。
+We are now calling for Lightning Talks speakers!
 
-    内容は Python / PyCon に少しでも関係しているものであれば OK です。
-    本編のプログラムより気軽にご応募ください。
+`Lightning Talk <http://en.wikipedia.org/wiki/Lightning_talk>`_ is a short 5-minutes presentation at Python conference. The presentation can be about anything related to Python or PyCon.
 
-    2日目、最後のセッションなので、非常に盛り上がることが予想されます。
-    セッションで発表する勇気はないけれど、Pythonista に知らせておきたいことのある方！
-    セッション応募したけれど、残念ながら不採択となってしまった方！
+Lightning Talks is scheduled at the end of 2nd day to wrap up the two-days exciting conference. Please come up to a stage to present your thought about Python! If you did not make it for Call for Proposal of conference session, this is a great opportunity to let other Pythonistas know about your thoughts!
 
-    PyCon APAC in Japan 最後のスピーカー募集、今年最後のチャンスです。
-    聴衆を惹きつける LT を期待しています。
+This is the last chance to deliver your ideas at the official PyCon APAC in Japan. Never miss this opportunity!
 
-    注意点
-    ======
-    1. 言語は **英語** でお願いします (Just 5 minutes. You can do it!)
+Notice
+======
+1. English only. (If there are vacant slots, we may ask for those who want to present in Japanese language.)
+2. Up to 5 minutes.
+3. PyCon APAC Organizing Committee evaluates and selects proposals if there are more submission than slots.
+4. We record video for those who could not make it to the event.
+5. Ticket for PyCon APAC 2013 is required even if your LT application is accepted.
 
-       1. 枠が余った場合、日本語での募集の可能性もあります
-
-    2. 持ち時間は 5分 で、時間を超えたら強制終了です
-    3. 応募が予定数を超えた場合は、PyCon APAC運営委員会で選考させて頂きます
-    4. 会場で聞けなかった方のために、ビデオ撮影をします
-    5. LTが採択された場合でも、PyCon APAC 2013 のチケットは必要です
 
 Upcoming Milestones
 ===================
 
-- Registration end: September 10
-- Selection results open: September 12
+- Registration end: September 10th
+- Selection results open: September 12th
 
 Lightning Talks Registration Form
 =================================
