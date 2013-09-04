@@ -10,6 +10,24 @@ PyCon APAC ジョブ・ボードにはスポンサー企業の求人情報を掲
 Silver Sponsor
 ==============
 
+|zerostart|
+-----------
+- zerostart
+- http://zero-start.jp/
+
+.. |zerostart| image:: /_themes/pycon_apac_2013_theme/static/image/logo_zerostart.png
+   :target: http://zero-start.jp/
+   :alt: zerostart
+
+ゼロスタートは自社製品のサイト内検索エンジン・レコメンドエンジンなどをPythonで開発しています。
+
+| この度、業績好調・事業拡大のためPythonエンジニアを大募集中です！
+| 大手企業に多数導入いただいている製品開発をご担当いただきます。
+| 機械学習や分散技術に興味のある方は是非お問い合わせください。
+| あなたにお会いできるのをスタッフ一同楽しみにしております！
+
+詳細はコチラから→ http://zero-start.jp/
+
 |cb21|
 ------
 - Catchball21
