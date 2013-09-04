@@ -1,6 +1,10 @@
 =================
  Lightning Talks
 =================
+
+:Time: Sep 15 17:40-18:30
+:Room: Hall
+
 ..
     PyCon APAC 2013 を締め括る Lightning Talks のスピーカーを募集します！
 

@@ -1,6 +1,10 @@
 =================
  Lightning Talks
 =================
+
+:日時: Sep 15 17:40-18:30
+:場所: ホール
+
 PyCon APAC 2013 を締め括る Lightning Talks のスピーカーを募集します！
 
 `Lightning Talk <http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%88%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%88%E3%83%BC%E3%82%AF>`_ とは、5分間の持ち時間で行う短いプレゼンテーションのことです。

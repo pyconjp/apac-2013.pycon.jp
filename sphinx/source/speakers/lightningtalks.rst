@@ -2,6 +2,9 @@
  Lightning Talks
 =================
 
+:Time: Sep 15 17:40-18:30
+:Room: Hall
+
 We are now calling for Lightning Talks speakers!
 
 `Lightning Talk <http://en.wikipedia.org/wiki/Lightning_talk>`_ is a short 5-minutes presentation at Python conference. The presentation can be about anything related to Python or PyCon.
