@@ -15,7 +15,7 @@ This is the last chance to deliver your ideas at the official PyCon APAC in Japa
 
 Notice
 ======
-1. English only. (If there are vacant slots, we may ask for those who want to present in Japanese language.)
+1. English or Japanese.
 2. Up to 5 minutes.
 3. PyCon APAC Organizing Committee evaluates and selects proposals if there are more submission than slots.
 4. We record video for those who could not make it to the event.
