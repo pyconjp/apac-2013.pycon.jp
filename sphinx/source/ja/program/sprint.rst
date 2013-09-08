@@ -43,14 +43,52 @@ Sprintの提案、参加
 ------------------
 テーマの提案と参加登録は誰でもできます
 
-提案方法は、後日用意するスプリント用のサイトにやりたいテーマを書きこんで、リーダーになれば完了です。
-
-もちろん、リーダーにならなくても、他の人の提案しているテーマに参加することも可能です。その場合もスプリント用サイトへの書き込みは必須ではありませんが、リーダーが何を準備するかなどを考える助けになるので、事前に書きこんでいただけたら嬉しいです。
-
+http://connpass.com/event/3403/ のリーダー枠にやりたいテーマを書きこんで参加すれば完了です。
+もちろん、リーダーにならなくても、他の人の提案しているテーマに参加することも可能です。その場合、参加者枠で参加登録して下さい。
 
 Sprintの一覧
 ============
-テーマが決定次第、随時掲載します。
+
+http://connpass.com/event/3403/ で登録された sprint の一覧です。
+気になるものがあったら是非参加してみてください。
+
+.. list-table::
+   :header-rows: 1
+
+   * - 内容
+     - リーダー
+
+   * - | Sphinx-1.2 sprint.
+
+       Sphinxスプリントは、1.2開発以外にもSphinxドキュメント翻訳や、Sphinxを使った何かをするとか、何でもOKです！
+
+     - `@shimizukawa <http://twitter.com/shimizukawa>`_
+
+   * - | Django Sprint.
+
+       Atendees DjangoSprint on PyCon APAC, check out it and join: https://code.djangoproject.com/wiki/Sprints
+
+     - `@hirokiky <http://twitter.com/hirokiky>`_ 
+
+   * - | pylonsproject.jp sprint.
+
+       チュートリアルなどやる予定はありません。
+
+       * pylonsproject.jp を pyramidで構築しなおす
+       * pyramid+sqlalchemy用のadminインターフェイスアプリケーションを作る
+       * pyramid1.5リリースに向けた翻訳作業
+       * pylonsprojectのプロダクトのバグフィックス
+
+     - `@aodag <http://twitter.com/aodag>`_
+
+   * - 内容不明
+     - `@troter <http://twitter.com/troter>`_
+
+   * - | ESPN Athlete API
+
+       ESPNのスポーツ選手プロフィールAPI「ESPN Athlete API」を使って何かを作ります。野球好きな人(特にMLB)にオススメです！
+
+     - `@shinyorke <http://twitter.com/shinyorke>`_
 
 
 よくある質問(FAQ)
