@@ -70,3 +70,17 @@ PyCon APAC Party への参加登録
 
 1日目(9月14日)の夜には PyCon APAC 2013 Party が開催されます。
 Party への参加費用は「6,000円」です。
+
+
+PyCon APAC Sprint への参加登録
+==============================
+
+|sprint|
+
+.. |sprint| image:: /_static/sprint.png
+   :alt: Join Sprint
+   :target: http://connpass.com/event/3403/
+
+3日目(9月16日)は PyCon APAC 2013 Sprint が開催されます。参加は無料です！
+Sprintについて詳しくは :doc:`../program/sprint` を参照してください。
+
