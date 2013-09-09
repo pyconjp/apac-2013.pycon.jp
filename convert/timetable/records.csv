@@ -83,7 +83,17 @@ Sphinxと僕,Sphinxと僕,,,日本語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00
 3. カスタマイズ
 4. その他色々Tips
 ",Documentation / ドキュメント,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,UTCで生活してますが何か問題でも？,,,
-調整中,TBA,調整中,TBA,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,,,,,,,,,,,
+"Test failed, then...","Test failed, then...",,,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0712 (En1),English; Room A0712 (En1),torufurukwa,torufurukwa,Toru,Furukawa,torufurukawa@gmail.com,http://about.me/torufurukawa,"Toru Furukawa is leading engineering teams that are developing and operating a platform and its applications for web/mobile services working with live TV programs, at Bascule Inc. in Japan. He is also responsible of the platform component to gather user actions from mobile devices and aggregates this data.
+
+His current interest is how to organize multiple teams or roles in order to minimize cost, time and unnecessary communications and to maximize entire productivity.",https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/603973_10151264459920827_248070569_n.jpg,,"This talk shows practices when testing loosely coupled web API services as a whole; (1) implement probing API and (2) report defect regeneration sequence as curl commands, while the test is written in Python. 
+
+","Loose coupling is a great idea for a rather large application. Each component can be implemented in different programming language to maximize productivity. Acceptance test is still required to verify the product works as a whole. 
+
+A trackback from test code in Python may not be helpful because component developer may have very little knowledge about Python. On the other hand, PyCon attendees probably agree with writing acceptance tests in Python is productive -- fast, easy and better. The issue is how to be productive with writing tests in Python and reporting to non Python programmer effectively. 
+
+The practices applied in a project with a collection of web API services are (1) each component implements probing API and (2) reporting bugs with curl input/output while test codes are written in Python.  The talk will cover how they are helpful, how actually implemented and things still not go well.
+
+","Programming Tools / ツール, Project Best Practices / プロジェクト事例",Short / 短め (30 min),Intermediate programmer / 中級者,English / 英語,Video recording OK / 可,,,,
 Enforcing Responsiveness in Web Apps,Enforcing Responsiveness in Web Apps,,,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0762 (En2),English; Room A0762 (En2),erikvanzijst,erikvanzijst,Erik,van Zijst,erik.van.zijst@gmail.com,,"Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.",https://seccdn.libravatar.org/avatar/f6bcbb4e3f665e74455bd8c0b4b3afba?d=mm,erikvanzijst.jpeg,"This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
 
 I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.","This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
@@ -111,7 +121,7 @@ WSGI ミドルウェアと Django ミドルウェア
 テスト
 ",Web-based Systems / Webシステム,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,,,
 FreeCADとParaViewによる統合計算環境,FreeCADとParaViewによる統合計算環境,,,日本語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0765 (Ja2),Japanese; Room A0765 (Ja2),青子守歌,青子守歌,尚生,吉藤,internal@enmps.net,http://twitter.com/aokomoriuta,土木工学/水理学分野における計算力学が専門分野の技術者。最近の研究対象はGPGPUによる粒子法（MPS法）の高速化など。,http://gravatar.com/userimage/21562427/1544b1f5961ce385d4bbf48de1595caa?size=512,aokomoriuta.png,Pythonスクリプトを用いて、FreeCADによるプリプロセッシングと、ParaViewによるポストプロセッシング、そして計算プログラムを統合した計算環境を構築した事例を紹介する。,PythonはFreeCADやParaViewなどの計算力学分野において使用される各種ツールのスクリプト言語として採用されている。本講演では、モデル作成などのプリプロセッシングに用いられるFreeCADと、データの可視化などのポストプロセッシングに用いられるParaView、そしてC++で書かれた計算プログラムを、Pythonから制御することで、プリプロセッシング・計算・ポストプロセッシングまでを統合的に実行できる環境を構築し、その統合環境を用いた計算例を紹介する。,Science and Math / 科学や数学,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,,,
-Python for Humans,Python for Humans,,,英語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0712 (En1),English; Room A0712 (En1),kennethreitz,kennethreitz,Kenneth,Reitz,kenneth@heroku.com,http://kennethreitz.org/,"Kenneth Reitz is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically Requests.",http://i2.wp.com/kr-website.gopagoda.com/wp-content/uploads/2013/07/5246672207_aa093d7799_o.jpg?resize=1024%2C576,kennethreitz.jpeg,"Python’s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We’ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.",https://speakerdeck.com/kennethreitz/python-for-humans,Best Practices,Short / 短め (30 min),Intermediate,English / 英語,OK,None,,,
+調整中,TBA,調整中,TBA,英語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,,,,,,,,,,,
 Fabric for fun and profit,Fabric for fun and profit,,,英語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0762 (En2),English; Room A0762 (En2),jairtrejo,jairtrejo,Jair,Trejo,jt@manoderecha.mx,http://jairtrejo.mx,"I'm Jair Trejo, Operations Director of a web development studio based on Mexico City. I 've been developing software professionally for the past four years, mostly on the web, but my interest in programming is a life-long affair.
 
 I have been a Python man through and through for the past seven years, working on Django projects for the past two, and although I am more on the infrastructure side nowadays, as the moral leader of the Python team I like to keep up with trends.",http://www.gravatar.com/avatar/4b8eaf6a72ba36db1851b76ed04bee22.png?s=200,jairtrejo.jpeg,"Throughout my life I have written my share of shell scripts to automate varied tasks, from boring file uploads to complex web app deployments. Fabric is a tool that has helped me make all that work easier and more fun by using Python.","The aim of the talk is to show how with Fabric we can automate tasks a variety of tasks by leveraging our python expertise. I would do so by showing examples of how I've used it to automate tasks at Vinco Orbis.
@@ -322,26 +332,14 @@ Take care,
 -Brian",,,
 休憩,Break,休憩,Break,,9/14,9/14/2013 18:20:00,9/14/2013 18:30:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 Closing,Closing,クロージング,Closing,Key,9/14,9/14/2013 18:30:00,9/14/2013 18:45:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
-Party,Party,Party,Party,,9/14,9/14/2013 19:00:00,9/14/2013 21:30:00,Tokyo Cafe 202,Key Event,,,,,,,,,,"住所: 東京都品川区東品川4-13-27
+Party,Party,Party,Party,,9/14,9/14/2013 19:00:00,9/14/2013 21:30:00,Tokyo Cafe 202,Key Event,,,,,,,,,,"住所: 東京都新宿区西新宿2-8-1 東京都庁第一本庁舎南展望室　45F
+Address: 45th Observatory Floor, Main Building No. 1, 2-8-1 Nishishinjuku, Shinjuku, Tokyo 160-0023
 
-今年のPartyは1日目の夜に会場徒歩5分のハートンホテル内のレストランREGINAで行います。
-スタンディングでの飲み放題、シェフ特製の料理を用意しています。
+Partyはカンファレンス1日目の土曜日の夜、東京都庁展望台を借り切ってスタンディングの飲み放題、特製の料理をお楽しみ頂こうと思っています。その日の出会いを深めるもよし、1日目をともに振り返るもよし、皆さんに思いっきり楽しんでいただければと思います。
 
-Keynoteのお二人を始め講演者も多数参加してくださる予定ですので、気になることを聞くも良し、Pythonista同士のつながりを深めるも良し、翌日に差し支えない程度に楽しい一夜を過ごしましょう。
-
-This is registration page for PyCon JP 2012 Party.
-If you want to register to PyCon JP 2012, please check PyCon JP 2012 .
-
-This year, we will be holding an after-party on the first day of PyCon JP at the restaurant ""REGINA"" which is 5 minutes walk from the main venue. The format is a standing bar, all you can drink, with a special chef menu.
-
-
-Our two keynote speakers as well as a large number of our attendees will be attending, so it should be a lot of fun interacting and hanging out with fellow Pythonistas!",,,,,,,,,,
+The party starts after the first day of conference at the observatory floor on top of Tokyo Metropolitan Government Building. It’s on 45th floor and 202m above ground! The fee includes, besides the magnificent view from top, free drinks and great selection of foods. R.S.V.P. NOW!",,,,,,,,,,
 開場,Open,開場,Open,Key,9/15,9/15/2013 9:30:00,9/15/2013 10:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,,,
-基調講演,Keynote,`基調講演: Rian Hunter <../speakers/keynote.html>`_,`Keynote: Rian Hunter <../speakers/keynote.html>`_,Key,9/15,9/15/2013 10:00:00,9/15/2013 10:50:00,Hall,Key Event; Hall,@dankogai,@dankogai,小飼 弾 / Dan Kogai,dan,kogai,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
-
-著書に『小飼弾のアルファギークに逢ってきた』(技術評論社)、『弾言』『決弾』(いずれも共著、アスペクト)、『空気を読むな、本を読め』(イースト・プレス)、『新書がベスト』(KKベストセラーズ)など。
-
-* Twitter: @dankogai",,,,,,,,,,,,,
+基調講演,Keynote,`基調講演: Rian Hunter <../speakers/keynote.html>`_,`Keynote: Rian Hunter <../speakers/keynote.html>`_,Key,9/15,9/15/2013 10:00:00,9/15/2013 10:50:00,Hall,Key Event; Hall,Rian Hunter,Rian Hunter,Rian,Hunter,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 10:50:00,9/15/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 PofEAA in SQLAlchemy,PofEAA in SQLAlchemy,,,日本語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),methane,methane,Naoki,Inada,songofacandy@gmail.com,http://methane.hatenablog.jp/,"KLab 株式会社 Kラボラトリー所属
 Webサイトのパフォーマンス・チューニングやミドルウェアの開発を行う

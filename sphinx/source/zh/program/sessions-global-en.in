@@ -52,6 +52,31 @@ Isaku Yamahata
 | Network Ryu plugin.
 
 
+.. _session-14-1300-RoomA0712(En1)-en:
+
+Test failed, then...
+====================
+| This talk shows practices when testing loosely coupled web API services as a whole; (1) implement probing API and (2) report defect regeneration sequence as curl commands, while the test is written in Python. 
+| 
+| 
+
+:Audience: Intermediate programmer
+:Language: English
+:Time: Sep 14 13:00-13:30
+:Room: Room A0712 (En1)
+:Topic: Programming Tools / Project Best Practices
+
+torufurukwa
+-----------
+
+
+http://about.me/torufurukawa
+
+| Toru Furukawa is leading engineering teams that are developing and operating a platform and its applications for web/mobile services working with live TV programs, at Bascule Inc. in Japan. He is also responsible of the platform component to gather user actions from mobile devices and aggregates this data.
+| 
+| His current interest is how to organize multiple teams or roles in order to minimize cost, time and unnecessary communications and to maximize entire productivity.
+
+
 .. _session-14-1300-RoomA0762(En2)-en:
 
 Enforcing Responsiveness in Web Apps
@@ -76,32 +101,6 @@ erikvanzijst
 
 
 | Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.
-
-
-.. _session-14-1340-RoomA0712(En1)-en:
-
-Python for Humans
-=================
-| Python’s ecosystem is held up to a high standard, but it falls short in a few key areas. A handful of crucial APIs are an absolute pain to work with. We’ll go over where these APIs went wrong and learn about strong and elegant API design. The high barriers to entry in Python will be discussed. Potential solutions will be proposed.
-
-:Audience: Intermediate
-:Language: English
-:Time: Sep 14 13:40-14:10
-:Room: Room A0712 (En1)
-:Topic: Best Practices
-
-kennethreitz
-------------
-
-
-
-.. figure:: /_static/speakers/kennethreitz.jpeg
-   :alt: kennethreitz
-
-
-http://kennethreitz.org/
-
-| Kenneth Reitz is the product owner of Python at Heroku and a member of the Python Software Foundation. He embraces minimalism, elegant architecture, and simple interfaces. Kenneth is well known for his many open source projects, specifically Requests.
 
 
 .. _session-14-1340-RoomA0762(En2)-en:
