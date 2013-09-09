@@ -93,6 +93,12 @@ Participation in the sprints is free!
 .. 
 ..      - `@shinyorke <http://twitter.com/shinyorke>`_
 .. 
+..    * - | MyHDL Sprint
+.. 
+..        MyHDL (Pythonで書ける HDL) でなにかしましょう。FPGA とか好きな人募集。僕も含めて、あまり触ったことある人いないと思うので、チュートリアル的な感じになると思いますが、各自で自由にやってもらって結構です。FPGA など、機材を持ち込みたい方は各自で準備をお願いします。
+.. 
+..      - `@hktechno <http://twitter.com/hktechno>`_
+.. 
 .. 
 .. よくある質問(FAQ)
 .. =================
