@@ -39,87 +39,80 @@ You!
 
 All experience levels are welcome; sprints are a great opportunity to get connected with, and start contributing to your favorite Python project.
 
-Participation in the sprints is free!
+Participation for Sprint is free!
+Please just bring your laptop for development. There will be Wifi available.
+
+To join Sprint, please sign up from the Connpass site http://connpass.com/event/3403/ . If you would like to propose your own theme, you can register as a Sprint Leader. You may also register as a Sprint Attendee to join themes proposed by other Leaders.
 
 
-.. Sprintの提案、参加
-.. ------------------
-.. テーマの提案と参加登録は誰でもできます
-.. 
-.. http://connpass.com/event/3403/ のリーダー枠にやりたいテーマを書きこんで参加すれば完了です。
-.. もちろん、リーダーにならなくても、他の人の提案しているテーマに参加することも可能です。その場合、参加者枠で参加登録して下さい。
-.. 
-.. Sprintの一覧
-.. ============
-.. 
-.. http://connpass.com/event/3403/ で登録された sprint の一覧です。
-.. 気になるものがあったら是非参加してみてください。
-.. 
-.. .. list-table::
-..    :header-rows: 1
-.. 
-..    * - 内容
-..      - リーダー
-.. 
-..    * - | Sphinx-1.2 sprint.
-.. 
-..        Sphinxスプリントは、1.2開発以外にもSphinxドキュメント翻訳や、Sphinxを使った何かをするとか、何でもOKです！
-.. 
-..      - `@shimizukawa <http://twitter.com/shimizukawa>`_
-.. 
-..    * - | Django Sprint.
-.. 
-..        Atendees DjangoSprint on PyCon APAC, check out it and join: https://code.djangoproject.com/wiki/Sprints
-.. 
-..      - `@hirokiky <http://twitter.com/hirokiky>`_ 
-.. 
-..    * - | pylonsproject.jp sprint.
-.. 
-..        チュートリアルなどやる予定はありません。
-.. 
-..        * pylonsproject.jp を pyramidで構築しなおす
-..        * pyramid+sqlalchemy用のadminインターフェイスアプリケーションを作る
-..        * pyramid1.5リリースに向けた翻訳作業
-..        * pylonsprojectのプロダクトのバグフィックス
-.. 
-..      - `@aodag <http://twitter.com/aodag>`_
-.. 
-..    * - 内容不明
-..      - `@troter <http://twitter.com/troter>`_
-.. 
-..    * - | ESPN Athlete API
-.. 
-..        ESPNのスポーツ選手プロフィールAPI「ESPN Athlete API」を使って何かを作ります。野球好きな人(特にMLB)にオススメです！
-.. 
-..      - `@shinyorke <http://twitter.com/shinyorke>`_
-.. 
-..    * - | MyHDL Sprint
-.. 
-..        MyHDL (Pythonで書ける HDL) でなにかしましょう。FPGA とか好きな人募集。僕も含めて、あまり触ったことある人いないと思うので、チュートリアル的な感じになると思いますが、各自で自由にやってもらって結構です。FPGA など、機材を持ち込みたい方は各自で準備をお願いします。
-.. 
-..      - `@hktechno <http://twitter.com/hktechno>`_
-.. 
-.. 
-.. よくある質問(FAQ)
-.. =================
-.. - Q: Sprint ってなんですか？
-.. - A: Sprint は、短期集中型のソフトウェア開発イベントです。テーマ毎に開発者が集まり、自由に開発を行います。
-.. - Q: なにをしたらいいんですか？
-.. - A: 特に決まりはありません。自分のやりたい開発を進めても、他の人のテーマに参加しても自由です。いろんな人やチームに茶々をいれて仲良くなるのも良いと思います。
-.. - Q: 参加資格をおしえてください。
-.. - A: 参加資格はありませんし、参加チケットや参加費も不要です。参加してみたい！という気持ちがあればそれで十分です。
-.. - Q: PyCon JP 2013 に参加していませんが、 Sprint に参加してもいいですか？
-.. - A: 大丈夫です。どんどん参加してください。
-.. - Q: 初心者でも参加できますか？
-.. - A: もちろん参加できます。「参加してみたいけど初心者だから不安」という方は、PyCon JP 2013 の カンファレンスデイ前日にチュートリアルがありますので、そちらに参加してみてもいいかもしれません。詳細は :doc:`/ja/program/tutorials` をご参照ください。
-.. - Q: リーダーになるのにはなにか資格は必要ですか？
-.. - A: 何もありません。Sprint に参加する人を募るため、Python コミュニティをより面白いものにするため、あるいは自分の開発仲間を増やすためなど、理由はいろいろあると思いますが、ぜひリーダーになってみてください。
-.. - Q: 複数のテーマに参加できますか？
-.. - A: 自分のやってみたいテーマがいくつもあって困る！という方は、各リーダーに相談してみましょう。
-.. - Q: 食事はでますか？
-.. - A: 出ません。チームごとなどで外に食べに行くとより親睦を深めることができるのでおすすめです。
-.. - Q: Sprint 会場で飲食はできますか？
-.. - A: 飲食は可能ですが、教室や設備を汚さないように心がけてください。
-.. - Q: 途中入場・退場はできますか？
-.. - A: 特に受付などを設ける予定はありませんので、可能です。
-.. 
+List of Sprints
+===============
+Here is the list of sprints registered so far.
+Please join us if anything interesting!
+
+.. list-table::
+   :header-rows: 1
+
+   * - Theme
+     - Sprint Leader
+
+   * - | Sphinx-1.2 sprint.
+
+       1.2 development, translation of Sphinx documentations, or anything exciting to do with Sphinx!
+       
+     - `@shimizukawa <http://twitter.com/shimizukawa>`_
+
+   * - | Django Sprint.
+
+       Attendees DjangoSprint on PyCon APAC, check out it and join: https://code.djangoproject.com/wiki/Sprints
+
+     - `@hirokiky <http://twitter.com/hirokiky>`_ 
+
+   * - | pylonsproject.jp sprint.
+
+       * Rebuild pylonsproject.jp with pyramid.
+       * Build admin interface apps for pyramid+sqlalchemy
+       * Translation for pyramid1.5 release
+       * Bug fix of pylonsproject product
+       * (No plan for tutorial.)
+
+     - `@aodag <http://twitter.com/aodag>`_
+
+   * - (Topic Unknown)
+     - `@troter <http://twitter.com/troter>`_
+
+   * - | ESPN Athlete API
+
+       Build something with ESPN Athlete API. If you are a big sports fun, this is the one! (Especiallly MLB!)
+
+     - `@shinyorke <http://twitter.com/shinyorke>`_
+
+   * - | MyHDL Sprint
+
+       Let's do something with MyHDL (HDL on Python). Welcome anyone who is interested in FPGA. It is up to us how we want to run this session, and I suppose this will be something more like tutorials because, including myself, not many have worked on this area. Please arrange on your own if you are bringing FPGA, etc.
+
+     - `@hktechno <http://twitter.com/hktechno>`_
+
+Frequently Asked Questions
+==========================
+- Q: What is Sprint?
+- A: Sprint is a short and intensive software development event. Developers get together for a theme and develop software.
+- Q: What do I do there?
+- A: It is completely up to you. You can work on your own development project or join other people's session. You may network with people by getting involved with multiple sessions and discussions.
+- Q: Who can join?
+- A: Anyone.
+- Q: I am not joining conference. Can I join Sprint?
+- A: Yes.
+- Q: I am a beginner programmer. Am I eligible to join?
+- A: Yes! Should you still have the concern, you may join the tutorial sessions scheduled a day before PyCon APAC 2013 conference. You can find the details on  :doc:`/ja/program/tutorials` page. The tutorial session will be provided only in Japanese.
+- Q: Who can be Sprint Leader?
+- A: No requirements, and everybody is welcomed to become one. Motivation to become a Sprint Leader would be, for instance, to work with other Pythonistas on the topic you are interested in, to energize Python community, to network with other developers, etc.
+- Q: Can I join multiple sessions?
+- A: Please talk to Sprint Leader if you are interested in more than one theme.
+- Q: Any meals provided?
+- A: No, and we encourage that participants go for lunch together to know each other :)
+- Q: Can I bring in foods and drinks to room?
+- A: Yes, but please ensure that you keep it clean at your own responsibility.
+- Q: Can I join or leave in the middle of session?
+- A: Yes, and there is no plan to have registration for Sprint.
+
