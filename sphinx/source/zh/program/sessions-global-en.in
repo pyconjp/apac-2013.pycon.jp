@@ -70,6 +70,11 @@ torufurukwa
 -----------
 
 
+
+.. figure:: /_static/speakers/torufurukawa.jpg
+   :alt: torufurukwa
+
+
 http://about.me/torufurukawa
 
 | Toru Furukawa is leading engineering teams that are developing and operating a platform and its applications for web/mobile services working with live TV programs, at Bascule Inc. in Japan. He is also responsible of the platform component to gather user actions from mobile devices and aggregates this data.
@@ -101,6 +106,34 @@ erikvanzijst
 
 
 | Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.
+
+
+.. _session-14-1340-RoomA0712(En1)-en:
+
+Cassandra for Pythonistas
+=========================
+| When it comes to storing a lot of analytics, Apache Cassandra is a popular choice for its write performance and horizontal scalability. After a quick overview of Cassandra data model and paradigms, we will explore our options to interface with it using Python.
+| 
+| 
+
+:Audience: Intermediate programmer / Advanced programmer
+:Language: English
+:Time: Sep 14 13:40-14:10
+:Room: Room A0712 (En1)
+:Topic: Databases
+
+sebastibe
+---------
+
+
+
+.. figure:: /_static/speakers/sebastibe.jpg
+   :alt: sebastibe
+
+
+http://locarise.com
+
+| Sébastien is the CEO and Co-founder of Locarise, a Japanese startup building an analytics service for bricks and mortar stores. He is working with Python for the last 6 years with a focus on REST and real-time APIs, machine learning and connecting things to the internet.
 
 
 .. _session-14-1340-RoomA0762(En2)-en:
@@ -292,6 +325,32 @@ zeeg
 | I generally care about productivity & tooling, testing, and release processes.
 
 
+.. _session-14-1730-RoomA0712(En1)-en:
+
+Go for Pythonistas
+==================
+| "Go" is a quite contemporary programming language which is strongly inspired by our great language Python. I will present pros/cons of both Python and Go and introduction of Go from Python perspective so that all Pythonistas would have an extra choice to solve speed and concurrency oriented problems.
+
+:Audience: Beginning programmer / Intermediate programmer
+:Language: English
+:Time: Sep 14 17:30-18:20
+:Room: Room A0712 (En1)
+:Topic: Python libraries and extensions / Programming Tools
+
+Yoshifumi Yamaguchi
+-------------------
+
+
+
+.. figure:: /_static/speakers/yoshifumiyamaguchi.png
+   :alt: Yoshifumi Yamaguchi
+
+
+http://goo.gl/WxA9d
+
+| Yoshi Yamaguchi is a infrastructure and Python/Go developer with 5 years of experience using Python. He currently works full time, including development of command line tools, mock applications for customers and partners, data analysis using Python and Go. Yoshi is co-organizer of one of Go user groups in Tokyo.
+
+
 .. _session-14-1730-RoomA0762(En2)-en:
 
 Running your Python applications on Google Compute Engine
@@ -399,25 +458,6 @@ http://www.ianlewis.org/
 | communities though events.
 
 
-.. _session-15-1300-RoomA0762(En2)-en:
-
-Implementation of pyCUDA, an Example
-====================================
-| Extensions are used to interface C and Python. Python is made more powerful by these extensions. CUDA is the parallel programming API for NVIDIA GPUs. pyCUDA is basically a wrapper for Python to implement CUDA.
-
-:Audience: Beginning programmer
-:Language: English
-:Time: Sep 15 13:00-13:50
-:Room: Room A0762 (En2)
-:Topic: Python libraries and extensions / Embedding and Extending / Science and Math
-
-adityaatluri
-------------
-
-
-| I am Python, C/C++ geek. I write python code for fun, automating my actions on the internet. My areas of expertise is HPC. I am fluent in CUDA, OpenCL, SSE, AVX, OpenMP, C++ AMP technologies.
-
-
 .. _session-15-1400-RoomA0712(En1)-en:
 
 django CMS 3
@@ -469,21 +509,28 @@ http://www.mozo.jp/
 
 .. _session-15-1530-RoomA0712(En1)-en:
 
-IPython for interactive python
-==============================
-| This talk aims to introduce some very cool, useful and amazing features that IPython notebook has to offer that makes writing python programs both fun and interactive.
+Does Python dream of being unleashed?
+=====================================
+| I'll talk about the new VM-based backends for Google App Engine, which allows you to use any Python C modules including scipy and sqlite, as well as higher memory and CPUs with your App Engine application. Come and watch the unleashed Python in person!
 
-:Audience: Beginning programmer
+:Audience: Intermediate programmer
 :Language: English
 :Time: Sep 15 15:30-16:20
 :Room: Room A0712 (En1)
-:Topic: Programming Tools
+:Topic: Science and Math / Web-based Systems / App Engine Python
 
-KonarkModi
-----------
+Takashi Matsuo
+--------------
 
 
-| Konark Modi works as Assistant Manager for Website Operations @ MakeMyTrip.com. Major work focus areas include Designing/Writing/Implementing/Maintaining tools for monitoring/alerting purposes. Python/Django are the primary languages that is used in daily operations. Apart from this loves to interact with new technologies and keep updated with the latest happenings in the tech. space.
+
+.. figure:: /_static/speakers/takashimatsuo.jpg
+   :alt: Takashi Matsuo
+
+
+http://google.com/+TakashiStevelandMatsuo
+
+| Takashi Matsuo is a developer programs engineer for Google App Engine. He joined Google in 2010 after three years as a Google App Engine Guru in Japan, and two years as a manager of Tokyo GTUG. He is an original author of a web framework named “Kay”, made specifically for Google App Engine.
 
 
 .. _session-15-1530-RoomA0762(En2)-en:
