@@ -78,7 +78,12 @@ Please join us if anything interesting!
 
      - `@aodag <http://twitter.com/aodag>`_
 
-   * - (Topic Unknown)
+   * - | Mercurial related something
+
+       * Tutorial for begenners.
+       * Let's use evolve extensions (hg 2.8 or 2.9)
+       * Let's fix of Mercurial related products.
+
      - `@troter <http://twitter.com/troter>`_
 
    * - | ESPN Athlete API

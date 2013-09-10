@@ -81,7 +81,10 @@ http://connpass.com/event/3403/ で登録された sprint の一覧です。
 
      - `@aodag <http://twitter.com/aodag>`_
 
-   * - 内容不明
+   * - | Mercurial関連の何か。
+
+       初心者向けだったらチュートリアル。ガチ勢は2.8(2.9?)で本体に取り込まれると噂のevolveエクステンションをさわってみたり、Mercurial関連プロダクトのバグ修正したり。
+
      - `@troter <http://twitter.com/troter>`_
 
    * - | ESPN Athlete API
@@ -96,6 +99,11 @@ http://connpass.com/event/3403/ で登録された sprint の一覧です。
 
      - `@hktechno <http://twitter.com/hktechno>`_
 
+   * - | 日本語辞典webアプリを作ろう
+
+       Pythonを始めて間もないので，技術的に劣るところもありますが，興味のある方がおりましたら，よろしくお願い致します．
+
+     - `@SamuraiN0101 <http://twitter.com/SamuraiN0101>`_
 
 よくある質問(FAQ)
 =================
