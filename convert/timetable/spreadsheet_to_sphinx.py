@@ -252,8 +252,7 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
             cols[ROOM_IDX_MAP[row.room]] = data
         else:
             cols[1:] = [data] * 5
-            if row.start.day == 15:
-                cols[ROOM_IDX_MAP['Hall']] = ''
+            cols[ROOM_IDX_MAP['Hall']] = ''
 
     for t in sorted(results):
         writers[t.date()].writerow(results[t])
