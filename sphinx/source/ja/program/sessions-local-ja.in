@@ -133,28 +133,28 @@ https://github.com/knzm
 
 .. _session-14-1340-RoomA0765(Ja2)-ja:
 
-FreeCADとParaViewによる統合計算環境
-===================================
-| Pythonスクリプトを用いて、FreeCADによるプリプロセッシングと、ParaViewによるポストプロセッシング、そして計算プログラムを統合した計算環境を構築した事例を紹介する。
+Python ユーザのための構成管理入門
+=================================
+| ソフトウェアを開発・提供する上で、環境構築はかならず必要となる作業のひとつです。本発表では Chef や Fabric などのツールを用いて構成管理を行う方法をご紹介します。
 
-:対象: 初心者
+:対象: 中級者 / 上級者
 :言語: 日本語
 :日時: Sep 14 13:40-14:10
 :場所: Room A0765 (Ja2)
-:トピック: 科学や数学
+:トピック: ツール / インフラ、自動化
 
-青子守歌
---------
-
-
-
-.. figure:: /_static/speakers/aokomoriuta.png
-   :alt: 青子守歌
+Takeshi KOMIYA
+--------------
 
 
-http://twitter.com/aokomoriuta
 
-| 土木工学/水理学分野における計算力学が専門分野の技術者。最近の研究対象はGPGPUによる粒子法（MPS法）の高速化など。
+.. figure:: /_static/speakers/tkomiya.jpg
+   :alt: Takeshi KOMIYA
+
+
+http://tk0miya.hatenablog.com/
+
+| (株)タイムインターメディア所属。 Perl, Ruby などの LL 言語を経た後 Python にたどり着く。Sphinx に出会うことでドキュメンテーションツールの開発に興味を持ち、各種 Sphinx プラグインや blockdiag シリーズをリリース。
 
 
 .. _session-14-1420-RoomA0715(Ja1)-ja:
