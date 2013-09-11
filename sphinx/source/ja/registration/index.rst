@@ -9,11 +9,14 @@
 PyCon APAC への参加登録
 =======================================
 
-|register|
+..
+    |register|
 
-.. |register| image:: /_static/register.png
-   :alt: REGISTER NOW
-   :target: http://connpass.com/event/2703/
+    .. |register| image:: /_static/register.png
+       :alt: REGISTER NOW
+       :target: http://connpass.com/event/2703/
+
+**参加登録の受付は終了致しました。**
 
 PyCon APAC の参加費用は「6,000円」です。
 一般の発表者もチケットが必要となります。
@@ -62,11 +65,14 @@ Patron スポンサー(10,000円)は以下を含んでいます。
 PyCon APAC Party への参加登録
 =============================
 
-|party|
+..
+    |party|
 
-.. |party| image:: /_static/party.png
-   :alt: BUY a PARTY Tickets
-   :target: http://connpass.com/event/2921/
+    .. |party| image:: /_static/party.png
+       :alt: BUY a PARTY Tickets
+       :target: http://connpass.com/event/2921/
+
+**事前登録の受付は終了致しました。**
 
 1日目(9月14日)の夜には PyCon APAC 2013 Party が開催されます。
 Party への参加費用は「6,000円」です。

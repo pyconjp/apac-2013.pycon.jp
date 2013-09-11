@@ -22,10 +22,6 @@ Upcoming Milestones
 .. list-table::
    :widths: 20 80
 
-   * - September 5
-     - :doc:`/venue/party` advance ticket registration end
-   * - September 10
-     - :doc:`Lightning Talks </speakers/lightningtalks>` registration end
    * - September 14, 15
      - :doc:`PyCon APAC 2013 </program/index>`
    * - September 16

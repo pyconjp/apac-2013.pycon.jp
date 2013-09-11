@@ -5,11 +5,14 @@
 PyCon APAC 註冊
 =======================================
 
-|register|
+..
+    |register|
 
-.. |register| image:: /_static/register.png
-   :alt: REGISTER NOW
-   :target: http://connpass.com/event/2703/
+    .. |register| image:: /_static/register.png
+       :alt: REGISTER NOW
+       :target: http://connpass.com/event/2703/
+
+**Conference Day registration was closed.**
 
 PyCon APAC 註冊費率 為「日幣 6,000 圓」。
 
@@ -37,11 +40,14 @@ Patron Sponsorship fee is expected to be used as "travel support", "student tick
 PyCon APAC Party registraiton
 =============================
 
-|party|
+..
+    |party|
 
-.. |party| image:: /_static/party.png
-   :alt: BUY a PARTY Tickets
-   :target: http://connpass.com/event/2921/
+    .. |party| image:: /_static/party.png
+       :alt: BUY a PARTY Tickets
+       :target: http://connpass.com/event/2921/
+
+**Party pre-registration was closed.**
 
 We will hold PyCon APAC 2013 Party at night of Day 1(September 14).
 Party registration fee is “6,000 JPY”.

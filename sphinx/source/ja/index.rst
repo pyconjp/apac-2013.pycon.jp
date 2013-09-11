@@ -20,10 +20,6 @@
 .. list-table::
    :widths: 20 80
 
-   * - 9月 5日
-     - :doc:`/ja/venue/party` 前売りチケット販売終了
-   * - 9月 10日
-     - :doc:`Lightning Talks </ja/speakers/lightningtalks>` 受付終了
    * - 9月 13日
      - :doc:`PyCon APAC 2013 チュートリアル </ja/program/tutorials>`
    * - 9月 14日, 15日

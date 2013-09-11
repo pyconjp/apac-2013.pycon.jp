@@ -18,7 +18,7 @@ Day1 : 2013/9/14 (Sat)
 
 About party
 ~~~~~~~~~~~~
-Starting at 7pm on Day1 (Sept. 14th), the After-Party will begin at a different venue. For more information and to register, check out the registration page !! => :doc:`../registration/index`
+Starting at 7pm on Day1 (Sept. 14th), the After-Party will begin at a different venue. :doc:`/venue/party`
 
 .. _timetable-day2-en:
 
