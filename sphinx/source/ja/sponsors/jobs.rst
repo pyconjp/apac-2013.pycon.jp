@@ -25,6 +25,26 @@ Platinum Sponsor
 
 現在業容拡大につき、エンジニアの採用活動に、積極的に取り組んでいます。Pythonを使ってシステム開発をしたい方、もしくは弊社事業に興味がある方はぜひご連絡ください！
 
+|Basho|
+-------
+- Basho
+- http://basho.com
+
+.. |basho| image:: /_themes/pycon_apac_2013_theme/static/image/logo_basho.png
+   :target: http://basho.com
+   :alt: Basho
+
+Basho ジャパンでは自社製品の Riak / Riak CS を使って頂いているお客様のサポートを行うエンジニアを募集しております。
+
+以下の項目で弊社に興味を持った人は是非連絡ください。
+
+- Erlang/OTP で書かれた製品のサポートに興味がある
+- 分散データベース・大規模クラスタのサポートに興味がある
+- 大型案件サポートの効率化に興味がある
+- 開発者を影で支える職業に興味がある
+- テストの自動化や検証の自動化などに興味がある
+- chef / ansible に興味がある
+- "a2srY3NAYmFzaG8uY29t" が解読できる
 
 Silver Sponsor
 ==============
