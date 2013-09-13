@@ -73,4 +73,4 @@ PyCon APAC in Japan 最後のスピーカー募集、今年最後のチャンス
 
 Lightning Talks 応募フォーム
 ===============================
-`LT の応募はこちらから <https://docs.google.com/forms/d/1AqLKB04u_bnD_0_LlniSeCBWB9yt6hGX8uXiDYJHgxE/viewform>`_
+Lightning Talks の募集は終了しました。

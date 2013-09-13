@@ -63,4 +63,4 @@ Notice
 
 Lightning Talks Registration Form
 =================================
-`LT registration <https://docs.google.com/forms/d/1AqLKB04u_bnD_0_LlniSeCBWB9yt6hGX8uXiDYJHgxE/viewform>`_
+Lightning Talks application has ended.

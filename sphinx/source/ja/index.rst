@@ -36,7 +36,7 @@ Lightning Talks のプログラムを公開しました
 
 LT のプログラムを公開しました。
 
-少しだけ枠があるので継続して募集しています。詳細は :doc:`/ja/speakers/lightningtalks` をご覧ください。
+詳細は :doc:`/ja/speakers/lightningtalks` をご覧ください。
 
 
 当日スタッフの募集は終了しました
