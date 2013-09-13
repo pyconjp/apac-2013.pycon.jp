@@ -4,7 +4,7 @@
 基調講演,Keynote,`基調講演:Georg Brandl <../speakers/keynote.html>`_,`Keynote: Georg Brandl <../speakers/keynote.html>`_,Key,9/14,9/14/2013 10:00:00,9/14/2013 10:50:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/14,9/14/2013 10:50:00,9/14/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 パッケージングの今と未来,パッケージングの今と未来,,,日本語,9/14,9/14/2013 11:10:00,9/14/2013 12:00:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),aodag,aodag,ATSUSHI,Odagiri,aodagx@gmail.com,http://aodag.posthaven.com,"pylonsproject.jp
-パーフェクトPython",http://2012.pycon.jp/_images/aodag.png,,"Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
+パーフェクトPython",http://2012.pycon.jp/_images/aodag.png,aodag.png,"Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
 Python3.4に向けたパッケージングツールの現状と、現在利用可能なパッケージング方法について解説します。","パッケージングの現在
 setuptools/distribute,egg,pypi
 
