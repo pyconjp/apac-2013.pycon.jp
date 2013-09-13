@@ -2,11 +2,14 @@
  Lightning Talks
 =================
 
-:日時: Sep 15 17:40-18:30
+:日時: Sep 15 17:40-18:40
 :場所: ホール
 
 Talks
 ======
+トークは、以下の順番で行います。
+スピーカーを招集しますので、開始時刻より前にホールにお越しください。
+
 Announce from PylonsprojectJP
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 :Speaker: aodag @pylonsproject.jp
@@ -41,6 +44,16 @@ History of popinfo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 :Speaker: Motohiro Ueki
 :URL: http://iridge.jp/rec/
+
+gargant.dispatch, a flexible dispatcher for WSGI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:Speaker: hirokiky
+:URL: http://hirokiky.org/
+
+PEP8 and autopep8
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:Speaker: Hideo Hattori
+:URL: http://twitter.com/hhatto
 
 Lightning Talks 発表者募集
 ==========================
