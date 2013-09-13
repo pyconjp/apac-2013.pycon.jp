@@ -18,6 +18,7 @@ connpassで参加済みの方は以下のURLで受付票が確認できます。
 
 - Normal ticket: http://connpass.com/event/2703/ticket/
 - Patron Sponsor: http://connpass.com/event/2704/ticket/
+- Tutorial: http://connpass.com/event/3127/ticket/
 
 カンファレンス、開発Sprint会場
 ==============================
