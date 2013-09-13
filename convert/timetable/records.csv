@@ -4,7 +4,7 @@
 基調講演,Keynote,`基調講演:Georg Brandl <../speakers/keynote.html>`_,`Keynote: Georg Brandl <../speakers/keynote.html>`_,Key,9/14,9/14/2013 10:00:00,9/14/2013 10:50:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/14,9/14/2013 10:50:00,9/14/2013 11:10:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 パッケージングの今と未来,パッケージングの今と未来,,,日本語,9/14,9/14/2013 11:10:00,9/14/2013 12:00:00,Room A0715 (Ja1),Japanese; Room A0715 (Ja1),aodag,aodag,ATSUSHI,Odagiri,aodagx@gmail.com,http://aodag.posthaven.com,"pylonsproject.jp
-パーフェクトPython",,,"Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
+パーフェクトPython",http://2012.pycon.jp/_images/aodag.png,,"Pythonライブラリのパッケージング、配布方法は現在も状況がめまぐるしく変化し、どの方法でどのツールを使うのかわかりにくくなっています。
 Python3.4に向けたパッケージングツールの現状と、現在利用可能なパッケージング方法について解説します。","パッケージングの現在
 setuptools/distribute,egg,pypi
 
@@ -641,6 +641,6 @@ I embarked on a path of packaging all-the-things. These packages were released o
 I want to share how I package, how I test, how I document, and my setup for ensuring that the code is PEP compliant.",,,
 PyCon APAC: Past and Future,PyCon APAC: Past and Future,PyCon APAC: Past and Future,PyCon APAC: Past and Future,英語,9/15,9/15/2013 16:30:00,9/15/2013 17:20:00,Room A0762 (En2),English; Room A0762 (En2),,,,,,,,,,,,,,,,,,,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 17:20:00,9/15/2013 17:40:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
-Lightning Talks,Lightning Talks,:doc:`../speakers/lightningtalks`,:doc:`../speakers/lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:30:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
-Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:30:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+Lightning Talks,Lightning Talks,:doc:`../speakers/lightningtalks`,:doc:`../speakers/lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:40:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
+Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:40:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 スプリント,Spints,Sprint,Sprint,Key,9/16,9/16/2013 10:00:00,9/16/2013 18:00:00,,Key Event; Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
