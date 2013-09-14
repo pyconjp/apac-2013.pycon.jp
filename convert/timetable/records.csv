@@ -390,7 +390,7 @@ READMEに従えばAnsibleをすぐに試せるリポジトリを発表前まで�
 逆に想定対象外の方(参加してもおそらく物足りないだろうと感じる人)は以下のような人になります。
    - 現時点でChefやPuppetなどの構成管理ツールを仕事で目一杯使っていて、より実戦的なノウハウを求めている人
    - 数千・数万単位のサーバの自動構築を考えている人",,,
-How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,,,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,"This talk is about how the Bitbucket team at Atlassian works from the
+How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,"This talk is about how the Bitbucket team at Atlassian works from the
 perspective of its developers. It talks about our workflows, how we
 write our code and what tools are involved.
 
