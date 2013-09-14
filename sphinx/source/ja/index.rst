@@ -28,6 +28,19 @@
      - :doc:`PyCon APAC 2013 スプリント </ja/program/sprint>`
 
 
+YouTube ライブ配信中！
+========================
+
+* ライブ配信しています！
+  http://www.youtube.com/user/PyConJP/videos?flow=grid&view=2&live_view=501
+
+.. raw:: html
+
+   <iframe width="480" height="300" src="http://www.youtube.com/embed/njj9waa-jJg" frameborder="0" allowfullscreen></iframe>
+
+* 終了セッションも閲覧できますよ。
+  http://www.youtube.com/user/PyConJP/videos?flow=grid&view=0
+
 おしらせ
 ========
 
