@@ -390,27 +390,26 @@ READMEに従えばAnsibleをすぐに試せるリポジトリを発表前まで�
 逆に想定対象外の方(参加してもおそらく物足りないだろうと感じる人)は以下のような人になります。
    - 現時点でChefやPuppetなどの構成管理ツールを仕事で目一杯使っていて、より実戦的なノウハウを求めている人
    - 数千・数万単位のサーバの自動構築を考えている人",,,
-AR Drone Hacking with python,AR Drone Hacking with python,,,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),Kim Yong,Kim Yong,Kim Yong,Lim,limkimyong@gmail.com,,System Engineer/Sysadmin Geek,,,Hacking and Extending AR Drone with python,"Parrots AR Drone runs on a customized linux system which makes it an ideal device for some python hacking. With the right tools it is possible to convert this remote control drone to an autonomous drone.
+How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,,,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,"This talk is about how the Bitbucket team at Atlassian works from the
+perspective of its developers. It talks about our workflows, how we
+write our code and what tools are involved.
 
-- What makes the Parrots AR Drone ideal for Python hackers?
+Specifically we will focus on the role Bitbucket itself plays in our
+day to day work. As developers building a service aimed directly at
+software development, we are in a unique and privileged position of
+being our own target audience. At the end of day, the features we add
+to the site should be things we need ourselves.
 
-The Parrots AR Drone runs on linux and allows shell access to the drone.
-A SDK was released for users to tinker with the drone's sub systems and control
-https://projects.ardrone.org/ Subsequently, python libs are created to control the drone via 
-the api.
+I'll be talking about the basics of distributed version control and
+how the power of DVCS (Git in particular) has become fundamental to
+the way we work. In addition to that I'll also be going over the
+basics of using pull requests for code review, fine grained branch
+permissions within a central repository and other features of
+Bitbucket.
 
-- What kind of tools do you use to control the Drone? python-ardrone. http://github.com/venthur/python-ardroneautopylot from http://home.wlu.edu/~levys/software/ardrone_autopylot/ 
-
-- For those attending the session, what kind of information or skills will they receive?
-
-For those attending, I will show them how add new features to the the drone with simple hardware hacks
-(no soldering involved). eg(add gps navigation, upload coordinates for the drone to fly by itself). I will bring
-my ardrone for the presentation, so there will be a live demonstration.
-
-Source code will be available in a github or bitbucket repo.
- 
-- Will they be able to buy and control a drone themselves?
-AR drone is available world wide and can be purchase easily vi Ebay or Amazon. It is also available in Japan. ",Python libraries and extensions / ライブラリや拡張,Standard / ふつう (50 min),Intermediate programmer / 中級者,English / 英語,Video recording OK / 可,,,,
+Disclaimer: this is a beginner level talk and heavily focuses on one
+of my company's products. Some parts of it could be regarded as
+promotional, so attend this talk accordingly.",,Programming Tools / ツール,Standard / ふつう (50 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
 Mathematical Optimization and Python,Mathematical Optimization and Python,,,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0762 (En2),English; Room A0762 (En2),likr,likr,洋介,尾上,onoue@likr-lab.com,,"京都で博士課程の学生をしています。
 可視化や最適化の技術を用いた意思決定支援に取り組んでおり、データの分析や可視化、アプリケーションの開発にPythonを使ったり使ってなかったりしています。
 プログラムの高速化にも関心があり、Pythonを使ったGPGPUプログラミングの布教なども時々行っています。",https://www.dropbox.com/s/ffm30y6h2q5goiu/onouepanda.jpg,onouepanda.jpg,"In the field of mathematical optimization, Python is one of the most popular scripting language for modeling realistic problem, analyzing data and building applications. This talk will introduce some mathematical optimization projects related to Python including my own solver software development. ","Mathematical optimization techniques are good tools for solving various realistic problems. Libraries for solving mathematical optimization problems are usually implemented in native programming language such as C, C++ and Fortran. The main interest of mathematical optimization users such as decision makers and scientists is how to solve realistic problems. Native programming languages are often not suited for their usage.
