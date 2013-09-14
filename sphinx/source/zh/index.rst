@@ -25,6 +25,21 @@
      - :doc:`PyCon APAC 2013 Sprint </zh/program/sprint>`
 
 
+YouTube Live Streaming
+========================
+
+* Live streaming here!
+  http://www.youtube.com/user/PyConJP/videos?flow=grid&view=2&live_view=501
+
+.. raw:: html
+
+   <iframe width="480" height="300" src="http://www.youtube.com/embed/njj9waa-jJg" frameborder="0" allowfullscreen></iframe>
+
+
+* You can view any ended session too.
+  http://www.youtube.com/user/PyConJP/videos?flow=grid&view=0
+
+
 最新報導
 ========
 
