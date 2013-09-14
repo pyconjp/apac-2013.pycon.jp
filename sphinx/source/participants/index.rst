@@ -6,6 +6,7 @@
 
 Reception of the day
 =====================
+Reception is 7F. However, the time period of the keynote is 3F.
 
 In order to check in to PyCon JP you will need to bring with you one of the following:
 
