@@ -16,7 +16,14 @@
    ja/index
    zh/index
 
-Upcoming Milestones
+
+.. figure:: /_static/pyconapac2013-group-photo-s.jpg
+   :target: /_static/pyconapac2013-group-photo.jpg
+   :width: 100%
+
+   PyCon APAC 2013 Group Photo
+
+Main Milestones
 ====================
 
 .. list-table::
@@ -26,7 +33,6 @@ Upcoming Milestones
      - :doc:`PyCon APAC 2013 </program/index>`
    * - September 16
      - :doc:`PyCon APAC 2013 Sprint </program/sprint>`
-
 
 YouTube Live Streaming
 ========================

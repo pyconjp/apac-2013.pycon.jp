@@ -13,8 +13,15 @@
    sponsors/index
    program/index
 
-近期時程
-====================
+.. figure:: /_static/pyconapac2013-group-photo-s.jpg
+   :target: /_static/pyconapac2013-group-photo.jpg
+   :width: 100%
+
+   PyCon APAC 2013 合影
+
+
+主要時程
+=========
 
 .. list-table::
    :widths: 20 80
@@ -38,6 +45,7 @@ YouTube Live Streaming
 
 * You can view any ended session too.
   http://www.youtube.com/user/PyConJP/videos?flow=grid&view=0
+
 
 
 最新報導

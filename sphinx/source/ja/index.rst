@@ -14,8 +14,15 @@
    sponsors/index
    program/index
 
-これからのスケジュール
-======================
+
+.. figure:: /_static/pyconapac2013-group-photo-s.jpg
+   :target: /_static/pyconapac2013-group-photo.jpg
+   :width: 100%
+
+   PyCon APAC 2013 集合写真
+
+主要なスケジュール
+====================
 
 .. list-table::
    :widths: 20 80
@@ -26,7 +33,6 @@
      - :doc:`PyCon APAC 2013 </ja/program/index>`
    * - 9月 16日
      - :doc:`PyCon APAC 2013 スプリント </ja/program/sprint>`
-
 
 YouTube ライブ配信中！
 ========================
