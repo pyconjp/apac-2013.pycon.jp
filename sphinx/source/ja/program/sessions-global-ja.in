@@ -378,6 +378,46 @@ http://briandorsey.info
 | I'm a Developer Programs Engineer on the Google Developer Relations team. I help you build cool stuff with our APIs. I focus on our Cloud Platform, especially Compute Engine and Cloud Storage. I love Python and I've taught Python at the University of Washington & spoken at both PyCon US & PyCon Japan.He taught English in Shizuoka-ken from 1997 to 1999. I live in Seattle, WA, USA. 日本語も話せます。よろしくお願いします！
 
 
+.. _session-15-1110-RoomA0712(En1)-ja:
+
+How we use Bitbucket to build Bitbucket
+=======================================
+| This talk is about how the Bitbucket team at Atlassian works from the
+| perspective of its developers. It talks about our workflows, how we
+| write our code and what tools are involved.
+| 
+| Specifically we will focus on the role Bitbucket itself plays in our
+| day to day work. As developers building a service aimed directly at
+| software development, we are in a unique and privileged position of
+| being our own target audience. At the end of day, the features we add
+| to the site should be things we need ourselves.
+| 
+| I'll be talking about the basics of distributed version control and
+| how the power of DVCS (Git in particular) has become fundamental to
+| the way we work. In addition to that I'll also be going over the
+| basics of using pull requests for code review, fine grained branch
+| permissions within a central repository and other features of
+| Bitbucket.
+| 
+| Disclaimer: this is a beginner level talk and heavily focuses on one
+| of my company's products. Some parts of it could be regarded as
+| promotional, so attend this talk accordingly.
+
+:対象: 初心者 / 中級者
+:言語: 英語
+:日時: Sep 15 11:10-12:00
+:場所: Room A0712 (En1)
+:トピック: ツール
+
+Atlassian
+---------
+
+
+https://www.atlassian.com/
+
+| 
+
+
 .. _session-15-1110-RoomA0762(En2)-ja:
 
 Mathematical Optimization and Python
@@ -602,3 +642,33 @@ rhyselsmore
 rhys.io
 
 | Be it arguing about Hypermedia APIs, enjoying a cold ale, or working on some code, I am in my happy place. Engineer at Heroku by day, Hacker by night, I value working with great people, the creation of elegant code, and getting out there and involved in our amazing community.
+
+
+.. _session-15-1630-RoomA0762(En2)-ja:
+
+PyCon APAC: Past and Future
+===========================
+| PyCon APAC is still a relatively new idea and still have huge
+| opportunities for improvement in terms of community participation and
+| also not well known by the community. We will have a short
+| presentation by the past, present and future hosts of PyCon APAC to
+| introduce to the audience the past, present and future of PyCon APAC.
+| 
+| There will also be a short panel discussion with the community leaders
+| of each country to understand better their ideas and vision for PyCon
+| APAC. We are also interested to hear from the audience on what PyCon
+| APAC means to them.
+| 
+| 
+
+:対象: 初心者 / 中級者
+:言語: 英語
+:日時: Sep 15 16:30-17:20
+:場所: Room A0762 (En2)
+:トピック: プロジェクト事例
+
+Iqbal Abdullah,  Liew Beng Keat, Yung-Yu Chen, Manabu Terada
+------------------------------------------------------------
+
+
+| 

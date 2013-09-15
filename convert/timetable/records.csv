@@ -13,7 +13,7 @@ virtualenv,venv,pip,zc.buildout,pkg_resources
 
 関連PEP
 パッケージングの未来
-packaging,wheel,distlib/distil","Python 3k, Packaging Issues / パッケージング",Standard / ふつう (50 min),Intermediate programmer / 中級者,Japanese / 日本語,Video recording OK / 可,,,,
+packaging,wheel,distlib/distil","Python 3k, Packaging Issues / パッケージング",Standard / ふつう (50 min),Intermediate programmer / 中級者,Japanese / 日本語,Video recording OK / 可,,http://www.slideshare.net/aodag/ss-26183017,,
 Pythonプロダクトを活用した開発チーム運営,Pythonプロダクトを活用した開発チーム運営,,,日本語,9/14,9/14/2013 11:10:00,9/14/2013 12:00:00,Room A0765 (Ja2),Japanese; Room A0765 (Ja2),Takahiro Ikeuchi / 池内 孝啓,Takahiro Ikeuchi / 池内 孝啓,Takahiro / 孝啓,Ikeuchi / 池内,takahiro.ikeuchi@gmail.com,http://librabuch.jp/,"株式会社ALBERT (http://www.albert2005.co.jp/)
 「分析力をコアとするマーケティングソリューションカンパニー」
 システム開発部 部長
@@ -32,7 +32,7 @@ Pythonプロダクトを活用した開発チーム運営,Pythonプロダクト�
 
 ## 開発チームでPDCAサイクルを実行する
 
-## 負債を残さない開発プロセスへ",Project Best Practices / プロジェクト事例,Standard / ふつう (50 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",Japanese / 日本語,Video recording OK / 可,,,,
+## 負債を残さない開発プロセスへ",Project Best Practices / プロジェクト事例,Standard / ふつう (50 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",Japanese / 日本語,Video recording OK / 可,,http://www.slideshare.net/iktakahiro/python-in-pycon-apac-2013,,
 Experimentation in porting the Go concurrency model to Python 3,Experimentation in porting the Go concurrency model to Python 3,,,英語,9/14,9/14/2013 11:10:00,9/14/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),benoitc,benoitc,Benoit,Chesneau,benoitc@gunicorn.org,,"Benoît Chesneau is a French web craftsman, living near Paris. He has years of experience in building small and big-scale database backend websites. He is the founder of Enki Multimedia, a company building innovative web services and open-source applications. Benoît Chesneau is the founder of the Refuge project.
 
 Benoît Chesneau is also a PSF member, gunicorn author and Apache CouchDB PMC member & committer.",https://docs.google.com/file/d/0B2gNkR7hgkIRQVRnM1hVX3NlY2c/edit?usp=sharing,benoit.jpg,"Lot of people are trying to port the actor pattern to Python, but this pattern isn't really designed for such languages. On the contrary the Go concurrency model has some attractive points that can be easily ported to Python. This talk will describe the go concurrency model and my own experimentation actually named flower to port it in Python. In this talk you will see how I am using greenlets or generators to handle corountines and optionally use pyuv to manage a non blocking IO poll server.","This talk will describe the Go concurrency model, how I ported it to Python 3 and the tradeoffs  due the nature of the Python runtime. It will highlight some advanced usages of the greenlets, iterators and Futures to bypass the limit of Python. A comparison with the PEP 3156 (async) will be done.
@@ -93,7 +93,7 @@ A trackback from test code in Python may not be helpful because component develo
 
 The practices applied in a project with a collection of web API services are (1) each component implements probing API and (2) reporting bugs with curl input/output while test codes are written in Python.  The talk will cover how they are helpful, how actually implemented and things still not go well.
 
-","Programming Tools / ツール, Project Best Practices / プロジェクト事例",Short / 短め (30 min),Intermediate programmer / 中級者,English / 英語,Video recording OK / 可,,,,
+","Programming Tools / ツール, Project Best Practices / プロジェクト事例",Short / 短め (30 min),Intermediate programmer / 中級者,English / 英語,Video recording OK / 可,,http://www.slideshare.net/torufurukawa/test-failed-then,,
 Enforcing Responsiveness in Web Apps,Enforcing Responsiveness in Web Apps,,,英語,9/14,9/14/2013 13:00:00,9/14/2013 13:30:00,Room A0762 (En2),English; Room A0762 (En2),erikvanzijst,erikvanzijst,Erik,van Zijst,erik.van.zijst@gmail.com,,"Erik has been a passionate software professional for nearly 15 years, subscribing to the idea that software is a craft, not an exact science. He is a senior dev on the Bitbucket team at Atlassian, focussing mostly on the server-side stack. He has a special interest for performance, elegant algorithms and operating systems.",https://seccdn.libravatar.org/avatar/f6bcbb4e3f665e74455bd8c0b4b3afba?d=mm,erikvanzijst.jpeg,"This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
 
 I'll be looking at interrupt-driven techniques to help bring the 95 percentile of the response times of your application closer to the (usually much lower) mean.","This talk explores the challenges of ensuring responsiveness of applications under varying conditions like suddenly increased load, code regressions and problematic user data that reveal code paths with unusually high time complexity.
@@ -119,13 +119,13 @@ Django ORM と SQLAlchemy
 WSGI ミドルウェアと Django ミドルウェア
 フルスタック vs コンポーネント指向
 テスト
-",Web-based Systems / Webシステム,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,,,
+",Web-based Systems / Webシステム,Short / 短め (30 min),Beginning programmer / 初心者,Japanese / 日本語,Video recording OK / 可,,https://speakerdeck.com/knzm/pyramid-karafalse-django-ni-ru-men,,
 Python ユーザのための構成管理入門,Python ユーザのための構成管理入門,,,日本語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0765 (Ja2),Japanese; Room A0765 (Ja2),Takeshi KOMIYA,Takeshi KOMIYA,Takeshi,KOMIYA,i.tkomiya@gmail.com,http://tk0miya.hatenablog.com/,"(株)タイムインターメディア所属。 Perl, Ruby などの LL 言語を経た後 Python にたどり着く。Sphinx に出会うことでドキュメンテーションツールの開発に興味を持ち、各種 Sphinx プラグインや blockdiag シリーズをリリース。",http://2011.pycon.jp/program/images/tk0miya/image_view_fullscreen,tkomiya.jpg,ソフトウェアを開発・提供する上で、環境構築はかならず必要となる作業のひとつです。本発表では Chef や Fabric などのツールを用いて構成管理を行う方法をご紹介します。,"ソフトウェアを開発・提供する上で、環境構築はかならず必要となる作業のひとつです。
 これまでは、手順書をベースとした環境構築を行うことが通例でしたが、ミスを誘発したり、手順が更新されていないなど、必ずしもスムーズにセットアップができていたとはいえません。
 
 本発表では、構成管理ツールである Chef や Puppet、デプロイツールである Fabric や Capistrano を利用した環境構築方法をご紹介します。Infrastructure as Codeの考え方の元、手順書ではなくコードを利用して環境構築を行うことで、ミスやトラブルに遭遇することなく、1台から数万台に至るまでの幅広い環境の構築作業を自動化することができます。
 
-各ツールの違いやハマりポイントなど、実践するにあたっての参考になる情報を共有したいと思います。","Programming Tools / ツール, インフラ、自動化",Short / 短め (30 min),"Intermediate programmer / 中級者, Advanced programmer / 上級者",Japanese / 日本語,Video recording OK / 可,,,,
+各ツールの違いやハマりポイントなど、実践するにあたっての参考になる情報を共有したいと思います。","Programming Tools / ツール, インフラ、自動化",Short / 短め (30 min),"Intermediate programmer / 中級者, Advanced programmer / 上級者",Japanese / 日本語,Video recording OK / 可,,http://www.slideshare.net/TakeshiKomiya/python-26185953,,
 Cassandra for Pythonistas,Cassandra for Pythonistas,,,英語,9/14,9/14/2013 13:40:00,9/14/2013 14:10:00,Room A0712 (En1),English; Room A0712 (En1),sebastibe,sebastibe,Sébastien,Béal,sebastibe@gmail.com,http://locarise.com,"Sébastien is the CEO and Co-founder of Locarise, a Japanese startup building an analytics service for bricks and mortar stores. He is working with Python for the last 6 years with a focus on REST and real-time APIs, machine learning and connecting things to the internet.",https://si0.twimg.com/profile_images/1648440563/id_picture.jpg,sebastibe.jpg,"When it comes to storing a lot of analytics, Apache Cassandra is a popular choice for its write performance and horizontal scalability. After a quick overview of Cassandra data model and paradigms, we will explore our options to interface with it using Python.
 
 ","Cassandra is a distributed NoSQL database management system. Let's see how we can play with it using Python and plug it into our favorite web framework.
@@ -199,7 +199,7 @@ AWSでインフラ構築の自動化ができることをご紹介します。",
 ・デバッグ用Pythonのビルド方法
 
 などなど
-","Python 3k, Python libraries and extensions / ライブラリや拡張",Standard / ふつう (50 min),"Intermediate programmer / 中級者, Advanced programmer / 上級者",Japanese / 日本語,Video recording OK / 可,,,,
+","Python 3k, Python libraries and extensions / ライブラリや拡張",Standard / ふつう (50 min),"Intermediate programmer / 中級者, Advanced programmer / 上級者",Japanese / 日本語,Video recording OK / 可,,https://speakerdeck.com/mopemope/shi-jian-c-kuo-zhang-moziyurukai-fa,,
 Graphillion: Python module for very large sets of graphs,Graphillion: Python module for very large sets of graphs,,,英語,9/14,9/14/2013 15:30:00,9/14/2013 16:20:00,Room A0712 (En1),English; Room A0712 (En1),Takeru Inoue,Takeru Inoue,Takeru,Inoue,takeru.inoue@gmail.com,https://sites.google.com/site/takeruinoue/,Takeru Inoue is an ERATO researcher at Japan science and technology agency. He is also working for a laboratory in a telecommunication company.  He founded several software projects including DNET (power distribution network evaluation tool) and rcdn.info (URL shortening service redirecting to CDN).,http://www-erato.ist.hokudai.ac.jp/html/img/upload/member/img/member0021.jpg,takeruinoue.jpeg,"Graphillion is a Python module to efficiently manipulate a number of,
 even x-illions of, graphs for heavy graph problems like optimization.
 My talk includes the overview as well as interesting case studies
@@ -292,7 +292,7 @@ about mock,about mock,,,日本語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Roo
 ** リファクタリング、バグフィクス。その後
 ** redになるはずのテストがredにならない
 * pythonが抱える闇
-* 動的言語でmockって片手落ちじゃないの?(under progress)","Core Python, Python 3k",Standard / ふつう (50 min),Intermediate programmer / 中級者,Japanese / 日本語,Video recording OK / 可,,,,
+* 動的言語でmockって片手落ちじゃないの?(under progress)","Core Python, Python 3k",Standard / ふつう (50 min),Intermediate programmer / 中級者,Japanese / 日本語,Video recording OK / 可,,http://podhmo.github.io/pycon/slide/index.html?transition=none#/,,
 Go for Pythonistas,Go for Pythonistas,,,英語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Room A0712 (En1),English; Room A0712 (En1),Yoshifumi Yamaguchi,Yoshifumi Yamaguchi,Yoshifumi,Yamaguchi,ymotongpoo@gmail.com,http://goo.gl/WxA9d,"Yoshi Yamaguchi is a infrastructure and Python/Go developer with 5 years of experience using Python. He currently works full time, including development of command line tools, mock applications for customers and partners, data analysis using Python and Go. Yoshi is co-organizer of one of Go user groups in Tokyo.",https://si0.twimg.com/profile_images/3391922735/60c27e707602693085dbb4da2fcc16fa.png,yoshifumiyamaguchi.png,"""Go"" is a quite contemporary programming language which is strongly inspired by our great language Python. I will present pros/cons of both Python and Go and introduction of Go from Python perspective so that all Pythonistas would have an extra choice to solve speed and concurrency oriented problems.","""Go"" is a quite contemporary programming language which is strongly inspired by our great language Python. I will present pros/cons of both Python and Go and introduction of Go from Python perspective so that all Pythonistas would have an extra choice to solve speed and concurrency oriented problems.","Python libraries and extensions / ライブラリや拡張, Programming Tools / ツール",Standard / ふつう (50 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
 Running your Python applications on Google Compute Engine,Running your Python applications on Google Compute Engine,,,英語,9/14,9/14/2013 17:30:00,9/14/2013 18:20:00,Room A0762 (En2),English; Room A0762 (En2),briandorsey,briandorsey,Brian,Dorsey,brian@dorseys.org,http://briandorsey.info,"I'm a Developer Programs Engineer on the Google Developer Relations team. I help you build cool stuff with our APIs. I focus on our Cloud Platform, especially Compute Engine and Cloud Storage. I love Python and I've taught Python at the University of Washington & spoken at both PyCon US & PyCon Japan.He taught English in Shizuoka-ken from 1997 to 1999. I live in Seattle, WA, USA. 日本語も話せます。よろしくお願いします！",http://briandorsey.info/Brian_Dorsey_Bio_Photo.jpg,briandorsey.jpeg,"All the information you need to get started and make architectural decisions for your Python applications. We’ll cover APIs, storage, networking (including load balancing), bootstrapping instances, and orchestrating resources from App Engine. There will be time for questions, lots of code and live demos.
 ","All demos & code in Python.
@@ -390,7 +390,7 @@ READMEに従えばAnsibleをすぐに試せるリポジトリを発表前まで�
 逆に想定対象外の方(参加してもおそらく物足りないだろうと感じる人)は以下のような人になります。
    - 現時点でChefやPuppetなどの構成管理ツールを仕事で目一杯使っていて、より実戦的なノウハウを求めている人
    - 数千・数万単位のサーバの自動構築を考えている人",,,
-How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),,,,,,,,,,"This talk is about how the Bitbucket team at Atlassian works from the
+How we use Bitbucket to build Bitbucket,How we use Bitbucket to build Bitbucket,,,英語,9/15,9/15/2013 11:10:00,9/15/2013 12:00:00,Room A0712 (En1),English; Room A0712 (En1),Atlassian,Atlassian,Atlassian,,,https://www.atlassian.com/,,,,"This talk is about how the Bitbucket team at Atlassian works from the
 perspective of its developers. It talks about our workflows, how we
 write our code and what tools are involved.
 
@@ -629,7 +629,18 @@ I was encountering a large amount of Copy-Paste when rolling my web services. Te
 I embarked on a path of packaging all-the-things. These packages were released on GitHub, added to PyPi, compliant to PEP8, and with full-unit testing. Over the course of adding these packages, I learnt alot about Python, and used the community to keep me honest and motivated, and I have honestly not looked back.
 
 I want to share how I package, how I test, how I document, and my setup for ensuring that the code is PEP compliant.",,,
-PyCon APAC: Past and Future,PyCon APAC: Past and Future,PyCon APAC: Past and Future,PyCon APAC: Past and Future,英語,9/15,9/15/2013 16:30:00,9/15/2013 17:20:00,Room A0762 (En2),English; Room A0762 (En2),,,,,,,,,,,,,,,,,,,,
+PyCon APAC: Past and Future,PyCon APAC: Past and Future,,,英語,9/15,9/15/2013 16:30:00,9/15/2013 17:20:00,Room A0762 (En2),English; Room A0762 (En2),"Iqbal Abdullah,  Liew Beng Keat, Yung-Yu Chen, 寺田学","Iqbal Abdullah,  Liew Beng Keat, Yung-Yu Chen, Manabu Terada",,,,,,,,"PyCon APAC is still a relatively new idea and still have huge
+opportunities for improvement in terms of community participation and
+also not well known by the community. We will have a short
+presentation by the past, present and future hosts of PyCon APAC to
+introduce to the audience the past, present and future of PyCon APAC.
+
+There will also be a short panel discussion with the community leaders
+of each country to understand better their ideas and vision for PyCon
+APAC. We are also interested to hear from the audience on what PyCon
+APAC means to them.
+
+",,Project Best Practices / プロジェクト事例,Standard / ふつう (50 min),"Beginning programmer / 初心者, Intermediate programmer / 中級者",English / 英語,Video recording OK / 可,,,,
 休憩,Break,休憩,Break,,9/15,9/15/2013 17:20:00,9/15/2013 17:40:00,,Japanese; English; Room A0712 (En1); Room A0762 (En2); Room A0715 (Ja1); Room A0765 (Ja2),,,,,,,,,,,,,,,,,,,,
 Lightning Talks,Lightning Talks,:doc:`../speakers/lightningtalks`,:doc:`../speakers/lightningtalks`,Key,9/15,9/15/2013 17:40:00,9/15/2013 18:40:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,
 Closing,Closing,クロージング,Closing,Key,9/15,9/15/2013 18:40:00,9/15/2013 19:00:00,Hall,Key Event; Hall,,,,,,,,,,,,,,,,,,,,

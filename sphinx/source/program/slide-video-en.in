@@ -1,0 +1,28 @@
+
+.. |doc0| image:: /_static/documents.png
+   :target: http://www.slideshare.net/aodag/ss-26183017
+   :alt: Document: パッケージングの今と未来
+
+.. |doc1| image:: /_static/documents.png
+   :target: http://www.slideshare.net/iktakahiro/python-in-pycon-apac-2013
+   :alt: Document: Pythonプロダクトを活用した開発チーム運営
+
+.. |doc2| image:: /_static/documents.png
+   :target: http://www.slideshare.net/torufurukawa/test-failed-then
+   :alt: Document: Test failed, then...
+
+.. |doc3| image:: /_static/documents.png
+   :target: https://speakerdeck.com/knzm/pyramid-karafalse-django-ni-ru-men
+   :alt: Document: Pylons/Pyramid からの Django 逆入門
+
+.. |doc4| image:: /_static/documents.png
+   :target: http://www.slideshare.net/TakeshiKomiya/python-26185953
+   :alt: Document: Python ユーザのための構成管理入門
+
+.. |doc5| image:: /_static/documents.png
+   :target: https://speakerdeck.com/mopemope/shi-jian-c-kuo-zhang-moziyurukai-fa
+   :alt: Document: 実践! Python C拡張モジュール開発
+
+.. |doc6| image:: /_static/documents.png
+   :target: http://podhmo.github.io/pycon/slide/index.html?transition=none#/
+   :alt: Document: about mock
