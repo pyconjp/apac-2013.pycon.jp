@@ -9,10 +9,12 @@
 
    about/index
    registration/index
+   participants/index
    speakers/index
    venue/index
    sponsors/index
    program/index
+   reports/index
    ja/index
    zh/index
 

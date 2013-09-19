@@ -8,10 +8,13 @@
 
    about/index
    registration/index
+   participants/index
    speakers/index
    venue/index
+   venue/party
    sponsors/index
    program/index
+   reports/index
 
 .. figure:: /_static/pyconapac2013-group-photo-s.jpg
    :target: /_static/pyconapac2013-group-photo.jpg

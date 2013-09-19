@@ -1,4 +1,3 @@
-
 =================
  PyCon APAC 2013
 =================
@@ -9,10 +8,12 @@
 
    about/index
    registration/index
+   participants/index
    speakers/index
    venue/index
    sponsors/index
    program/index
+   reports/index
 
 
 .. figure:: /_static/pyconapac2013-group-photo-s.jpg
