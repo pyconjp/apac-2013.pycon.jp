@@ -11,47 +11,47 @@ Talks order is as follows.
 Please come to the hall before LT session starts.
 
 Announce from PylonsprojectJP
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------
 :Speaker: aodag @pylonsproject.jp
 :URL: http://www.pylonsproject.jp/
 
 JSON Schema Validation for the Web
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 :Speaker: Herman Schaaf
 :URL: http://www.ironzebra.com/
 
 Python in the Datawarehouse
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 :Speaker: David Orkin
 :URL: (None)
 
 Fizz and Buzz of Computer Programs in Python
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------
 :Speaker: esehara shigeo
 :URL: http://twitter.com/esehara
 
 NextBiopy X APAC 2014 @TW
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 :Speaker: Liang Bo Wang
 :URL: (None)
 
 Kit Language Compiler
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------
 :Speaker: 落合豪史
 :URL: http://twitter.com/gjo
 
 History of popinfo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------
 :Speaker: Motohiro Ueki
 :URL: http://iridge.jp/rec/
 
 gargant.dispatch, a flexible dispatcher for WSGI
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------
 :Speaker: hirokiky
 :URL: http://hirokiky.org/
 
 PEP8 and autopep8
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------
 :Speaker: Hideo Hattori
 :URL: http://twitter.com/hhatto
 
