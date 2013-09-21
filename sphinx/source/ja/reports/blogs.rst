@@ -36,6 +36,7 @@
 - `PyCon APAC 2013 に参加しました #pyconapac #pyconjp — kashew_nuts-blog <http://kashewnuts.bitbucket.org/2013/09/17/pyconapac2013.html>`_
 - `もふブロ : 今年の PyCon は APAC でした。 <http://blog.livedoor.jp/ricoasax/archives/1580878.html>`_
 - `PyCon APAC 2013 が無事終わったようです #pyconapac #pyconjp — プログラマのネタ帳 二冊目 <http://blog.shomah4a.net/2013/09/20/pycon_apac_2013.html>`_
+- `PyCon APAC 2013 - Ian Lewis <http://www.ianlewis.org/en/pycon-apac-2013>`_
 
 スポンサーによるブログエントリ
 ==============================
