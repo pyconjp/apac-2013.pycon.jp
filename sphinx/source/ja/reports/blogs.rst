@@ -18,6 +18,7 @@
 - `おいぬま日報: PyCon APAC 2013 1日目に行ってきた(2) #pyconapac <http://blogger.lampetty.net/2013/09/pycon-apac-2013-09-14-2.html>`_
 - `おいぬま日報: PyCon APAC 2013 1日目に行ってきた(3) #pyconapac <http://blogger.lampetty.net/2013/09/pycon-apac-2013-09-14-3.html>`_
 - `おいぬま日報: PyCon APAC 2013 2日目に行ってきた(1) #pyconapac <http://blogger.lampetty.net/2013/09/pycon-apac-2013-09-15-1.html>`_
+- `おいぬま日報: PyCon APAC 2013 2日目に行ってきた(2) #pyconapac <http://blogger.lampetty.net/2013/09/pycon-apac-2013-09-15-2.html>`_
 - `PyConAPAC 2013 に行ってきた - 混沌脳内 <http://d.hatena.ne.jp/blaue_fuchs/20130916/1379322614>`_
 - `PyCon APAC 2013 に行ってきました: Addicted To Indentation <http://torufurukawa.blogspot.jp/2013/09/pycon-apac-2013.html>`_
 - `PyCon APAC 2013 のメモ | tsuyuki.makoto <http://www.tsuyukimakoto.com/blog/2013/09/16/pycon_apac_2013/>`_
