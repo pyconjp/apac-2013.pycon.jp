@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    staff
+   payments
 
 Objective
 =========

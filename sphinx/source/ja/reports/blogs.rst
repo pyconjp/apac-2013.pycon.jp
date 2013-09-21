@@ -4,8 +4,13 @@
 
 メディア記事
 ============
+
+- `言語カンファレンスに初めて参加する際のトリセツ～Dropbox開発者も来日『PyCon APAC 2013』運営陣に聞く - エンジニアtype <http://engineer.typemag.jp/article/pycon-apac-2013>`__
+- `『Dropbox』入社3番目のプログラマーが語る「僕らがすべてをPythonで開発してきた理由」～PyCon APAC 2013 - エンジニアtype <http://engineer.typemag.jp/article/dropbox-pycon>`__
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（前編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013.html>`_
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（後編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013_1.html>`_
+
+
 
 参加者によるブログエントリ
 ==========================

@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    staff
+   payments
 
 ●開催趣旨
 ==========
@@ -71,4 +72,10 @@ PyCon JP 2013 は `PyCon JP 実行委員会`_ PyCon APAC 2013 運営チームに
 .. _`PyCon JP 実行委員会`: http://www.pycon.jp/committee.html
 
 チームの詳細やミーティング議事録は :doc:`staff` を参照してください。
+
+
+収支報告
+========
+
+今年度の収支報告は :doc:`payments` をご覧ください。
 
