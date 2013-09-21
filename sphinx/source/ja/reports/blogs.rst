@@ -27,6 +27,13 @@
 - `PyCon APAC 2013 にスピーカーとして参加してきました - プログラマ行進曲第二章 <http://takuan-osho.hatenablog.com/entry/2013/09/18/my-session-slides-at-pycon-apac-2013>`_
 - `PyCon APAC 2013 1日目 - てきとうなメモ <http://boscono.hatenablog.com/entry/2013/09/16/105357>`_
 - `PyCon APAC 2013 2日目 - てきとうなメモ <http://boscono.hatenablog.com/entry/2013/09/16/122938>`_
+- `PyCon APAC 2013 に行ってきましたメモ - 牌語備忘録 - pygo <http://d.hatena.ne.jp/CortYuming/20130916/p1>`_
+- `PyCon APAC 2013 に参加した - ももいろテクノロジー <http://inaz2.hatenablog.com/entry/2013/09/16/100549>`_
+- `PyCon APAC 2013に行ってきた(１日目) - taka512's blog <http://taka512.hatenablog.com/entry/2013/09/14/200511>`_
+- `PyCon APAC 2013に行ってきた(２日目) - taka512's blog <http://taka512.hatenablog.com/entry/2013/09/15/211227>`_
+- `PyCon APAC 1Day に行ってきました。 - Python １年生 <http://karumado.hatenablog.com/entry/2013/09/14/224007>`_
+- `PyCon APAC 2013 カンファレンスデイ1 感想 ＆ メモ - としたにあんの左脳 <http://toshitanian.hatenablog.com/entry/2013/09/14/211739>`_
+- `PyCon 2013行ってきた 9/14 - 忘れないようにメモっとく <http://akiniwa.hatenablog.jp/entry/2013/09/15/190406>`_
 
 スタッフによるブログエントリ
 ============================
