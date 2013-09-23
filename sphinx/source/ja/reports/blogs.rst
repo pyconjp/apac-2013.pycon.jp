@@ -9,8 +9,7 @@
 - `『Dropbox』入社3番目のプログラマーが語る「僕らがすべてをPythonで開発してきた理由」～PyCon APAC 2013 - エンジニアtype <http://engineer.typemag.jp/article/dropbox-pycon>`__
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（前編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013.html>`_
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（後編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013_1.html>`_
-
-
+- `東京でPyCon APACが開催——悪天候にもかかわらず、多数のPythonistaが来場 <http://jp.startup-dating.com/2013/09/pycon-apac-2013>`_
 
 参加者によるブログエントリ
 ==========================
@@ -35,6 +34,9 @@
 - `PyCon APAC 1Day に行ってきました。 - Python １年生 <http://karumado.hatenablog.com/entry/2013/09/14/224007>`_
 - `PyCon APAC 2013 カンファレンスデイ1 感想 ＆ メモ - としたにあんの左脳 <http://toshitanian.hatenablog.com/entry/2013/09/14/211739>`_
 - `PyCon 2013行ってきた 9/14 - 忘れないようにメモっとく <http://akiniwa.hatenablog.jp/entry/2013/09/15/190406>`_
+- `PyCon APAC 2013 in Japan に参加しました | hexacosa.net <http://www.hexacosa.net/blog/detail/153/>`_
+- `PyCON APAC 2013 雑感：ある nakagami の日記：So-netブログ <http://nakagami.blog.so-net.ne.jp/2013-09-16>`_
+- `PyCon APAC 2013 一日目に参加してきました | まったりとlog残し <http://hr-sano.net/blog/2013/09/17/1106/>`_
 
 スタッフによるブログエントリ
 ============================
@@ -45,6 +47,8 @@
 - `もふブロ : 今年の PyCon は APAC でした。 <http://blog.livedoor.jp/ricoasax/archives/1580878.html>`_
 - `PyCon APAC 2013 が無事終わったようです #pyconapac #pyconjp — プログラマのネタ帳 二冊目 <http://blog.shomah4a.net/2013/09/20/pycon_apac_2013.html>`_
 - `PyCon APAC 2013 - Ian Lewis <http://www.ianlewis.org/en/pycon-apac-2013>`_
+- `/var/log/hktechno: PyCon APAC 2013 に参加した <http://blog.hktechno.net/2013/09/pycon-apac-2013.html>`_
+- `PyCon APAC 2013 で当日スタッフをしていました — doing mistakes <http://shkumagai.github.io/blog/2013/09/19/pycon_apac_2013.html>`_
 
 スポンサーによるブログエントリ
 ==============================
