@@ -40,6 +40,7 @@
 - `PyCon APAC 2013 | 生化学シミュレーション研究チーム <http://lbcs.e-cell.org/?p=630>`_
 - `PyCon APAC 2013で発表した結果 <http://blog.kzfmix.com/entry/1380025401>`_
 - `Pycon APAC 2013の感想メモ - arveltの技術メモ <http://arvelt.hatenablog.com/entry/2013/09/25/104253>`_
+- `PyCon APAC 2013 in JAPANに行ってきました | しょーとさーきっと。 <http://short-circuit.jp/2013/09/24/004345>`_
 
 スタッフによるブログエントリ
 ============================
