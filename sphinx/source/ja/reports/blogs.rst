@@ -37,6 +37,9 @@
 - `PyCon APAC 2013 in Japan に参加しました | hexacosa.net <http://www.hexacosa.net/blog/detail/153/>`_
 - `PyCON APAC 2013 雑感：ある nakagami の日記：So-netブログ <http://nakagami.blog.so-net.ne.jp/2013-09-16>`_
 - `PyCon APAC 2013 一日目に参加してきました | まったりとlog残し <http://hr-sano.net/blog/2013/09/17/1106/>`_
+- `PyCon APAC 2013 | 生化学シミュレーション研究チーム <http://lbcs.e-cell.org/?p=630>`_
+- `PyCon APAC 2013で発表した結果 <http://blog.kzfmix.com/entry/1380025401>`_
+- `Pycon APAC 2013の感想メモ - arveltの技術メモ <http://arvelt.hatenablog.com/entry/2013/09/25/104253>`_
 
 スタッフによるブログエントリ
 ============================
@@ -49,6 +52,7 @@
 - `PyCon APAC 2013 - Ian Lewis <http://www.ianlewis.org/en/pycon-apac-2013>`_
 - `/var/log/hktechno: PyCon APAC 2013 に参加した <http://blog.hktechno.net/2013/09/pycon-apac-2013.html>`_
 - `PyCon APAC 2013 で当日スタッフをしていました — doing mistakes <http://shkumagai.github.io/blog/2013/09/19/pycon_apac_2013.html>`_
+- `#yapcasia と #pyconapac 2013のボランティア参加してきた - kfly8の日記 <http://kfly8.hatenablog.com/entry/2013/09/22/144912>`_
 
 スポンサーによるブログエントリ
 ==============================
