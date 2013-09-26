@@ -6,11 +6,12 @@
 
    blogs
    togetter
+   photos
    survey
 
 - 発表スライドとビデオへのリンクは :doc:`../program/timetable` にあります
 - :doc:`blogs`
 - :doc:`togetter`
-- 写真 (TBA)
+- :doc:`photos`
 - :doc:`survey`
 
