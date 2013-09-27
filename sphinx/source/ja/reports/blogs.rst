@@ -54,6 +54,7 @@
 - `/var/log/hktechno: PyCon APAC 2013 に参加した <http://blog.hktechno.net/2013/09/pycon-apac-2013.html>`_
 - `PyCon APAC 2013 で当日スタッフをしていました — doing mistakes <http://shkumagai.github.io/blog/2013/09/19/pycon_apac_2013.html>`_
 - `#yapcasia と #pyconapac 2013のボランティア参加してきた - kfly8の日記 <http://kfly8.hatenablog.com/entry/2013/09/22/144912>`_
+- `PyCon APAC 2013のお手伝いに行ってきました！ : ゼロスタートの広報ブログ <http://pr.zero-start.jp/archives/65764064.html>`_
 
 スポンサーによるブログエントリ
 ==============================
