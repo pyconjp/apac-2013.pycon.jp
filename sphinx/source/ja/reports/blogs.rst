@@ -41,6 +41,7 @@
 - `PyCon APAC 2013で発表した結果 <http://blog.kzfmix.com/entry/1380025401>`_
 - `Pycon APAC 2013の感想メモ - arveltの技術メモ <http://arvelt.hatenablog.com/entry/2013/09/25/104253>`_
 - `PyCon APAC 2013 in JAPANに行ってきました | しょーとさーきっと。 <http://short-circuit.jp/2013/09/24/004345>`_
+- `PyCon APAC 2013に参加してきた | ryo1のつぶやき <http://blog.fly-tux.net/?p=37>`_
 
 スタッフによるブログエントリ
 ============================
@@ -55,7 +56,9 @@
 - `PyCon APAC 2013 で当日スタッフをしていました — doing mistakes <http://shkumagai.github.io/blog/2013/09/19/pycon_apac_2013.html>`_
 - `#yapcasia と #pyconapac 2013のボランティア参加してきた - kfly8の日記 <http://kfly8.hatenablog.com/entry/2013/09/22/144912>`_
 - `PyCon APAC 2013のお手伝いに行ってきました！ : ゼロスタートの広報ブログ <http://pr.zero-start.jp/archives/65764064.html>`_
+- `Event Report: PyCon APAC 2013 | Sweet Remedy <http://www.sweetremedy.org/events-report-pycon-apac-2013-in-japan/>`_
 
 スポンサーによるブログエントリ
 ==============================
 - `[PyCon APAC 2013 in Japan] 無事開催できました - MAMO Press <http://press.marimore.co.jp/2013/09/pycon-apac-2013-in-japan-%E7%84%A1%E4%BA%8B%E9%96%8B%E5%82%AC%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F.html>`_
+- `PyCon APAC 2013!!!!: 素直に思ったまま! <http://ise.goga.co.jp/article/374856014.html>`_
