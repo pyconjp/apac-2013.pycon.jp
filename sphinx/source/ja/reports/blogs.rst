@@ -10,6 +10,8 @@
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（前編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013.html>`_
 - `Dropboxは全部Pythonで信頼性の高いソフトウェアを作った（後編）～PyCon APAC 2013 － Publickey <http://www.publickey1.jp/blog/13/dropboxpythonpycon_apac_2013_1.html>`_
 - `東京でPyCon APACが開催——悪天候にもかかわらず、多数のPythonistaが来場 <http://jp.startup-dating.com/2013/09/pycon-apac-2013>`_
+- `第1回　高エネルギー研究，Dropboxを支えるPythonの力 ─Georg Brandl氏, Rian Hunter氏による基調講演から：PyCon APAC 2013参加レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon_apac2013/0001>`_
+- `第2回　Pythonによる開発運用を助けるツールたち ─パッケージシステム，DataDogでモニタリング，mockを使ったテスト：PyCon APAC 2013参加レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon_apac2013/0002>`_
 
 参加者によるブログエントリ
 ==========================
