@@ -6,7 +6,7 @@
    :maxdepth: 1
 
    staff
-   payments
+   budget
 
 Objective
 =========
@@ -83,3 +83,9 @@ PyCon APAC 2013 is being organized by the `PyCon JP Organizing Committee`_.
 
 
 Refer to :doc:`staff` about the team and meeting minutes archive.
+
+Budget
+========
+
+Please see :doc:`budget` to report this year's budget.
+

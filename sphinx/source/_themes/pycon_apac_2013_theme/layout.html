@@ -26,7 +26,7 @@
     {%- else %}{{ nameslist[-1] }}
     {%- endif %}
 {%- endmacro %}
-{% set is_wide_layout = (_getName('pwd') == 'sponsors' or _getName("") in ('timetable', 'survey')) %}
+{% set is_wide_layout = (_getName('pwd') == 'sponsors' or _getName("") in ('timetable', 'survey', 'budget')) %}
 {% set body_class = 'contents' %}
 {%- if is_wide_layout %}
   {% set body_class = 'contents_without_sidebar' %}

@@ -6,6 +6,7 @@
    :maxdepth: 1
 
    staff
+   budget
 
 目標
 ============
@@ -78,3 +79,9 @@ PyCon APAC 2013 由 `PyCon JP 籌備委員會`_ 所籌備。
 
 
 關於籌備團隊與籌備會議紀錄，請參考 :doc:`staff`\ 。
+
+Budget
+========
+
+Please see :doc:`budget` to report this year's budget.
+
