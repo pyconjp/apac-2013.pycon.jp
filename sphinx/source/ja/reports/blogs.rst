@@ -12,6 +12,13 @@
 - `東京でPyCon APACが開催——悪天候にもかかわらず、多数のPythonistaが来場 <http://jp.startup-dating.com/2013/09/pycon-apac-2013>`_
 - `第1回　高エネルギー研究，Dropboxを支えるPythonの力 ─Georg Brandl氏, Rian Hunter氏による基調講演から：PyCon APAC 2013参加レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon_apac2013/0001>`_
 - `第2回　Pythonによる開発運用を助けるツールたち ─パッケージシステム，DataDogでモニタリング，mockを使ったテスト：PyCon APAC 2013参加レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon_apac2013/0002>`_
+- `第3回　Pythonを便利に使うフレームワーク，ライブラリ ～PyConの楽しみ方：PyCon APAC 2013参加レポート｜gihyo.jp … 技術評論社 <http://gihyo.jp/news/report/01/pycon_apac2013/0003>`__
+
+運営レポート
+============
+
+- `PyCon APAC 2013 in Japanレポート　～第1回 基調講演とプログラムについて：CodeZine <http://codezine.jp/article/detail/7428>`__
+- `PyCon APAC 2013 in Japanレポート　～第2回 プログラム以外の要素：CodeZine <http://codezine.jp/article/detail/7445>`__
 
 参加者によるブログエントリ
 ==========================
